@@ -1,0 +1,20 @@
+[0][NoOp][_SOURCE][]	1	1	2	3	4	6	7	9	10	12	13	15	16
+[1][NoOp][_SINK][]
+[2][NoOp][init_all_tables][/job:localhost/replica:0/task:0/device:GPU:0]	19
+[3][Const][eval_step/Initializer/zeros][/job:localhost/replica:0/task:0/device:CPU:0]	5
+[4][VariableV2][eval_step][/job:localhost/replica:0/task:0/device:CPU:0]	5
+[5][Assign][eval_step/Assign][/job:localhost/replica:0/task:0/device:CPU:0]	18
+[6][Const][mean_1/count/Initializer/zeros][/job:localhost/replica:0/task:0/device:GPU:0]	8
+[7][VariableV2][mean_1/count][/job:localhost/replica:0/task:0/device:GPU:0]	8
+[8][Assign][mean_1/count/Assign][/job:localhost/replica:0/task:0/device:GPU:0]	18
+[9][Const][mean_1/total/Initializer/zeros][/job:localhost/replica:0/task:0/device:GPU:0]	11
+[10][VariableV2][mean_1/total][/job:localhost/replica:0/task:0/device:GPU:0]	11
+[11][Assign][mean_1/total/Assign][/job:localhost/replica:0/task:0/device:GPU:0]	18
+[12][Const][mean/count/Initializer/zeros][/job:localhost/replica:0/task:0/device:GPU:0]	14
+[13][VariableV2][mean/count][/job:localhost/replica:0/task:0/device:GPU:0]	14
+[14][Assign][mean/count/Assign][/job:localhost/replica:0/task:0/device:GPU:0]	18
+[15][Const][mean/total/Initializer/zeros][/job:localhost/replica:0/task:0/device:GPU:0]	17
+[16][VariableV2][mean/total][/job:localhost/replica:0/task:0/device:GPU:0]	17
+[17][Assign][mean/total/Assign][/job:localhost/replica:0/task:0/device:GPU:0]	18
+[18][NoOp][init_2][/job:localhost/replica:0/task:0/device:GPU:0]	19
+[19][NoOp][group_deps_2][/job:localhost/replica:0/task:0/device:GPU:0]	1

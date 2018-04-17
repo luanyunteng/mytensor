@@ -1,0 +1,23 @@
+[2: Const: /job:localhost/replica:0/task:0/device:GPU:0]
+[3: VariableV2: /job:localhost/replica:0/task:0/device:CPU:0]
+[4: IsVariableInitialized: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, VariableV2, 3] no _output_shapes attribute
+[5: Identity: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, IsVariableInitialized, 4] no _output_shapes attribute
+[6: RefSwitch: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, VariableV2, 3] no _output_shapes attribute
+[no, 0, Identity, 5] no _output_shapes attribute
+[7: Identity: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, RefSwitch, 6] no _output_shapes attribute
+[8: Const: /job:localhost/replica:0/task:0/device:CPU:0]
+[9: Switch: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, Const, 8] no _output_shapes attribute
+[no, 0, Identity, 5] no _output_shapes attribute
+[10: Merge: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, Switch, 9] no _output_shapes attribute
+[no, 0, Identity, 7] no _output_shapes attribute
+[11: Add: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, Merge, 10] no _output_shapes attribute
+[no, 0, Const, 2] no _output_shapes attribute
+[12: _Retval: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, Add, 11] no _output_shapes attribute

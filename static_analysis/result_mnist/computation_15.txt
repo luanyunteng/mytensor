@@ -1,0 +1,40 @@
+[2: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[3: Identity: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 2] no _output_shapes attribute
+[4: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[5: Identity: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 4] no _output_shapes attribute
+[6: RealDiv: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, Identity, 5] no _output_shapes attribute
+[no, 0, Identity, 3] no _output_shapes attribute
+[7: VariableV2: /job:localhost/replica:0/task:0/device:CPU:0]
+[8: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[9: Identity: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 8] no _output_shapes attribute
+[10: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[11: Identity: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 10] no _output_shapes attribute
+[12: RealDiv: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, Identity, 11] no _output_shapes attribute
+[no, 0, Identity, 9] no _output_shapes attribute
+[13: Const: /job:localhost/replica:0/task:0/device:GPU:0]
+[14: Greater: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, Identity, 3] no _output_shapes attribute
+[no, 0, Const, 13] no _output_shapes attribute
+[15: Select: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, Greater, 14] no _output_shapes attribute
+[no, 0, RealDiv, 6] no _output_shapes attribute
+[no, 0, Const, 13] no _output_shapes attribute
+[16: Greater: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, Identity, 9] no _output_shapes attribute
+[no, 0, Const, 13] no _output_shapes attribute
+[17: Select: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, Greater, 16] no _output_shapes attribute
+[no, 0, RealDiv, 12] no _output_shapes attribute
+[no, 0, Const, 13] no _output_shapes attribute
+[18: _Retval: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, VariableV2, 7] no _output_shapes attribute
+[19: _Retval: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, Select, 15] no _output_shapes attribute
+[20: _Retval: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, Select, 17] no _output_shapes attribute

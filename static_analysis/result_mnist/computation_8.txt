@@ -1,0 +1,1560 @@
+[2: Const: /job:localhost/replica:0/task:0/device:CPU:0]
+[3: Const: /job:localhost/replica:0/task:0/device:CPU:0]
+[4: Const: /job:localhost/replica:0/task:0/device:GPU:0]
+[5: Const: /job:localhost/replica:0/task:0/device:CPU:0]
+[6: Const: /job:localhost/replica:0/task:0/device:CPU:0]
+[7: Const: /job:localhost/replica:0/task:0/device:CPU:0]
+[8: Const: /job:localhost/replica:0/task:0/device:CPU:0]
+[9: Const: /job:localhost/replica:0/task:0/device:CPU:0]
+[10: StringJoin: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, _Arg, 779] no _output_shapes attribute
+[no, 0, Const, 9] no _output_shapes attribute
+[11: ShardedFilename: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, StringJoin, 10] no _output_shapes attribute
+[no, 0, Const, 4] no _output_shapes attribute
+[no, 0, Const, 8] no _output_shapes attribute
+[12: ShardedFilename: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, StringJoin, 10] no _output_shapes attribute
+[no, 0, Const, 7] no _output_shapes attribute
+[no, 0, Const, 8] no _output_shapes attribute
+[13: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[14: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[15: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[16: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[17: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[18: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[19: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[20: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[21: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[22: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[23: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[24: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[25: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[26: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[27: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[28: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[29: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[30: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[31: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[32: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[33: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[34: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[35: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[36: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[37: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[38: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[39: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[40: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[41: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[42: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[43: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[44: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[45: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[46: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[47: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[48: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[49: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[50: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[51: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[52: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[53: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[54: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[55: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[56: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[57: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[58: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[59: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[60: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[61: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[62: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[63: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[64: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[65: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[66: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[67: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[68: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[69: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[70: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[71: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[72: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[73: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[74: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[75: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[76: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[77: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[78: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[79: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[80: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[81: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[82: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[83: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[84: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[85: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[86: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[87: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[88: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[89: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[90: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[91: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[92: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[93: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[94: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[95: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[96: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[97: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[98: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[99: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[100: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[101: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[102: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[103: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[104: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[105: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[106: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[107: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[108: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[109: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[110: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[111: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[112: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[113: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[114: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[115: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[116: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[117: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[118: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[119: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[120: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[121: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[122: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[123: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[124: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[125: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[126: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[127: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[128: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[129: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[130: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[131: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[132: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[133: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[134: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[135: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[136: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[137: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[138: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[139: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[140: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[141: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[142: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[143: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[144: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[145: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[146: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[147: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[148: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[149: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[150: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[151: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[152: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[153: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[154: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[155: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[156: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[157: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[158: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[159: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[160: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[161: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[162: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[163: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[164: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[165: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[166: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[167: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[168: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[169: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[170: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[171: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[172: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[173: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[174: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[175: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[176: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[177: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[178: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[179: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[180: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[181: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[182: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[183: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[184: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[185: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[186: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[187: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[188: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[189: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[190: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[191: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[192: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[193: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[194: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[195: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[196: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[197: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[198: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[199: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[200: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[201: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[202: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[203: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[204: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[205: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[206: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[207: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[208: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[209: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[210: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[211: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[212: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[213: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[214: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[215: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[216: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[217: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[218: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[219: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[220: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[221: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[222: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[223: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[224: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[225: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[226: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[227: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[228: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[229: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[230: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[231: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[232: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[233: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[234: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[235: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[236: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[237: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[238: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[239: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[240: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[241: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[242: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[243: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[244: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[245: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[246: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[247: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[248: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[249: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[250: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[251: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[252: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[253: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[254: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[255: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[256: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[257: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[258: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[259: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[260: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[261: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[262: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[263: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[264: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[265: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[266: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[267: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[268: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[269: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[270: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[271: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[272: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[273: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[274: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[275: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[276: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[277: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[278: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[279: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[280: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[281: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[282: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[283: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[284: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[285: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[286: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[287: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[288: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[289: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[290: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[291: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[292: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[293: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[294: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[295: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[296: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[297: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[298: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[299: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[300: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[301: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[302: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[303: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[304: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[305: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[306: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[307: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[308: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[309: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[310: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[311: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[312: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[313: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[314: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[315: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[316: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[317: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[318: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[319: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[320: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[321: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[322: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[323: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[324: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[325: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[326: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[327: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[328: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[329: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[330: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[331: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[332: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[333: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[334: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[335: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[336: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[337: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[338: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[339: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[340: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[341: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[342: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[343: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[344: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[345: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[346: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[347: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[348: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[349: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[350: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[351: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[352: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[353: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[354: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[355: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[356: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[357: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[358: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[359: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[360: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[361: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[362: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[363: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[364: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[365: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[366: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[367: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[368: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[369: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[370: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[371: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[372: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[373: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[374: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[375: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[376: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[377: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[378: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[379: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[380: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[381: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[382: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[383: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[384: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[385: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[386: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[387: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[388: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[389: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[390: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[391: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[392: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[393: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[394: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[395: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[396: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[397: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[398: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[399: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[400: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[401: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[402: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[403: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[404: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[405: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[406: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[407: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[408: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[409: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[410: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[411: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[412: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[413: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[414: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[415: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[416: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[417: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[418: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[419: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[420: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[421: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[422: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[423: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[424: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[425: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[426: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[427: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[428: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[429: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[430: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[431: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[432: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[433: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[434: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[435: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[436: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[437: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[438: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[439: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[440: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[441: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[442: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[443: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[444: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[445: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[446: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[447: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[448: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[449: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[450: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[451: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[452: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[453: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[454: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[455: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[456: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[457: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[458: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[459: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[460: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[461: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[462: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[463: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[464: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[465: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[466: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[467: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[468: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[469: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[470: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[471: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[472: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[473: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[474: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[475: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[476: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[477: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[478: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[479: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[480: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[481: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[482: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[483: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[484: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[485: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[486: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[487: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[488: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[489: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[490: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[491: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[492: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[493: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[494: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[495: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[496: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[497: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[498: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[499: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[500: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[501: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[502: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[503: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[504: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[505: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[506: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[507: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[508: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[509: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[510: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[511: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[512: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[513: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[514: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[515: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[516: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[517: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[518: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[519: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[520: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[521: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[522: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[523: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[524: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[525: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[526: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[527: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[528: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[529: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[530: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[531: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[532: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[533: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[534: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[535: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[536: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[537: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[538: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[539: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[540: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[541: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[542: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[543: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[544: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[545: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[546: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[547: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[548: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[549: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[550: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[551: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[552: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[553: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[554: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[555: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[556: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[557: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[558: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[559: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[560: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[561: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[562: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[563: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[564: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[565: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[566: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[567: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[568: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[569: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[570: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[571: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[572: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[573: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[574: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[575: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[576: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[577: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[578: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[579: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[580: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[581: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[582: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[583: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[584: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[585: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[586: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[587: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[588: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[589: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[590: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[591: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[592: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[593: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[594: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[595: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[596: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[597: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[598: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[599: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[600: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[601: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[602: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[603: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[604: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[605: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[606: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[607: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[608: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[609: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[610: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[611: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[612: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[613: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[614: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[615: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[616: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[617: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[618: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[619: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[620: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[621: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[622: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[623: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[624: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[625: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[626: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[627: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[628: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[629: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[630: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[631: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[632: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[633: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[634: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[635: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[636: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[637: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[638: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[639: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[640: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[641: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[642: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[643: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[644: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[645: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[646: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[647: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[648: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[649: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[650: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[651: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[652: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[653: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[654: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[655: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[656: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[657: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[658: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[659: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[660: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[661: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[662: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[663: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[664: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[665: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[666: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[667: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[668: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[669: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[670: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[671: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[672: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[673: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[674: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[675: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[676: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[677: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[678: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[679: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[680: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[681: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[682: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[683: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[684: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[685: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[686: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[687: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[688: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[689: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[690: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[691: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[692: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[693: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[694: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[695: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[696: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[697: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[698: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[699: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[700: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[701: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[702: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[703: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[704: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[705: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[706: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[707: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[708: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[709: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[710: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[711: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[712: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[713: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[714: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[715: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[716: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[717: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[718: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[719: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[720: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[721: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[722: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[723: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[724: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[725: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[726: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[727: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[728: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[729: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[730: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[731: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[732: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[733: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[734: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[735: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[736: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[737: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[738: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[739: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[740: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[741: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[742: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[743: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[744: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[745: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[746: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[747: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[748: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[749: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[750: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[751: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[752: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[753: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[754: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[755: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[756: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[757: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[758: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[759: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[760: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[761: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[762: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[763: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[764: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[765: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[766: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[767: SaveV2: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, ShardedFilename, 11] no _output_shapes attribute
+[no, 0, Const, 3] no _output_shapes attribute
+[no, 0, Const, 2] no _output_shapes attribute
+[no, 0, VariableV2, 757] no _output_shapes attribute
+[no, 0, VariableV2, 758] no _output_shapes attribute
+[no, 0, VariableV2, 756] no _output_shapes attribute
+[no, 0, VariableV2, 755] no _output_shapes attribute
+[no, 0, VariableV2, 751] no _output_shapes attribute
+[no, 0, VariableV2, 752] no _output_shapes attribute
+[no, 0, VariableV2, 750] no _output_shapes attribute
+[no, 0, VariableV2, 749] no _output_shapes attribute
+[no, 0, VariableV2, 759] no _output_shapes attribute
+[no, 0, VariableV2, 760] no _output_shapes attribute
+[no, 0, VariableV2, 753] no _output_shapes attribute
+[no, 0, VariableV2, 754] no _output_shapes attribute
+[no, 0, VariableV2, 745] no _output_shapes attribute
+[no, 0, VariableV2, 746] no _output_shapes attribute
+[no, 0, VariableV2, 744] no _output_shapes attribute
+[no, 0, VariableV2, 743] no _output_shapes attribute
+[no, 0, VariableV2, 739] no _output_shapes attribute
+[no, 0, VariableV2, 740] no _output_shapes attribute
+[no, 0, VariableV2, 738] no _output_shapes attribute
+[no, 0, VariableV2, 737] no _output_shapes attribute
+[no, 0, VariableV2, 747] no _output_shapes attribute
+[no, 0, VariableV2, 748] no _output_shapes attribute
+[no, 0, VariableV2, 741] no _output_shapes attribute
+[no, 0, VariableV2, 742] no _output_shapes attribute
+[no, 0, VariableV2, 731] no _output_shapes attribute
+[no, 0, VariableV2, 732] no _output_shapes attribute
+[no, 0, VariableV2, 730] no _output_shapes attribute
+[no, 0, VariableV2, 729] no _output_shapes attribute
+[no, 0, VariableV2, 735] no _output_shapes attribute
+[no, 0, VariableV2, 736] no _output_shapes attribute
+[no, 0, VariableV2, 733] no _output_shapes attribute
+[no, 0, VariableV2, 734] no _output_shapes attribute
+[no, 0, VariableV2, 725] no _output_shapes attribute
+[no, 0, VariableV2, 726] no _output_shapes attribute
+[no, 0, VariableV2, 724] no _output_shapes attribute
+[no, 0, VariableV2, 723] no _output_shapes attribute
+[no, 0, VariableV2, 719] no _output_shapes attribute
+[no, 0, VariableV2, 720] no _output_shapes attribute
+[no, 0, VariableV2, 718] no _output_shapes attribute
+[no, 0, VariableV2, 717] no _output_shapes attribute
+[no, 0, VariableV2, 727] no _output_shapes attribute
+[no, 0, VariableV2, 728] no _output_shapes attribute
+[no, 0, VariableV2, 721] no _output_shapes attribute
+[no, 0, VariableV2, 722] no _output_shapes attribute
+[no, 0, VariableV2, 713] no _output_shapes attribute
+[no, 0, VariableV2, 714] no _output_shapes attribute
+[no, 0, VariableV2, 712] no _output_shapes attribute
+[no, 0, VariableV2, 711] no _output_shapes attribute
+[no, 0, VariableV2, 707] no _output_shapes attribute
+[no, 0, VariableV2, 708] no _output_shapes attribute
+[no, 0, VariableV2, 706] no _output_shapes attribute
+[no, 0, VariableV2, 705] no _output_shapes attribute
+[no, 0, VariableV2, 715] no _output_shapes attribute
+[no, 0, VariableV2, 716] no _output_shapes attribute
+[no, 0, VariableV2, 709] no _output_shapes attribute
+[no, 0, VariableV2, 710] no _output_shapes attribute
+[no, 0, VariableV2, 701] no _output_shapes attribute
+[no, 0, VariableV2, 702] no _output_shapes attribute
+[no, 0, VariableV2, 700] no _output_shapes attribute
+[no, 0, VariableV2, 699] no _output_shapes attribute
+[no, 0, VariableV2, 695] no _output_shapes attribute
+[no, 0, VariableV2, 696] no _output_shapes attribute
+[no, 0, VariableV2, 694] no _output_shapes attribute
+[no, 0, VariableV2, 693] no _output_shapes attribute
+[no, 0, VariableV2, 703] no _output_shapes attribute
+[no, 0, VariableV2, 704] no _output_shapes attribute
+[no, 0, VariableV2, 697] no _output_shapes attribute
+[no, 0, VariableV2, 698] no _output_shapes attribute
+[no, 0, VariableV2, 689] no _output_shapes attribute
+[no, 0, VariableV2, 690] no _output_shapes attribute
+[no, 0, VariableV2, 688] no _output_shapes attribute
+[no, 0, VariableV2, 687] no _output_shapes attribute
+[no, 0, VariableV2, 683] no _output_shapes attribute
+[no, 0, VariableV2, 684] no _output_shapes attribute
+[no, 0, VariableV2, 682] no _output_shapes attribute
+[no, 0, VariableV2, 681] no _output_shapes attribute
+[no, 0, VariableV2, 691] no _output_shapes attribute
+[no, 0, VariableV2, 692] no _output_shapes attribute
+[no, 0, VariableV2, 685] no _output_shapes attribute
+[no, 0, VariableV2, 686] no _output_shapes attribute
+[no, 0, VariableV2, 677] no _output_shapes attribute
+[no, 0, VariableV2, 678] no _output_shapes attribute
+[no, 0, VariableV2, 676] no _output_shapes attribute
+[no, 0, VariableV2, 675] no _output_shapes attribute
+[no, 0, VariableV2, 671] no _output_shapes attribute
+[no, 0, VariableV2, 672] no _output_shapes attribute
+[no, 0, VariableV2, 670] no _output_shapes attribute
+[no, 0, VariableV2, 669] no _output_shapes attribute
+[no, 0, VariableV2, 679] no _output_shapes attribute
+[no, 0, VariableV2, 680] no _output_shapes attribute
+[no, 0, VariableV2, 673] no _output_shapes attribute
+[no, 0, VariableV2, 674] no _output_shapes attribute
+[no, 0, VariableV2, 665] no _output_shapes attribute
+[no, 0, VariableV2, 666] no _output_shapes attribute
+[no, 0, VariableV2, 664] no _output_shapes attribute
+[no, 0, VariableV2, 663] no _output_shapes attribute
+[no, 0, VariableV2, 659] no _output_shapes attribute
+[no, 0, VariableV2, 660] no _output_shapes attribute
+[no, 0, VariableV2, 658] no _output_shapes attribute
+[no, 0, VariableV2, 657] no _output_shapes attribute
+[no, 0, VariableV2, 667] no _output_shapes attribute
+[no, 0, VariableV2, 668] no _output_shapes attribute
+[no, 0, VariableV2, 661] no _output_shapes attribute
+[no, 0, VariableV2, 662] no _output_shapes attribute
+[no, 0, VariableV2, 653] no _output_shapes attribute
+[no, 0, VariableV2, 654] no _output_shapes attribute
+[no, 0, VariableV2, 652] no _output_shapes attribute
+[no, 0, VariableV2, 651] no _output_shapes attribute
+[no, 0, VariableV2, 647] no _output_shapes attribute
+[no, 0, VariableV2, 648] no _output_shapes attribute
+[no, 0, VariableV2, 646] no _output_shapes attribute
+[no, 0, VariableV2, 645] no _output_shapes attribute
+[no, 0, VariableV2, 655] no _output_shapes attribute
+[no, 0, VariableV2, 656] no _output_shapes attribute
+[no, 0, VariableV2, 649] no _output_shapes attribute
+[no, 0, VariableV2, 650] no _output_shapes attribute
+[no, 0, VariableV2, 641] no _output_shapes attribute
+[no, 0, VariableV2, 642] no _output_shapes attribute
+[no, 0, VariableV2, 640] no _output_shapes attribute
+[no, 0, VariableV2, 639] no _output_shapes attribute
+[no, 0, VariableV2, 635] no _output_shapes attribute
+[no, 0, VariableV2, 636] no _output_shapes attribute
+[no, 0, VariableV2, 634] no _output_shapes attribute
+[no, 0, VariableV2, 633] no _output_shapes attribute
+[no, 0, VariableV2, 643] no _output_shapes attribute
+[no, 0, VariableV2, 644] no _output_shapes attribute
+[no, 0, VariableV2, 637] no _output_shapes attribute
+[no, 0, VariableV2, 638] no _output_shapes attribute
+[no, 0, VariableV2, 627] no _output_shapes attribute
+[no, 0, VariableV2, 628] no _output_shapes attribute
+[no, 0, VariableV2, 626] no _output_shapes attribute
+[no, 0, VariableV2, 625] no _output_shapes attribute
+[no, 0, VariableV2, 631] no _output_shapes attribute
+[no, 0, VariableV2, 632] no _output_shapes attribute
+[no, 0, VariableV2, 629] no _output_shapes attribute
+[no, 0, VariableV2, 630] no _output_shapes attribute
+[no, 0, VariableV2, 621] no _output_shapes attribute
+[no, 0, VariableV2, 622] no _output_shapes attribute
+[no, 0, VariableV2, 620] no _output_shapes attribute
+[no, 0, VariableV2, 619] no _output_shapes attribute
+[no, 0, VariableV2, 615] no _output_shapes attribute
+[no, 0, VariableV2, 616] no _output_shapes attribute
+[no, 0, VariableV2, 614] no _output_shapes attribute
+[no, 0, VariableV2, 613] no _output_shapes attribute
+[no, 0, VariableV2, 623] no _output_shapes attribute
+[no, 0, VariableV2, 624] no _output_shapes attribute
+[no, 0, VariableV2, 617] no _output_shapes attribute
+[no, 0, VariableV2, 618] no _output_shapes attribute
+[no, 0, VariableV2, 609] no _output_shapes attribute
+[no, 0, VariableV2, 610] no _output_shapes attribute
+[no, 0, VariableV2, 608] no _output_shapes attribute
+[no, 0, VariableV2, 607] no _output_shapes attribute
+[no, 0, VariableV2, 603] no _output_shapes attribute
+[no, 0, VariableV2, 604] no _output_shapes attribute
+[no, 0, VariableV2, 602] no _output_shapes attribute
+[no, 0, VariableV2, 601] no _output_shapes attribute
+[no, 0, VariableV2, 611] no _output_shapes attribute
+[no, 0, VariableV2, 612] no _output_shapes attribute
+[no, 0, VariableV2, 605] no _output_shapes attribute
+[no, 0, VariableV2, 606] no _output_shapes attribute
+[no, 0, VariableV2, 597] no _output_shapes attribute
+[no, 0, VariableV2, 598] no _output_shapes attribute
+[no, 0, VariableV2, 596] no _output_shapes attribute
+[no, 0, VariableV2, 595] no _output_shapes attribute
+[no, 0, VariableV2, 591] no _output_shapes attribute
+[no, 0, VariableV2, 592] no _output_shapes attribute
+[no, 0, VariableV2, 590] no _output_shapes attribute
+[no, 0, VariableV2, 589] no _output_shapes attribute
+[no, 0, VariableV2, 599] no _output_shapes attribute
+[no, 0, VariableV2, 600] no _output_shapes attribute
+[no, 0, VariableV2, 593] no _output_shapes attribute
+[no, 0, VariableV2, 594] no _output_shapes attribute
+[no, 0, VariableV2, 585] no _output_shapes attribute
+[no, 0, VariableV2, 586] no _output_shapes attribute
+[no, 0, VariableV2, 584] no _output_shapes attribute
+[no, 0, VariableV2, 583] no _output_shapes attribute
+[no, 0, VariableV2, 579] no _output_shapes attribute
+[no, 0, VariableV2, 580] no _output_shapes attribute
+[no, 0, VariableV2, 578] no _output_shapes attribute
+[no, 0, VariableV2, 577] no _output_shapes attribute
+[no, 0, VariableV2, 587] no _output_shapes attribute
+[no, 0, VariableV2, 588] no _output_shapes attribute
+[no, 0, VariableV2, 581] no _output_shapes attribute
+[no, 0, VariableV2, 582] no _output_shapes attribute
+[no, 0, VariableV2, 573] no _output_shapes attribute
+[no, 0, VariableV2, 574] no _output_shapes attribute
+[no, 0, VariableV2, 572] no _output_shapes attribute
+[no, 0, VariableV2, 571] no _output_shapes attribute
+[no, 0, VariableV2, 567] no _output_shapes attribute
+[no, 0, VariableV2, 568] no _output_shapes attribute
+[no, 0, VariableV2, 566] no _output_shapes attribute
+[no, 0, VariableV2, 565] no _output_shapes attribute
+[no, 0, VariableV2, 575] no _output_shapes attribute
+[no, 0, VariableV2, 576] no _output_shapes attribute
+[no, 0, VariableV2, 569] no _output_shapes attribute
+[no, 0, VariableV2, 570] no _output_shapes attribute
+[no, 0, VariableV2, 561] no _output_shapes attribute
+[no, 0, VariableV2, 562] no _output_shapes attribute
+[no, 0, VariableV2, 560] no _output_shapes attribute
+[no, 0, VariableV2, 559] no _output_shapes attribute
+[no, 0, VariableV2, 555] no _output_shapes attribute
+[no, 0, VariableV2, 556] no _output_shapes attribute
+[no, 0, VariableV2, 554] no _output_shapes attribute
+[no, 0, VariableV2, 553] no _output_shapes attribute
+[no, 0, VariableV2, 563] no _output_shapes attribute
+[no, 0, VariableV2, 564] no _output_shapes attribute
+[no, 0, VariableV2, 557] no _output_shapes attribute
+[no, 0, VariableV2, 558] no _output_shapes attribute
+[no, 0, VariableV2, 549] no _output_shapes attribute
+[no, 0, VariableV2, 550] no _output_shapes attribute
+[no, 0, VariableV2, 548] no _output_shapes attribute
+[no, 0, VariableV2, 547] no _output_shapes attribute
+[no, 0, VariableV2, 543] no _output_shapes attribute
+[no, 0, VariableV2, 544] no _output_shapes attribute
+[no, 0, VariableV2, 542] no _output_shapes attribute
+[no, 0, VariableV2, 541] no _output_shapes attribute
+[no, 0, VariableV2, 551] no _output_shapes attribute
+[no, 0, VariableV2, 552] no _output_shapes attribute
+[no, 0, VariableV2, 545] no _output_shapes attribute
+[no, 0, VariableV2, 546] no _output_shapes attribute
+[no, 0, VariableV2, 537] no _output_shapes attribute
+[no, 0, VariableV2, 538] no _output_shapes attribute
+[no, 0, VariableV2, 536] no _output_shapes attribute
+[no, 0, VariableV2, 535] no _output_shapes attribute
+[no, 0, VariableV2, 531] no _output_shapes attribute
+[no, 0, VariableV2, 532] no _output_shapes attribute
+[no, 0, VariableV2, 530] no _output_shapes attribute
+[no, 0, VariableV2, 529] no _output_shapes attribute
+[no, 0, VariableV2, 539] no _output_shapes attribute
+[no, 0, VariableV2, 540] no _output_shapes attribute
+[no, 0, VariableV2, 533] no _output_shapes attribute
+[no, 0, VariableV2, 534] no _output_shapes attribute
+[no, 0, VariableV2, 523] no _output_shapes attribute
+[no, 0, VariableV2, 524] no _output_shapes attribute
+[no, 0, VariableV2, 522] no _output_shapes attribute
+[no, 0, VariableV2, 521] no _output_shapes attribute
+[no, 0, VariableV2, 527] no _output_shapes attribute
+[no, 0, VariableV2, 528] no _output_shapes attribute
+[no, 0, VariableV2, 525] no _output_shapes attribute
+[no, 0, VariableV2, 526] no _output_shapes attribute
+[no, 0, VariableV2, 517] no _output_shapes attribute
+[no, 0, VariableV2, 518] no _output_shapes attribute
+[no, 0, VariableV2, 516] no _output_shapes attribute
+[no, 0, VariableV2, 515] no _output_shapes attribute
+[no, 0, VariableV2, 511] no _output_shapes attribute
+[no, 0, VariableV2, 512] no _output_shapes attribute
+[no, 0, VariableV2, 510] no _output_shapes attribute
+[no, 0, VariableV2, 509] no _output_shapes attribute
+[no, 0, VariableV2, 519] no _output_shapes attribute
+[no, 0, VariableV2, 520] no _output_shapes attribute
+[no, 0, VariableV2, 513] no _output_shapes attribute
+[no, 0, VariableV2, 514] no _output_shapes attribute
+[no, 0, VariableV2, 505] no _output_shapes attribute
+[no, 0, VariableV2, 506] no _output_shapes attribute
+[no, 0, VariableV2, 504] no _output_shapes attribute
+[no, 0, VariableV2, 503] no _output_shapes attribute
+[no, 0, VariableV2, 499] no _output_shapes attribute
+[no, 0, VariableV2, 500] no _output_shapes attribute
+[no, 0, VariableV2, 498] no _output_shapes attribute
+[no, 0, VariableV2, 497] no _output_shapes attribute
+[no, 0, VariableV2, 507] no _output_shapes attribute
+[no, 0, VariableV2, 508] no _output_shapes attribute
+[no, 0, VariableV2, 501] no _output_shapes attribute
+[no, 0, VariableV2, 502] no _output_shapes attribute
+[no, 0, VariableV2, 493] no _output_shapes attribute
+[no, 0, VariableV2, 494] no _output_shapes attribute
+[no, 0, VariableV2, 492] no _output_shapes attribute
+[no, 0, VariableV2, 491] no _output_shapes attribute
+[no, 0, VariableV2, 487] no _output_shapes attribute
+[no, 0, VariableV2, 488] no _output_shapes attribute
+[no, 0, VariableV2, 486] no _output_shapes attribute
+[no, 0, VariableV2, 485] no _output_shapes attribute
+[no, 0, VariableV2, 495] no _output_shapes attribute
+[no, 0, VariableV2, 496] no _output_shapes attribute
+[no, 0, VariableV2, 489] no _output_shapes attribute
+[no, 0, VariableV2, 490] no _output_shapes attribute
+[no, 0, VariableV2, 481] no _output_shapes attribute
+[no, 0, VariableV2, 482] no _output_shapes attribute
+[no, 0, VariableV2, 480] no _output_shapes attribute
+[no, 0, VariableV2, 479] no _output_shapes attribute
+[no, 0, VariableV2, 475] no _output_shapes attribute
+[no, 0, VariableV2, 476] no _output_shapes attribute
+[no, 0, VariableV2, 474] no _output_shapes attribute
+[no, 0, VariableV2, 473] no _output_shapes attribute
+[no, 0, VariableV2, 483] no _output_shapes attribute
+[no, 0, VariableV2, 484] no _output_shapes attribute
+[no, 0, VariableV2, 477] no _output_shapes attribute
+[no, 0, VariableV2, 478] no _output_shapes attribute
+[no, 0, VariableV2, 469] no _output_shapes attribute
+[no, 0, VariableV2, 470] no _output_shapes attribute
+[no, 0, VariableV2, 468] no _output_shapes attribute
+[no, 0, VariableV2, 467] no _output_shapes attribute
+[no, 0, VariableV2, 463] no _output_shapes attribute
+[no, 0, VariableV2, 464] no _output_shapes attribute
+[no, 0, VariableV2, 462] no _output_shapes attribute
+[no, 0, VariableV2, 461] no _output_shapes attribute
+[no, 0, VariableV2, 471] no _output_shapes attribute
+[no, 0, VariableV2, 472] no _output_shapes attribute
+[no, 0, VariableV2, 465] no _output_shapes attribute
+[no, 0, VariableV2, 466] no _output_shapes attribute
+[no, 0, VariableV2, 457] no _output_shapes attribute
+[no, 0, VariableV2, 458] no _output_shapes attribute
+[no, 0, VariableV2, 456] no _output_shapes attribute
+[no, 0, VariableV2, 455] no _output_shapes attribute
+[no, 0, VariableV2, 451] no _output_shapes attribute
+[no, 0, VariableV2, 452] no _output_shapes attribute
+[no, 0, VariableV2, 450] no _output_shapes attribute
+[no, 0, VariableV2, 449] no _output_shapes attribute
+[no, 0, VariableV2, 459] no _output_shapes attribute
+[no, 0, VariableV2, 460] no _output_shapes attribute
+[no, 0, VariableV2, 453] no _output_shapes attribute
+[no, 0, VariableV2, 454] no _output_shapes attribute
+[no, 0, VariableV2, 763] no _output_shapes attribute
+[no, 0, VariableV2, 764] no _output_shapes attribute
+[no, 0, VariableV2, 762] no _output_shapes attribute
+[no, 0, VariableV2, 761] no _output_shapes attribute
+[no, 0, VariableV2, 765] no _output_shapes attribute
+[no, 0, VariableV2, 766] no _output_shapes attribute
+[no, 0, VariableV2, 447] no _output_shapes attribute
+[no, 0, VariableV2, 448] no _output_shapes attribute
+[no, 0, VariableV2, 446] no _output_shapes attribute
+[no, 0, VariableV2, 445] no _output_shapes attribute
+[no, 0, VariableV2, 430] no _output_shapes attribute
+[no, 0, VariableV2, 429] no _output_shapes attribute
+[no, 0, VariableV2, 432] no _output_shapes attribute
+[no, 0, VariableV2, 431] no _output_shapes attribute
+[no, 0, VariableV2, 422] no _output_shapes attribute
+[no, 0, VariableV2, 421] no _output_shapes attribute
+[no, 0, VariableV2, 424] no _output_shapes attribute
+[no, 0, VariableV2, 423] no _output_shapes attribute
+[no, 0, VariableV2, 434] no _output_shapes attribute
+[no, 0, VariableV2, 433] no _output_shapes attribute
+[no, 0, VariableV2, 436] no _output_shapes attribute
+[no, 0, VariableV2, 435] no _output_shapes attribute
+[no, 0, VariableV2, 426] no _output_shapes attribute
+[no, 0, VariableV2, 425] no _output_shapes attribute
+[no, 0, VariableV2, 428] no _output_shapes attribute
+[no, 0, VariableV2, 427] no _output_shapes attribute
+[no, 0, VariableV2, 414] no _output_shapes attribute
+[no, 0, VariableV2, 413] no _output_shapes attribute
+[no, 0, VariableV2, 416] no _output_shapes attribute
+[no, 0, VariableV2, 415] no _output_shapes attribute
+[no, 0, VariableV2, 406] no _output_shapes attribute
+[no, 0, VariableV2, 405] no _output_shapes attribute
+[no, 0, VariableV2, 408] no _output_shapes attribute
+[no, 0, VariableV2, 407] no _output_shapes attribute
+[no, 0, VariableV2, 418] no _output_shapes attribute
+[no, 0, VariableV2, 417] no _output_shapes attribute
+[no, 0, VariableV2, 420] no _output_shapes attribute
+[no, 0, VariableV2, 419] no _output_shapes attribute
+[no, 0, VariableV2, 410] no _output_shapes attribute
+[no, 0, VariableV2, 409] no _output_shapes attribute
+[no, 0, VariableV2, 412] no _output_shapes attribute
+[no, 0, VariableV2, 411] no _output_shapes attribute
+[no, 0, VariableV2, 394] no _output_shapes attribute
+[no, 0, VariableV2, 393] no _output_shapes attribute
+[no, 0, VariableV2, 396] no _output_shapes attribute
+[no, 0, VariableV2, 395] no _output_shapes attribute
+[no, 0, VariableV2, 402] no _output_shapes attribute
+[no, 0, VariableV2, 401] no _output_shapes attribute
+[no, 0, VariableV2, 404] no _output_shapes attribute
+[no, 0, VariableV2, 403] no _output_shapes attribute
+[no, 0, VariableV2, 398] no _output_shapes attribute
+[no, 0, VariableV2, 397] no _output_shapes attribute
+[no, 0, VariableV2, 400] no _output_shapes attribute
+[no, 0, VariableV2, 399] no _output_shapes attribute
+[no, 0, VariableV2, 386] no _output_shapes attribute
+[no, 0, VariableV2, 385] no _output_shapes attribute
+[no, 0, VariableV2, 388] no _output_shapes attribute
+[no, 0, VariableV2, 387] no _output_shapes attribute
+[no, 0, VariableV2, 378] no _output_shapes attribute
+[no, 0, VariableV2, 377] no _output_shapes attribute
+[no, 0, VariableV2, 380] no _output_shapes attribute
+[no, 0, VariableV2, 379] no _output_shapes attribute
+[no, 0, VariableV2, 390] no _output_shapes attribute
+[no, 0, VariableV2, 389] no _output_shapes attribute
+[no, 0, VariableV2, 392] no _output_shapes attribute
+[no, 0, VariableV2, 391] no _output_shapes attribute
+[no, 0, VariableV2, 382] no _output_shapes attribute
+[no, 0, VariableV2, 381] no _output_shapes attribute
+[no, 0, VariableV2, 384] no _output_shapes attribute
+[no, 0, VariableV2, 383] no _output_shapes attribute
+[no, 0, VariableV2, 370] no _output_shapes attribute
+[no, 0, VariableV2, 369] no _output_shapes attribute
+[no, 0, VariableV2, 372] no _output_shapes attribute
+[no, 0, VariableV2, 371] no _output_shapes attribute
+[no, 0, VariableV2, 362] no _output_shapes attribute
+[no, 0, VariableV2, 361] no _output_shapes attribute
+[no, 0, VariableV2, 364] no _output_shapes attribute
+[no, 0, VariableV2, 363] no _output_shapes attribute
+[no, 0, VariableV2, 374] no _output_shapes attribute
+[no, 0, VariableV2, 373] no _output_shapes attribute
+[no, 0, VariableV2, 376] no _output_shapes attribute
+[no, 0, VariableV2, 375] no _output_shapes attribute
+[no, 0, VariableV2, 366] no _output_shapes attribute
+[no, 0, VariableV2, 365] no _output_shapes attribute
+[no, 0, VariableV2, 368] no _output_shapes attribute
+[no, 0, VariableV2, 367] no _output_shapes attribute
+[no, 0, VariableV2, 354] no _output_shapes attribute
+[no, 0, VariableV2, 353] no _output_shapes attribute
+[no, 0, VariableV2, 356] no _output_shapes attribute
+[no, 0, VariableV2, 355] no _output_shapes attribute
+[no, 0, VariableV2, 346] no _output_shapes attribute
+[no, 0, VariableV2, 345] no _output_shapes attribute
+[no, 0, VariableV2, 348] no _output_shapes attribute
+[no, 0, VariableV2, 347] no _output_shapes attribute
+[no, 0, VariableV2, 358] no _output_shapes attribute
+[no, 0, VariableV2, 357] no _output_shapes attribute
+[no, 0, VariableV2, 360] no _output_shapes attribute
+[no, 0, VariableV2, 359] no _output_shapes attribute
+[no, 0, VariableV2, 350] no _output_shapes attribute
+[no, 0, VariableV2, 349] no _output_shapes attribute
+[no, 0, VariableV2, 352] no _output_shapes attribute
+[no, 0, VariableV2, 351] no _output_shapes attribute
+[no, 0, VariableV2, 338] no _output_shapes attribute
+[no, 0, VariableV2, 337] no _output_shapes attribute
+[no, 0, VariableV2, 340] no _output_shapes attribute
+[no, 0, VariableV2, 339] no _output_shapes attribute
+[no, 0, VariableV2, 330] no _output_shapes attribute
+[no, 0, VariableV2, 329] no _output_shapes attribute
+[no, 0, VariableV2, 332] no _output_shapes attribute
+[no, 0, VariableV2, 331] no _output_shapes attribute
+[no, 0, VariableV2, 342] no _output_shapes attribute
+[no, 0, VariableV2, 341] no _output_shapes attribute
+[no, 0, VariableV2, 344] no _output_shapes attribute
+[no, 0, VariableV2, 343] no _output_shapes attribute
+[no, 0, VariableV2, 334] no _output_shapes attribute
+[no, 0, VariableV2, 333] no _output_shapes attribute
+[no, 0, VariableV2, 336] no _output_shapes attribute
+[no, 0, VariableV2, 335] no _output_shapes attribute
+[no, 0, VariableV2, 322] no _output_shapes attribute
+[no, 0, VariableV2, 321] no _output_shapes attribute
+[no, 0, VariableV2, 324] no _output_shapes attribute
+[no, 0, VariableV2, 323] no _output_shapes attribute
+[no, 0, VariableV2, 314] no _output_shapes attribute
+[no, 0, VariableV2, 313] no _output_shapes attribute
+[no, 0, VariableV2, 316] no _output_shapes attribute
+[no, 0, VariableV2, 315] no _output_shapes attribute
+[no, 0, VariableV2, 326] no _output_shapes attribute
+[no, 0, VariableV2, 325] no _output_shapes attribute
+[no, 0, VariableV2, 328] no _output_shapes attribute
+[no, 0, VariableV2, 327] no _output_shapes attribute
+[no, 0, VariableV2, 318] no _output_shapes attribute
+[no, 0, VariableV2, 317] no _output_shapes attribute
+[no, 0, VariableV2, 320] no _output_shapes attribute
+[no, 0, VariableV2, 319] no _output_shapes attribute
+[no, 0, VariableV2, 306] no _output_shapes attribute
+[no, 0, VariableV2, 305] no _output_shapes attribute
+[no, 0, VariableV2, 308] no _output_shapes attribute
+[no, 0, VariableV2, 307] no _output_shapes attribute
+[no, 0, VariableV2, 298] no _output_shapes attribute
+[no, 0, VariableV2, 297] no _output_shapes attribute
+[no, 0, VariableV2, 300] no _output_shapes attribute
+[no, 0, VariableV2, 299] no _output_shapes attribute
+[no, 0, VariableV2, 310] no _output_shapes attribute
+[no, 0, VariableV2, 309] no _output_shapes attribute
+[no, 0, VariableV2, 312] no _output_shapes attribute
+[no, 0, VariableV2, 311] no _output_shapes attribute
+[no, 0, VariableV2, 302] no _output_shapes attribute
+[no, 0, VariableV2, 301] no _output_shapes attribute
+[no, 0, VariableV2, 304] no _output_shapes attribute
+[no, 0, VariableV2, 303] no _output_shapes attribute
+[no, 0, VariableV2, 290] no _output_shapes attribute
+[no, 0, VariableV2, 289] no _output_shapes attribute
+[no, 0, VariableV2, 292] no _output_shapes attribute
+[no, 0, VariableV2, 291] no _output_shapes attribute
+[no, 0, VariableV2, 282] no _output_shapes attribute
+[no, 0, VariableV2, 281] no _output_shapes attribute
+[no, 0, VariableV2, 284] no _output_shapes attribute
+[no, 0, VariableV2, 283] no _output_shapes attribute
+[no, 0, VariableV2, 294] no _output_shapes attribute
+[no, 0, VariableV2, 293] no _output_shapes attribute
+[no, 0, VariableV2, 296] no _output_shapes attribute
+[no, 0, VariableV2, 295] no _output_shapes attribute
+[no, 0, VariableV2, 286] no _output_shapes attribute
+[no, 0, VariableV2, 285] no _output_shapes attribute
+[no, 0, VariableV2, 288] no _output_shapes attribute
+[no, 0, VariableV2, 287] no _output_shapes attribute
+[no, 0, VariableV2, 274] no _output_shapes attribute
+[no, 0, VariableV2, 273] no _output_shapes attribute
+[no, 0, VariableV2, 276] no _output_shapes attribute
+[no, 0, VariableV2, 275] no _output_shapes attribute
+[no, 0, VariableV2, 266] no _output_shapes attribute
+[no, 0, VariableV2, 265] no _output_shapes attribute
+[no, 0, VariableV2, 268] no _output_shapes attribute
+[no, 0, VariableV2, 267] no _output_shapes attribute
+[no, 0, VariableV2, 278] no _output_shapes attribute
+[no, 0, VariableV2, 277] no _output_shapes attribute
+[no, 0, VariableV2, 280] no _output_shapes attribute
+[no, 0, VariableV2, 279] no _output_shapes attribute
+[no, 0, VariableV2, 270] no _output_shapes attribute
+[no, 0, VariableV2, 269] no _output_shapes attribute
+[no, 0, VariableV2, 272] no _output_shapes attribute
+[no, 0, VariableV2, 271] no _output_shapes attribute
+[no, 0, VariableV2, 254] no _output_shapes attribute
+[no, 0, VariableV2, 253] no _output_shapes attribute
+[no, 0, VariableV2, 256] no _output_shapes attribute
+[no, 0, VariableV2, 255] no _output_shapes attribute
+[no, 0, VariableV2, 262] no _output_shapes attribute
+[no, 0, VariableV2, 261] no _output_shapes attribute
+[no, 0, VariableV2, 264] no _output_shapes attribute
+[no, 0, VariableV2, 263] no _output_shapes attribute
+[no, 0, VariableV2, 258] no _output_shapes attribute
+[no, 0, VariableV2, 257] no _output_shapes attribute
+[no, 0, VariableV2, 260] no _output_shapes attribute
+[no, 0, VariableV2, 259] no _output_shapes attribute
+[no, 0, VariableV2, 246] no _output_shapes attribute
+[no, 0, VariableV2, 245] no _output_shapes attribute
+[no, 0, VariableV2, 248] no _output_shapes attribute
+[no, 0, VariableV2, 247] no _output_shapes attribute
+[no, 0, VariableV2, 238] no _output_shapes attribute
+[no, 0, VariableV2, 237] no _output_shapes attribute
+[no, 0, VariableV2, 240] no _output_shapes attribute
+[no, 0, VariableV2, 239] no _output_shapes attribute
+[no, 0, VariableV2, 250] no _output_shapes attribute
+[no, 0, VariableV2, 249] no _output_shapes attribute
+[no, 0, VariableV2, 252] no _output_shapes attribute
+[no, 0, VariableV2, 251] no _output_shapes attribute
+[no, 0, VariableV2, 242] no _output_shapes attribute
+[no, 0, VariableV2, 241] no _output_shapes attribute
+[no, 0, VariableV2, 244] no _output_shapes attribute
+[no, 0, VariableV2, 243] no _output_shapes attribute
+[no, 0, VariableV2, 230] no _output_shapes attribute
+[no, 0, VariableV2, 229] no _output_shapes attribute
+[no, 0, VariableV2, 232] no _output_shapes attribute
+[no, 0, VariableV2, 231] no _output_shapes attribute
+[no, 0, VariableV2, 222] no _output_shapes attribute
+[no, 0, VariableV2, 221] no _output_shapes attribute
+[no, 0, VariableV2, 224] no _output_shapes attribute
+[no, 0, VariableV2, 223] no _output_shapes attribute
+[no, 0, VariableV2, 234] no _output_shapes attribute
+[no, 0, VariableV2, 233] no _output_shapes attribute
+[no, 0, VariableV2, 236] no _output_shapes attribute
+[no, 0, VariableV2, 235] no _output_shapes attribute
+[no, 0, VariableV2, 226] no _output_shapes attribute
+[no, 0, VariableV2, 225] no _output_shapes attribute
+[no, 0, VariableV2, 228] no _output_shapes attribute
+[no, 0, VariableV2, 227] no _output_shapes attribute
+[no, 0, VariableV2, 214] no _output_shapes attribute
+[no, 0, VariableV2, 213] no _output_shapes attribute
+[no, 0, VariableV2, 216] no _output_shapes attribute
+[no, 0, VariableV2, 215] no _output_shapes attribute
+[no, 0, VariableV2, 206] no _output_shapes attribute
+[no, 0, VariableV2, 205] no _output_shapes attribute
+[no, 0, VariableV2, 208] no _output_shapes attribute
+[no, 0, VariableV2, 207] no _output_shapes attribute
+[no, 0, VariableV2, 218] no _output_shapes attribute
+[no, 0, VariableV2, 217] no _output_shapes attribute
+[no, 0, VariableV2, 220] no _output_shapes attribute
+[no, 0, VariableV2, 219] no _output_shapes attribute
+[no, 0, VariableV2, 210] no _output_shapes attribute
+[no, 0, VariableV2, 209] no _output_shapes attribute
+[no, 0, VariableV2, 212] no _output_shapes attribute
+[no, 0, VariableV2, 211] no _output_shapes attribute
+[no, 0, VariableV2, 198] no _output_shapes attribute
+[no, 0, VariableV2, 197] no _output_shapes attribute
+[no, 0, VariableV2, 200] no _output_shapes attribute
+[no, 0, VariableV2, 199] no _output_shapes attribute
+[no, 0, VariableV2, 190] no _output_shapes attribute
+[no, 0, VariableV2, 189] no _output_shapes attribute
+[no, 0, VariableV2, 192] no _output_shapes attribute
+[no, 0, VariableV2, 191] no _output_shapes attribute
+[no, 0, VariableV2, 202] no _output_shapes attribute
+[no, 0, VariableV2, 201] no _output_shapes attribute
+[no, 0, VariableV2, 204] no _output_shapes attribute
+[no, 0, VariableV2, 203] no _output_shapes attribute
+[no, 0, VariableV2, 194] no _output_shapes attribute
+[no, 0, VariableV2, 193] no _output_shapes attribute
+[no, 0, VariableV2, 196] no _output_shapes attribute
+[no, 0, VariableV2, 195] no _output_shapes attribute
+[no, 0, VariableV2, 182] no _output_shapes attribute
+[no, 0, VariableV2, 181] no _output_shapes attribute
+[no, 0, VariableV2, 184] no _output_shapes attribute
+[no, 0, VariableV2, 183] no _output_shapes attribute
+[no, 0, VariableV2, 174] no _output_shapes attribute
+[no, 0, VariableV2, 173] no _output_shapes attribute
+[no, 0, VariableV2, 176] no _output_shapes attribute
+[no, 0, VariableV2, 175] no _output_shapes attribute
+[no, 0, VariableV2, 186] no _output_shapes attribute
+[no, 0, VariableV2, 185] no _output_shapes attribute
+[no, 0, VariableV2, 188] no _output_shapes attribute
+[no, 0, VariableV2, 187] no _output_shapes attribute
+[no, 0, VariableV2, 178] no _output_shapes attribute
+[no, 0, VariableV2, 177] no _output_shapes attribute
+[no, 0, VariableV2, 180] no _output_shapes attribute
+[no, 0, VariableV2, 179] no _output_shapes attribute
+[no, 0, VariableV2, 166] no _output_shapes attribute
+[no, 0, VariableV2, 165] no _output_shapes attribute
+[no, 0, VariableV2, 168] no _output_shapes attribute
+[no, 0, VariableV2, 167] no _output_shapes attribute
+[no, 0, VariableV2, 158] no _output_shapes attribute
+[no, 0, VariableV2, 157] no _output_shapes attribute
+[no, 0, VariableV2, 160] no _output_shapes attribute
+[no, 0, VariableV2, 159] no _output_shapes attribute
+[no, 0, VariableV2, 170] no _output_shapes attribute
+[no, 0, VariableV2, 169] no _output_shapes attribute
+[no, 0, VariableV2, 172] no _output_shapes attribute
+[no, 0, VariableV2, 171] no _output_shapes attribute
+[no, 0, VariableV2, 162] no _output_shapes attribute
+[no, 0, VariableV2, 161] no _output_shapes attribute
+[no, 0, VariableV2, 164] no _output_shapes attribute
+[no, 0, VariableV2, 163] no _output_shapes attribute
+[no, 0, VariableV2, 150] no _output_shapes attribute
+[no, 0, VariableV2, 149] no _output_shapes attribute
+[no, 0, VariableV2, 152] no _output_shapes attribute
+[no, 0, VariableV2, 151] no _output_shapes attribute
+[no, 0, VariableV2, 142] no _output_shapes attribute
+[no, 0, VariableV2, 141] no _output_shapes attribute
+[no, 0, VariableV2, 144] no _output_shapes attribute
+[no, 0, VariableV2, 143] no _output_shapes attribute
+[no, 0, VariableV2, 154] no _output_shapes attribute
+[no, 0, VariableV2, 153] no _output_shapes attribute
+[no, 0, VariableV2, 156] no _output_shapes attribute
+[no, 0, VariableV2, 155] no _output_shapes attribute
+[no, 0, VariableV2, 146] no _output_shapes attribute
+[no, 0, VariableV2, 145] no _output_shapes attribute
+[no, 0, VariableV2, 148] no _output_shapes attribute
+[no, 0, VariableV2, 147] no _output_shapes attribute
+[no, 0, VariableV2, 134] no _output_shapes attribute
+[no, 0, VariableV2, 133] no _output_shapes attribute
+[no, 0, VariableV2, 136] no _output_shapes attribute
+[no, 0, VariableV2, 135] no _output_shapes attribute
+[no, 0, VariableV2, 126] no _output_shapes attribute
+[no, 0, VariableV2, 125] no _output_shapes attribute
+[no, 0, VariableV2, 128] no _output_shapes attribute
+[no, 0, VariableV2, 127] no _output_shapes attribute
+[no, 0, VariableV2, 138] no _output_shapes attribute
+[no, 0, VariableV2, 137] no _output_shapes attribute
+[no, 0, VariableV2, 140] no _output_shapes attribute
+[no, 0, VariableV2, 139] no _output_shapes attribute
+[no, 0, VariableV2, 130] no _output_shapes attribute
+[no, 0, VariableV2, 129] no _output_shapes attribute
+[no, 0, VariableV2, 132] no _output_shapes attribute
+[no, 0, VariableV2, 131] no _output_shapes attribute
+[no, 0, VariableV2, 114] no _output_shapes attribute
+[no, 0, VariableV2, 113] no _output_shapes attribute
+[no, 0, VariableV2, 116] no _output_shapes attribute
+[no, 0, VariableV2, 115] no _output_shapes attribute
+[no, 0, VariableV2, 122] no _output_shapes attribute
+[no, 0, VariableV2, 121] no _output_shapes attribute
+[no, 0, VariableV2, 124] no _output_shapes attribute
+[no, 0, VariableV2, 123] no _output_shapes attribute
+[no, 0, VariableV2, 118] no _output_shapes attribute
+[no, 0, VariableV2, 117] no _output_shapes attribute
+[no, 0, VariableV2, 120] no _output_shapes attribute
+[no, 0, VariableV2, 119] no _output_shapes attribute
+[no, 0, VariableV2, 106] no _output_shapes attribute
+[no, 0, VariableV2, 105] no _output_shapes attribute
+[no, 0, VariableV2, 108] no _output_shapes attribute
+[no, 0, VariableV2, 107] no _output_shapes attribute
+[no, 0, VariableV2, 98] no _output_shapes attribute
+[no, 0, VariableV2, 97] no _output_shapes attribute
+[no, 0, VariableV2, 100] no _output_shapes attribute
+[no, 0, VariableV2, 99] no _output_shapes attribute
+[no, 0, VariableV2, 110] no _output_shapes attribute
+[no, 0, VariableV2, 109] no _output_shapes attribute
+[no, 0, VariableV2, 112] no _output_shapes attribute
+[no, 0, VariableV2, 111] no _output_shapes attribute
+[no, 0, VariableV2, 102] no _output_shapes attribute
+[no, 0, VariableV2, 101] no _output_shapes attribute
+[no, 0, VariableV2, 104] no _output_shapes attribute
+[no, 0, VariableV2, 103] no _output_shapes attribute
+[no, 0, VariableV2, 90] no _output_shapes attribute
+[no, 0, VariableV2, 89] no _output_shapes attribute
+[no, 0, VariableV2, 92] no _output_shapes attribute
+[no, 0, VariableV2, 91] no _output_shapes attribute
+[no, 0, VariableV2, 82] no _output_shapes attribute
+[no, 0, VariableV2, 81] no _output_shapes attribute
+[no, 0, VariableV2, 84] no _output_shapes attribute
+[no, 0, VariableV2, 83] no _output_shapes attribute
+[no, 0, VariableV2, 94] no _output_shapes attribute
+[no, 0, VariableV2, 93] no _output_shapes attribute
+[no, 0, VariableV2, 96] no _output_shapes attribute
+[no, 0, VariableV2, 95] no _output_shapes attribute
+[no, 0, VariableV2, 86] no _output_shapes attribute
+[no, 0, VariableV2, 85] no _output_shapes attribute
+[no, 0, VariableV2, 88] no _output_shapes attribute
+[no, 0, VariableV2, 87] no _output_shapes attribute
+[no, 0, VariableV2, 74] no _output_shapes attribute
+[no, 0, VariableV2, 73] no _output_shapes attribute
+[no, 0, VariableV2, 76] no _output_shapes attribute
+[no, 0, VariableV2, 75] no _output_shapes attribute
+[no, 0, VariableV2, 66] no _output_shapes attribute
+[no, 0, VariableV2, 65] no _output_shapes attribute
+[no, 0, VariableV2, 68] no _output_shapes attribute
+[no, 0, VariableV2, 67] no _output_shapes attribute
+[no, 0, VariableV2, 78] no _output_shapes attribute
+[no, 0, VariableV2, 77] no _output_shapes attribute
+[no, 0, VariableV2, 80] no _output_shapes attribute
+[no, 0, VariableV2, 79] no _output_shapes attribute
+[no, 0, VariableV2, 70] no _output_shapes attribute
+[no, 0, VariableV2, 69] no _output_shapes attribute
+[no, 0, VariableV2, 72] no _output_shapes attribute
+[no, 0, VariableV2, 71] no _output_shapes attribute
+[no, 0, VariableV2, 58] no _output_shapes attribute
+[no, 0, VariableV2, 57] no _output_shapes attribute
+[no, 0, VariableV2, 60] no _output_shapes attribute
+[no, 0, VariableV2, 59] no _output_shapes attribute
+[no, 0, VariableV2, 50] no _output_shapes attribute
+[no, 0, VariableV2, 49] no _output_shapes attribute
+[no, 0, VariableV2, 52] no _output_shapes attribute
+[no, 0, VariableV2, 51] no _output_shapes attribute
+[no, 0, VariableV2, 62] no _output_shapes attribute
+[no, 0, VariableV2, 61] no _output_shapes attribute
+[no, 0, VariableV2, 64] no _output_shapes attribute
+[no, 0, VariableV2, 63] no _output_shapes attribute
+[no, 0, VariableV2, 54] no _output_shapes attribute
+[no, 0, VariableV2, 53] no _output_shapes attribute
+[no, 0, VariableV2, 56] no _output_shapes attribute
+[no, 0, VariableV2, 55] no _output_shapes attribute
+[no, 0, VariableV2, 42] no _output_shapes attribute
+[no, 0, VariableV2, 41] no _output_shapes attribute
+[no, 0, VariableV2, 44] no _output_shapes attribute
+[no, 0, VariableV2, 43] no _output_shapes attribute
+[no, 0, VariableV2, 34] no _output_shapes attribute
+[no, 0, VariableV2, 33] no _output_shapes attribute
+[no, 0, VariableV2, 36] no _output_shapes attribute
+[no, 0, VariableV2, 35] no _output_shapes attribute
+[no, 0, VariableV2, 46] no _output_shapes attribute
+[no, 0, VariableV2, 45] no _output_shapes attribute
+[no, 0, VariableV2, 48] no _output_shapes attribute
+[no, 0, VariableV2, 47] no _output_shapes attribute
+[no, 0, VariableV2, 38] no _output_shapes attribute
+[no, 0, VariableV2, 37] no _output_shapes attribute
+[no, 0, VariableV2, 40] no _output_shapes attribute
+[no, 0, VariableV2, 39] no _output_shapes attribute
+[no, 0, VariableV2, 26] no _output_shapes attribute
+[no, 0, VariableV2, 25] no _output_shapes attribute
+[no, 0, VariableV2, 28] no _output_shapes attribute
+[no, 0, VariableV2, 27] no _output_shapes attribute
+[no, 0, VariableV2, 18] no _output_shapes attribute
+[no, 0, VariableV2, 17] no _output_shapes attribute
+[no, 0, VariableV2, 20] no _output_shapes attribute
+[no, 0, VariableV2, 19] no _output_shapes attribute
+[no, 0, VariableV2, 30] no _output_shapes attribute
+[no, 0, VariableV2, 29] no _output_shapes attribute
+[no, 0, VariableV2, 32] no _output_shapes attribute
+[no, 0, VariableV2, 31] no _output_shapes attribute
+[no, 0, VariableV2, 22] no _output_shapes attribute
+[no, 0, VariableV2, 21] no _output_shapes attribute
+[no, 0, VariableV2, 24] no _output_shapes attribute
+[no, 0, VariableV2, 23] no _output_shapes attribute
+[no, 0, VariableV2, 438] no _output_shapes attribute
+[no, 0, VariableV2, 437] no _output_shapes attribute
+[no, 0, VariableV2, 440] no _output_shapes attribute
+[no, 0, VariableV2, 439] no _output_shapes attribute
+[no, 0, VariableV2, 442] no _output_shapes attribute
+[no, 0, VariableV2, 441] no _output_shapes attribute
+[no, 0, VariableV2, 444] no _output_shapes attribute
+[no, 0, VariableV2, 443] no _output_shapes attribute
+[no, 0, VariableV2, 14] no _output_shapes attribute
+[no, 0, VariableV2, 13] no _output_shapes attribute
+[no, 0, VariableV2, 16] no _output_shapes attribute
+[no, 0, VariableV2, 15] no _output_shapes attribute
+[768: Identity: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, ShardedFilename, 11] no _output_shapes attribute
+[769: VariableV2: /job:localhost/replica:0/task:0/device:CPU:0]
+[770: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[771: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[772: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[773: VariableV2: /job:localhost/replica:0/task:0/device:CPU:0]
+[774: SaveV2: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, ShardedFilename, 12] no _output_shapes attribute
+[no, 0, Const, 6] no _output_shapes attribute
+[no, 0, Const, 5] no _output_shapes attribute
+[no, 0, VariableV2, 773] no _output_shapes attribute
+[no, 0, VariableV2, 771] no _output_shapes attribute
+[no, 0, VariableV2, 772] no _output_shapes attribute
+[no, 0, VariableV2, 770] no _output_shapes attribute
+[no, 0, VariableV2, 769] no _output_shapes attribute
+[775: Identity: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, ShardedFilename, 12] no _output_shapes attribute
+[776: Pack: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, ShardedFilename, 12] no _output_shapes attribute
+[no, 0, ShardedFilename, 11] no _output_shapes attribute
+[777: MergeV2Checkpoints: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, Pack, 776] no _output_shapes attribute
+[no, 0, _Arg, 779] no _output_shapes attribute
+[778: Identity: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, _Arg, 779] no _output_shapes attribute
+[779: _Arg: /job:localhost/replica:0/task:0/device:CPU:0]
+[780: _Retval: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, Identity, 778] no _output_shapes attribute

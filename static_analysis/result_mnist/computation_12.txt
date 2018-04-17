@@ -1,0 +1,28 @@
+[2: NoOp: /job:localhost/replica:0/task:0/device:GPU:0]
+[3: Const: /job:localhost/replica:0/task:0/device:CPU:0]
+[4: VariableV2: /job:localhost/replica:0/task:0/device:CPU:0]
+[5: Assign: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, VariableV2, 4] no _output_shapes attribute
+[no, 0, Const, 3] no _output_shapes attribute
+[6: Const: /job:localhost/replica:0/task:0/device:GPU:0]
+[7: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[8: Assign: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 7] no _output_shapes attribute
+[no, 0, Const, 6] no _output_shapes attribute
+[9: Const: /job:localhost/replica:0/task:0/device:GPU:0]
+[10: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[11: Assign: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 10] no _output_shapes attribute
+[no, 0, Const, 9] no _output_shapes attribute
+[12: Const: /job:localhost/replica:0/task:0/device:GPU:0]
+[13: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[14: Assign: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 13] no _output_shapes attribute
+[no, 0, Const, 12] no _output_shapes attribute
+[15: Const: /job:localhost/replica:0/task:0/device:GPU:0]
+[16: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[17: Assign: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 16] no _output_shapes attribute
+[no, 0, Const, 15] no _output_shapes attribute
+[18: NoOp: /job:localhost/replica:0/task:0/device:GPU:0]
+[19: NoOp: /job:localhost/replica:0/task:0/device:GPU:0]

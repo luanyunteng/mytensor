@@ -1,0 +1,3529 @@
+[2: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[3: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 2] no _output_shapes attribute
+[4: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[5: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 4] no _output_shapes attribute
+[6: Const: /job:localhost/replica:0/task:0/gpu:0]
+[7: Const: /job:localhost/replica:0/task:0/gpu:0]
+[8: Const: /job:localhost/replica:0/task:0/gpu:0]
+[9: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[10: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 9] no _output_shapes attribute
+[11: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 10] no _output_shapes attribute
+[no, 0, Const, 8] no _output_shapes attribute
+[12: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 11] no _output_shapes attribute
+[13: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[14: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 13] no _output_shapes attribute
+[15: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 14] no _output_shapes attribute
+[no, 0, Rsqrt, 12] no _output_shapes attribute
+[16: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[17: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 16] no _output_shapes attribute
+[18: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 17] no _output_shapes attribute
+[no, 0, Mul, 15] no _output_shapes attribute
+[19: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[20: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 19] no _output_shapes attribute
+[21: Const: /job:localhost/replica:0/task:0/gpu:0]
+[22: Const: /job:localhost/replica:0/task:0/gpu:0]
+[23: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[24: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 23] no _output_shapes attribute
+[25: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 24] no _output_shapes attribute
+[no, 0, Const, 22] no _output_shapes attribute
+[26: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 25] no _output_shapes attribute
+[27: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[28: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 27] no _output_shapes attribute
+[29: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 28] no _output_shapes attribute
+[no, 0, Rsqrt, 26] no _output_shapes attribute
+[30: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[31: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 30] no _output_shapes attribute
+[32: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 31] no _output_shapes attribute
+[no, 0, Mul, 29] no _output_shapes attribute
+[33: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[34: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 33] no _output_shapes attribute
+[35: Const: /job:localhost/replica:0/task:0/gpu:0]
+[36: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[37: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 36] no _output_shapes attribute
+[38: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 37] no _output_shapes attribute
+[no, 0, Const, 35] no _output_shapes attribute
+[39: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 38] no _output_shapes attribute
+[40: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[41: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 40] no _output_shapes attribute
+[42: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 41] no _output_shapes attribute
+[no, 0, Rsqrt, 39] no _output_shapes attribute
+[43: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[44: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 43] no _output_shapes attribute
+[45: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 44] no _output_shapes attribute
+[no, 0, Mul, 42] no _output_shapes attribute
+[46: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[47: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 46] no _output_shapes attribute
+[48: Const: /job:localhost/replica:0/task:0/gpu:0]
+[49: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[50: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 49] no _output_shapes attribute
+[51: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 50] no _output_shapes attribute
+[no, 0, Const, 48] no _output_shapes attribute
+[52: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 51] no _output_shapes attribute
+[53: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[54: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 53] no _output_shapes attribute
+[55: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 54] no _output_shapes attribute
+[no, 0, Rsqrt, 52] no _output_shapes attribute
+[56: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[57: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 56] no _output_shapes attribute
+[58: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 57] no _output_shapes attribute
+[no, 0, Mul, 55] no _output_shapes attribute
+[59: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[60: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 59] no _output_shapes attribute
+[61: Const: /job:localhost/replica:0/task:0/gpu:0]
+[62: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[63: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 62] no _output_shapes attribute
+[64: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 63] no _output_shapes attribute
+[no, 0, Const, 61] no _output_shapes attribute
+[65: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 64] no _output_shapes attribute
+[66: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[67: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 66] no _output_shapes attribute
+[68: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 67] no _output_shapes attribute
+[no, 0, Rsqrt, 65] no _output_shapes attribute
+[69: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[70: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 69] no _output_shapes attribute
+[71: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 70] no _output_shapes attribute
+[no, 0, Mul, 68] no _output_shapes attribute
+[72: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[73: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 72] no _output_shapes attribute
+[74: Const: /job:localhost/replica:0/task:0/gpu:0]
+[75: Const: /job:localhost/replica:0/task:0/gpu:0]
+[76: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[77: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 76] no _output_shapes attribute
+[78: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 77] no _output_shapes attribute
+[no, 0, Const, 75] no _output_shapes attribute
+[79: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 78] no _output_shapes attribute
+[80: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[81: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 80] no _output_shapes attribute
+[82: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 81] no _output_shapes attribute
+[no, 0, Rsqrt, 79] no _output_shapes attribute
+[83: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[84: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 83] no _output_shapes attribute
+[85: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 84] no _output_shapes attribute
+[no, 0, Mul, 82] no _output_shapes attribute
+[86: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[87: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 86] no _output_shapes attribute
+[88: Const: /job:localhost/replica:0/task:0/gpu:0]
+[89: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[90: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 89] no _output_shapes attribute
+[91: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 90] no _output_shapes attribute
+[no, 0, Const, 88] no _output_shapes attribute
+[92: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 91] no _output_shapes attribute
+[93: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[94: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 93] no _output_shapes attribute
+[95: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 94] no _output_shapes attribute
+[no, 0, Rsqrt, 92] no _output_shapes attribute
+[96: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[97: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 96] no _output_shapes attribute
+[98: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 97] no _output_shapes attribute
+[no, 0, Mul, 95] no _output_shapes attribute
+[99: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[100: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 99] no _output_shapes attribute
+[101: Const: /job:localhost/replica:0/task:0/gpu:0]
+[102: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[103: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 102] no _output_shapes attribute
+[104: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 103] no _output_shapes attribute
+[no, 0, Const, 101] no _output_shapes attribute
+[105: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 104] no _output_shapes attribute
+[106: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[107: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 106] no _output_shapes attribute
+[108: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 107] no _output_shapes attribute
+[no, 0, Rsqrt, 105] no _output_shapes attribute
+[109: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[110: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 109] no _output_shapes attribute
+[111: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 110] no _output_shapes attribute
+[no, 0, Mul, 108] no _output_shapes attribute
+[112: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[113: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 112] no _output_shapes attribute
+[114: Const: /job:localhost/replica:0/task:0/gpu:0]
+[115: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[116: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 115] no _output_shapes attribute
+[117: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 116] no _output_shapes attribute
+[no, 0, Const, 114] no _output_shapes attribute
+[118: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 117] no _output_shapes attribute
+[119: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[120: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 119] no _output_shapes attribute
+[121: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 120] no _output_shapes attribute
+[no, 0, Rsqrt, 118] no _output_shapes attribute
+[122: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[123: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 122] no _output_shapes attribute
+[124: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 123] no _output_shapes attribute
+[no, 0, Mul, 121] no _output_shapes attribute
+[125: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[126: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 125] no _output_shapes attribute
+[127: Const: /job:localhost/replica:0/task:0/gpu:0]
+[128: Const: /job:localhost/replica:0/task:0/gpu:0]
+[129: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[130: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 129] no _output_shapes attribute
+[131: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 130] no _output_shapes attribute
+[no, 0, Const, 128] no _output_shapes attribute
+[132: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 131] no _output_shapes attribute
+[133: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[134: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 133] no _output_shapes attribute
+[135: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 134] no _output_shapes attribute
+[no, 0, Rsqrt, 132] no _output_shapes attribute
+[136: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[137: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 136] no _output_shapes attribute
+[138: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 137] no _output_shapes attribute
+[no, 0, Mul, 135] no _output_shapes attribute
+[139: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[140: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 139] no _output_shapes attribute
+[141: Const: /job:localhost/replica:0/task:0/gpu:0]
+[142: Const: /job:localhost/replica:0/task:0/gpu:0]
+[143: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[144: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 143] no _output_shapes attribute
+[145: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 144] no _output_shapes attribute
+[no, 0, Const, 142] no _output_shapes attribute
+[146: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 145] no _output_shapes attribute
+[147: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[148: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 147] no _output_shapes attribute
+[149: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 148] no _output_shapes attribute
+[no, 0, Rsqrt, 146] no _output_shapes attribute
+[150: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[151: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 150] no _output_shapes attribute
+[152: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 151] no _output_shapes attribute
+[no, 0, Mul, 149] no _output_shapes attribute
+[153: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[154: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 153] no _output_shapes attribute
+[155: Const: /job:localhost/replica:0/task:0/gpu:0]
+[156: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[157: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 156] no _output_shapes attribute
+[158: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 157] no _output_shapes attribute
+[no, 0, Const, 155] no _output_shapes attribute
+[159: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 158] no _output_shapes attribute
+[160: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[161: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 160] no _output_shapes attribute
+[162: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 161] no _output_shapes attribute
+[no, 0, Rsqrt, 159] no _output_shapes attribute
+[163: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[164: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 163] no _output_shapes attribute
+[165: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 164] no _output_shapes attribute
+[no, 0, Mul, 162] no _output_shapes attribute
+[166: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[167: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 166] no _output_shapes attribute
+[168: Const: /job:localhost/replica:0/task:0/gpu:0]
+[169: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[170: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 169] no _output_shapes attribute
+[171: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 170] no _output_shapes attribute
+[no, 0, Const, 168] no _output_shapes attribute
+[172: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 171] no _output_shapes attribute
+[173: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[174: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 173] no _output_shapes attribute
+[175: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 174] no _output_shapes attribute
+[no, 0, Rsqrt, 172] no _output_shapes attribute
+[176: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[177: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 176] no _output_shapes attribute
+[178: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 177] no _output_shapes attribute
+[no, 0, Mul, 175] no _output_shapes attribute
+[179: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[180: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 179] no _output_shapes attribute
+[181: Const: /job:localhost/replica:0/task:0/gpu:0]
+[182: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[183: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 182] no _output_shapes attribute
+[184: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 183] no _output_shapes attribute
+[no, 0, Const, 181] no _output_shapes attribute
+[185: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 184] no _output_shapes attribute
+[186: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[187: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 186] no _output_shapes attribute
+[188: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 187] no _output_shapes attribute
+[no, 0, Rsqrt, 185] no _output_shapes attribute
+[189: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[190: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 189] no _output_shapes attribute
+[191: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 190] no _output_shapes attribute
+[no, 0, Mul, 188] no _output_shapes attribute
+[192: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[193: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 192] no _output_shapes attribute
+[194: Const: /job:localhost/replica:0/task:0/gpu:0]
+[195: Const: /job:localhost/replica:0/task:0/gpu:0]
+[196: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[197: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 196] no _output_shapes attribute
+[198: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 197] no _output_shapes attribute
+[no, 0, Const, 195] no _output_shapes attribute
+[199: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 198] no _output_shapes attribute
+[200: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[201: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 200] no _output_shapes attribute
+[202: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 201] no _output_shapes attribute
+[no, 0, Rsqrt, 199] no _output_shapes attribute
+[203: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[204: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 203] no _output_shapes attribute
+[205: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 204] no _output_shapes attribute
+[no, 0, Mul, 202] no _output_shapes attribute
+[206: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[207: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 206] no _output_shapes attribute
+[208: Const: /job:localhost/replica:0/task:0/gpu:0]
+[209: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[210: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 209] no _output_shapes attribute
+[211: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 210] no _output_shapes attribute
+[no, 0, Const, 208] no _output_shapes attribute
+[212: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 211] no _output_shapes attribute
+[213: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[214: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 213] no _output_shapes attribute
+[215: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 214] no _output_shapes attribute
+[no, 0, Rsqrt, 212] no _output_shapes attribute
+[216: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[217: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 216] no _output_shapes attribute
+[218: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 217] no _output_shapes attribute
+[no, 0, Mul, 215] no _output_shapes attribute
+[219: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[220: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 219] no _output_shapes attribute
+[221: Const: /job:localhost/replica:0/task:0/gpu:0]
+[222: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[223: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 222] no _output_shapes attribute
+[224: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 223] no _output_shapes attribute
+[no, 0, Const, 221] no _output_shapes attribute
+[225: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 224] no _output_shapes attribute
+[226: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[227: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 226] no _output_shapes attribute
+[228: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 227] no _output_shapes attribute
+[no, 0, Rsqrt, 225] no _output_shapes attribute
+[229: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[230: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 229] no _output_shapes attribute
+[231: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 230] no _output_shapes attribute
+[no, 0, Mul, 228] no _output_shapes attribute
+[232: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[233: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 232] no _output_shapes attribute
+[234: Const: /job:localhost/replica:0/task:0/gpu:0]
+[235: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[236: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 235] no _output_shapes attribute
+[237: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 236] no _output_shapes attribute
+[no, 0, Const, 234] no _output_shapes attribute
+[238: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 237] no _output_shapes attribute
+[239: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[240: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 239] no _output_shapes attribute
+[241: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 240] no _output_shapes attribute
+[no, 0, Rsqrt, 238] no _output_shapes attribute
+[242: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[243: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 242] no _output_shapes attribute
+[244: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 243] no _output_shapes attribute
+[no, 0, Mul, 241] no _output_shapes attribute
+[245: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[246: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 245] no _output_shapes attribute
+[247: Const: /job:localhost/replica:0/task:0/gpu:0]
+[248: Const: /job:localhost/replica:0/task:0/gpu:0]
+[249: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[250: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 249] no _output_shapes attribute
+[251: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 250] no _output_shapes attribute
+[no, 0, Const, 248] no _output_shapes attribute
+[252: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 251] no _output_shapes attribute
+[253: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[254: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 253] no _output_shapes attribute
+[255: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 254] no _output_shapes attribute
+[no, 0, Rsqrt, 252] no _output_shapes attribute
+[256: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[257: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 256] no _output_shapes attribute
+[258: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 257] no _output_shapes attribute
+[no, 0, Mul, 255] no _output_shapes attribute
+[259: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[260: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 259] no _output_shapes attribute
+[261: Const: /job:localhost/replica:0/task:0/gpu:0]
+[262: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[263: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 262] no _output_shapes attribute
+[264: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 263] no _output_shapes attribute
+[no, 0, Const, 261] no _output_shapes attribute
+[265: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 264] no _output_shapes attribute
+[266: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[267: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 266] no _output_shapes attribute
+[268: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 267] no _output_shapes attribute
+[no, 0, Rsqrt, 265] no _output_shapes attribute
+[269: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[270: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 269] no _output_shapes attribute
+[271: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 270] no _output_shapes attribute
+[no, 0, Mul, 268] no _output_shapes attribute
+[272: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[273: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 272] no _output_shapes attribute
+[274: Const: /job:localhost/replica:0/task:0/gpu:0]
+[275: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[276: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 275] no _output_shapes attribute
+[277: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 276] no _output_shapes attribute
+[no, 0, Const, 274] no _output_shapes attribute
+[278: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 277] no _output_shapes attribute
+[279: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[280: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 279] no _output_shapes attribute
+[281: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 280] no _output_shapes attribute
+[no, 0, Rsqrt, 278] no _output_shapes attribute
+[282: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[283: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 282] no _output_shapes attribute
+[284: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 283] no _output_shapes attribute
+[no, 0, Mul, 281] no _output_shapes attribute
+[285: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[286: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 285] no _output_shapes attribute
+[287: Const: /job:localhost/replica:0/task:0/gpu:0]
+[288: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[289: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 288] no _output_shapes attribute
+[290: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 289] no _output_shapes attribute
+[no, 0, Const, 287] no _output_shapes attribute
+[291: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 290] no _output_shapes attribute
+[292: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[293: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 292] no _output_shapes attribute
+[294: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 293] no _output_shapes attribute
+[no, 0, Rsqrt, 291] no _output_shapes attribute
+[295: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[296: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 295] no _output_shapes attribute
+[297: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 296] no _output_shapes attribute
+[no, 0, Mul, 294] no _output_shapes attribute
+[298: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[299: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 298] no _output_shapes attribute
+[300: Const: /job:localhost/replica:0/task:0/gpu:0]
+[301: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[302: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 301] no _output_shapes attribute
+[303: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 302] no _output_shapes attribute
+[no, 0, Const, 300] no _output_shapes attribute
+[304: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 303] no _output_shapes attribute
+[305: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[306: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 305] no _output_shapes attribute
+[307: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 306] no _output_shapes attribute
+[no, 0, Rsqrt, 304] no _output_shapes attribute
+[308: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[309: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 308] no _output_shapes attribute
+[310: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 309] no _output_shapes attribute
+[no, 0, Mul, 307] no _output_shapes attribute
+[311: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[312: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 311] no _output_shapes attribute
+[313: Const: /job:localhost/replica:0/task:0/gpu:0]
+[314: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[315: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 314] no _output_shapes attribute
+[316: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 315] no _output_shapes attribute
+[no, 0, Const, 313] no _output_shapes attribute
+[317: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 316] no _output_shapes attribute
+[318: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[319: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 318] no _output_shapes attribute
+[320: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 319] no _output_shapes attribute
+[no, 0, Rsqrt, 317] no _output_shapes attribute
+[321: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[322: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 321] no _output_shapes attribute
+[323: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 322] no _output_shapes attribute
+[no, 0, Mul, 320] no _output_shapes attribute
+[324: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[325: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 324] no _output_shapes attribute
+[326: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[327: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 326] no _output_shapes attribute
+[328: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[329: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 328] no _output_shapes attribute
+[330: Const: /job:localhost/replica:0/task:0/gpu:0]
+[331: Const: /job:localhost/replica:0/task:0/gpu:0]
+[332: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[333: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 332] no _output_shapes attribute
+[334: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 333] no _output_shapes attribute
+[no, 0, Const, 331] no _output_shapes attribute
+[335: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 334] no _output_shapes attribute
+[336: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[337: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 336] no _output_shapes attribute
+[338: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 337] no _output_shapes attribute
+[no, 0, Rsqrt, 335] no _output_shapes attribute
+[339: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[340: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 339] no _output_shapes attribute
+[341: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 340] no _output_shapes attribute
+[no, 0, Mul, 338] no _output_shapes attribute
+[342: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[343: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 342] no _output_shapes attribute
+[344: Const: /job:localhost/replica:0/task:0/gpu:0]
+[345: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[346: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 345] no _output_shapes attribute
+[347: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 346] no _output_shapes attribute
+[no, 0, Const, 344] no _output_shapes attribute
+[348: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 347] no _output_shapes attribute
+[349: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[350: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 349] no _output_shapes attribute
+[351: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 350] no _output_shapes attribute
+[no, 0, Rsqrt, 348] no _output_shapes attribute
+[352: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[353: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 352] no _output_shapes attribute
+[354: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 353] no _output_shapes attribute
+[no, 0, Mul, 351] no _output_shapes attribute
+[355: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[356: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 355] no _output_shapes attribute
+[357: Const: /job:localhost/replica:0/task:0/gpu:0]
+[358: Const: /job:localhost/replica:0/task:0/gpu:0]
+[359: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[360: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 359] no _output_shapes attribute
+[361: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 360] no _output_shapes attribute
+[no, 0, Const, 358] no _output_shapes attribute
+[362: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 361] no _output_shapes attribute
+[363: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[364: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 363] no _output_shapes attribute
+[365: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 364] no _output_shapes attribute
+[no, 0, Rsqrt, 362] no _output_shapes attribute
+[366: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[367: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 366] no _output_shapes attribute
+[368: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 367] no _output_shapes attribute
+[no, 0, Mul, 365] no _output_shapes attribute
+[369: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[370: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 369] no _output_shapes attribute
+[371: Const: /job:localhost/replica:0/task:0/gpu:0]
+[372: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[373: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 372] no _output_shapes attribute
+[374: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 373] no _output_shapes attribute
+[no, 0, Const, 371] no _output_shapes attribute
+[375: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 374] no _output_shapes attribute
+[376: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[377: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 376] no _output_shapes attribute
+[378: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 377] no _output_shapes attribute
+[no, 0, Rsqrt, 375] no _output_shapes attribute
+[379: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[380: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 379] no _output_shapes attribute
+[381: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 380] no _output_shapes attribute
+[no, 0, Mul, 378] no _output_shapes attribute
+[382: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[383: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 382] no _output_shapes attribute
+[384: Const: /job:localhost/replica:0/task:0/gpu:0]
+[385: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[386: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 385] no _output_shapes attribute
+[387: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 386] no _output_shapes attribute
+[no, 0, Const, 384] no _output_shapes attribute
+[388: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 387] no _output_shapes attribute
+[389: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[390: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 389] no _output_shapes attribute
+[391: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 390] no _output_shapes attribute
+[no, 0, Rsqrt, 388] no _output_shapes attribute
+[392: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[393: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 392] no _output_shapes attribute
+[394: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 393] no _output_shapes attribute
+[no, 0, Mul, 391] no _output_shapes attribute
+[395: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[396: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 395] no _output_shapes attribute
+[397: Const: /job:localhost/replica:0/task:0/gpu:0]
+[398: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[399: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 398] no _output_shapes attribute
+[400: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 399] no _output_shapes attribute
+[no, 0, Const, 397] no _output_shapes attribute
+[401: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 400] no _output_shapes attribute
+[402: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[403: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 402] no _output_shapes attribute
+[404: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 403] no _output_shapes attribute
+[no, 0, Rsqrt, 401] no _output_shapes attribute
+[405: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[406: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 405] no _output_shapes attribute
+[407: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 406] no _output_shapes attribute
+[no, 0, Mul, 404] no _output_shapes attribute
+[408: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[409: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 408] no _output_shapes attribute
+[410: Const: /job:localhost/replica:0/task:0/gpu:0]
+[411: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[412: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 411] no _output_shapes attribute
+[413: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 412] no _output_shapes attribute
+[no, 0, Const, 410] no _output_shapes attribute
+[414: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 413] no _output_shapes attribute
+[415: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[416: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 415] no _output_shapes attribute
+[417: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 416] no _output_shapes attribute
+[no, 0, Rsqrt, 414] no _output_shapes attribute
+[418: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[419: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 418] no _output_shapes attribute
+[420: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 419] no _output_shapes attribute
+[no, 0, Mul, 417] no _output_shapes attribute
+[421: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[422: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 421] no _output_shapes attribute
+[423: Const: /job:localhost/replica:0/task:0/gpu:0]
+[424: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[425: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 424] no _output_shapes attribute
+[426: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 425] no _output_shapes attribute
+[no, 0, Const, 423] no _output_shapes attribute
+[427: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 426] no _output_shapes attribute
+[428: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[429: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 428] no _output_shapes attribute
+[430: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 429] no _output_shapes attribute
+[no, 0, Rsqrt, 427] no _output_shapes attribute
+[431: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[432: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 431] no _output_shapes attribute
+[433: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 432] no _output_shapes attribute
+[no, 0, Mul, 430] no _output_shapes attribute
+[434: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[435: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 434] no _output_shapes attribute
+[436: Const: /job:localhost/replica:0/task:0/gpu:0]
+[437: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[438: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 437] no _output_shapes attribute
+[439: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 438] no _output_shapes attribute
+[no, 0, Const, 436] no _output_shapes attribute
+[440: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 439] no _output_shapes attribute
+[441: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[442: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 441] no _output_shapes attribute
+[443: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 442] no _output_shapes attribute
+[no, 0, Rsqrt, 440] no _output_shapes attribute
+[444: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[445: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 444] no _output_shapes attribute
+[446: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 445] no _output_shapes attribute
+[no, 0, Mul, 443] no _output_shapes attribute
+[447: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[448: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 447] no _output_shapes attribute
+[449: Const: /job:localhost/replica:0/task:0/gpu:0]
+[450: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[451: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 450] no _output_shapes attribute
+[452: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 451] no _output_shapes attribute
+[no, 0, Const, 449] no _output_shapes attribute
+[453: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 452] no _output_shapes attribute
+[454: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[455: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 454] no _output_shapes attribute
+[456: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 455] no _output_shapes attribute
+[no, 0, Rsqrt, 453] no _output_shapes attribute
+[457: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[458: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 457] no _output_shapes attribute
+[459: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 458] no _output_shapes attribute
+[no, 0, Mul, 456] no _output_shapes attribute
+[460: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[461: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 460] no _output_shapes attribute
+[462: Const: /job:localhost/replica:0/task:0/gpu:0]
+[463: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[464: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 463] no _output_shapes attribute
+[465: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 464] no _output_shapes attribute
+[no, 0, Const, 462] no _output_shapes attribute
+[466: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 465] no _output_shapes attribute
+[467: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[468: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 467] no _output_shapes attribute
+[469: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 468] no _output_shapes attribute
+[no, 0, Rsqrt, 466] no _output_shapes attribute
+[470: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[471: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 470] no _output_shapes attribute
+[472: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 471] no _output_shapes attribute
+[no, 0, Mul, 469] no _output_shapes attribute
+[473: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[474: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 473] no _output_shapes attribute
+[475: Const: /job:localhost/replica:0/task:0/gpu:0]
+[476: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[477: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 476] no _output_shapes attribute
+[478: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 477] no _output_shapes attribute
+[no, 0, Const, 475] no _output_shapes attribute
+[479: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 478] no _output_shapes attribute
+[480: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[481: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 480] no _output_shapes attribute
+[482: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 481] no _output_shapes attribute
+[no, 0, Rsqrt, 479] no _output_shapes attribute
+[483: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[484: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 483] no _output_shapes attribute
+[485: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 484] no _output_shapes attribute
+[no, 0, Mul, 482] no _output_shapes attribute
+[486: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[487: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 486] no _output_shapes attribute
+[488: Const: /job:localhost/replica:0/task:0/gpu:0]
+[489: Const: /job:localhost/replica:0/task:0/gpu:0]
+[490: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[491: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 490] no _output_shapes attribute
+[492: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 491] no _output_shapes attribute
+[no, 0, Const, 489] no _output_shapes attribute
+[493: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 492] no _output_shapes attribute
+[494: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[495: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 494] no _output_shapes attribute
+[496: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 495] no _output_shapes attribute
+[no, 0, Rsqrt, 493] no _output_shapes attribute
+[497: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[498: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 497] no _output_shapes attribute
+[499: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 498] no _output_shapes attribute
+[no, 0, Mul, 496] no _output_shapes attribute
+[500: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[501: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 500] no _output_shapes attribute
+[502: Const: /job:localhost/replica:0/task:0/gpu:0]
+[503: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[504: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 503] no _output_shapes attribute
+[505: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 504] no _output_shapes attribute
+[no, 0, Const, 502] no _output_shapes attribute
+[506: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 505] no _output_shapes attribute
+[507: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[508: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 507] no _output_shapes attribute
+[509: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 508] no _output_shapes attribute
+[no, 0, Rsqrt, 506] no _output_shapes attribute
+[510: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[511: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 510] no _output_shapes attribute
+[512: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 511] no _output_shapes attribute
+[no, 0, Mul, 509] no _output_shapes attribute
+[513: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[514: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 513] no _output_shapes attribute
+[515: Const: /job:localhost/replica:0/task:0/gpu:0]
+[516: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[517: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 516] no _output_shapes attribute
+[518: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 517] no _output_shapes attribute
+[no, 0, Const, 515] no _output_shapes attribute
+[519: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 518] no _output_shapes attribute
+[520: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[521: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 520] no _output_shapes attribute
+[522: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 521] no _output_shapes attribute
+[no, 0, Rsqrt, 519] no _output_shapes attribute
+[523: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[524: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 523] no _output_shapes attribute
+[525: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 524] no _output_shapes attribute
+[no, 0, Mul, 522] no _output_shapes attribute
+[526: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[527: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 526] no _output_shapes attribute
+[528: Const: /job:localhost/replica:0/task:0/gpu:0]
+[529: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[530: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 529] no _output_shapes attribute
+[531: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 530] no _output_shapes attribute
+[no, 0, Const, 528] no _output_shapes attribute
+[532: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 531] no _output_shapes attribute
+[533: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[534: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 533] no _output_shapes attribute
+[535: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 534] no _output_shapes attribute
+[no, 0, Rsqrt, 532] no _output_shapes attribute
+[536: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[537: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 536] no _output_shapes attribute
+[538: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 537] no _output_shapes attribute
+[no, 0, Mul, 535] no _output_shapes attribute
+[539: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[540: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 539] no _output_shapes attribute
+[541: Const: /job:localhost/replica:0/task:0/gpu:0]
+[542: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[543: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 542] no _output_shapes attribute
+[544: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 543] no _output_shapes attribute
+[no, 0, Const, 541] no _output_shapes attribute
+[545: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 544] no _output_shapes attribute
+[546: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[547: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 546] no _output_shapes attribute
+[548: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 547] no _output_shapes attribute
+[no, 0, Rsqrt, 545] no _output_shapes attribute
+[549: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[550: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 549] no _output_shapes attribute
+[551: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 550] no _output_shapes attribute
+[no, 0, Mul, 548] no _output_shapes attribute
+[552: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[553: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 552] no _output_shapes attribute
+[554: Const: /job:localhost/replica:0/task:0/gpu:0]
+[555: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[556: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 555] no _output_shapes attribute
+[557: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 556] no _output_shapes attribute
+[no, 0, Const, 554] no _output_shapes attribute
+[558: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 557] no _output_shapes attribute
+[559: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[560: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 559] no _output_shapes attribute
+[561: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 560] no _output_shapes attribute
+[no, 0, Rsqrt, 558] no _output_shapes attribute
+[562: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[563: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 562] no _output_shapes attribute
+[564: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 563] no _output_shapes attribute
+[no, 0, Mul, 561] no _output_shapes attribute
+[565: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[566: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 565] no _output_shapes attribute
+[567: Const: /job:localhost/replica:0/task:0/gpu:0]
+[568: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[569: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 568] no _output_shapes attribute
+[570: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 569] no _output_shapes attribute
+[no, 0, Const, 567] no _output_shapes attribute
+[571: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 570] no _output_shapes attribute
+[572: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[573: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 572] no _output_shapes attribute
+[574: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 573] no _output_shapes attribute
+[no, 0, Rsqrt, 571] no _output_shapes attribute
+[575: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[576: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 575] no _output_shapes attribute
+[577: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 576] no _output_shapes attribute
+[no, 0, Mul, 574] no _output_shapes attribute
+[578: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[579: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 578] no _output_shapes attribute
+[580: Const: /job:localhost/replica:0/task:0/gpu:0]
+[581: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[582: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 581] no _output_shapes attribute
+[583: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 582] no _output_shapes attribute
+[no, 0, Const, 580] no _output_shapes attribute
+[584: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 583] no _output_shapes attribute
+[585: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[586: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 585] no _output_shapes attribute
+[587: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 586] no _output_shapes attribute
+[no, 0, Rsqrt, 584] no _output_shapes attribute
+[588: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[589: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 588] no _output_shapes attribute
+[590: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 589] no _output_shapes attribute
+[no, 0, Mul, 587] no _output_shapes attribute
+[591: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[592: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 591] no _output_shapes attribute
+[593: Const: /job:localhost/replica:0/task:0/gpu:0]
+[594: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[595: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 594] no _output_shapes attribute
+[596: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 595] no _output_shapes attribute
+[no, 0, Const, 593] no _output_shapes attribute
+[597: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 596] no _output_shapes attribute
+[598: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[599: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 598] no _output_shapes attribute
+[600: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 599] no _output_shapes attribute
+[no, 0, Rsqrt, 597] no _output_shapes attribute
+[601: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[602: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 601] no _output_shapes attribute
+[603: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 602] no _output_shapes attribute
+[no, 0, Mul, 600] no _output_shapes attribute
+[604: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[605: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 604] no _output_shapes attribute
+[606: Const: /job:localhost/replica:0/task:0/gpu:0]
+[607: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[608: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 607] no _output_shapes attribute
+[609: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 608] no _output_shapes attribute
+[no, 0, Const, 606] no _output_shapes attribute
+[610: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 609] no _output_shapes attribute
+[611: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[612: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 611] no _output_shapes attribute
+[613: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 612] no _output_shapes attribute
+[no, 0, Rsqrt, 610] no _output_shapes attribute
+[614: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[615: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 614] no _output_shapes attribute
+[616: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 615] no _output_shapes attribute
+[no, 0, Mul, 613] no _output_shapes attribute
+[617: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[618: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 617] no _output_shapes attribute
+[619: Const: /job:localhost/replica:0/task:0/gpu:0]
+[620: Const: /job:localhost/replica:0/task:0/gpu:0]
+[621: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[622: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 621] no _output_shapes attribute
+[623: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 622] no _output_shapes attribute
+[no, 0, Const, 620] no _output_shapes attribute
+[624: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 623] no _output_shapes attribute
+[625: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[626: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 625] no _output_shapes attribute
+[627: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 626] no _output_shapes attribute
+[no, 0, Rsqrt, 624] no _output_shapes attribute
+[628: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[629: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 628] no _output_shapes attribute
+[630: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 629] no _output_shapes attribute
+[no, 0, Mul, 627] no _output_shapes attribute
+[631: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[632: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 631] no _output_shapes attribute
+[633: Const: /job:localhost/replica:0/task:0/gpu:0]
+[634: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[635: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 634] no _output_shapes attribute
+[636: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 635] no _output_shapes attribute
+[no, 0, Const, 633] no _output_shapes attribute
+[637: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 636] no _output_shapes attribute
+[638: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[639: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 638] no _output_shapes attribute
+[640: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 639] no _output_shapes attribute
+[no, 0, Rsqrt, 637] no _output_shapes attribute
+[641: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[642: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 641] no _output_shapes attribute
+[643: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 642] no _output_shapes attribute
+[no, 0, Mul, 640] no _output_shapes attribute
+[644: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[645: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 644] no _output_shapes attribute
+[646: Const: /job:localhost/replica:0/task:0/gpu:0]
+[647: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[648: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 647] no _output_shapes attribute
+[649: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 648] no _output_shapes attribute
+[no, 0, Const, 646] no _output_shapes attribute
+[650: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 649] no _output_shapes attribute
+[651: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[652: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 651] no _output_shapes attribute
+[653: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 652] no _output_shapes attribute
+[no, 0, Rsqrt, 650] no _output_shapes attribute
+[654: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[655: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 654] no _output_shapes attribute
+[656: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 655] no _output_shapes attribute
+[no, 0, Mul, 653] no _output_shapes attribute
+[657: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[658: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 657] no _output_shapes attribute
+[659: Const: /job:localhost/replica:0/task:0/gpu:0]
+[660: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[661: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 660] no _output_shapes attribute
+[662: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 661] no _output_shapes attribute
+[no, 0, Const, 659] no _output_shapes attribute
+[663: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 662] no _output_shapes attribute
+[664: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[665: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 664] no _output_shapes attribute
+[666: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 665] no _output_shapes attribute
+[no, 0, Rsqrt, 663] no _output_shapes attribute
+[667: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[668: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 667] no _output_shapes attribute
+[669: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 668] no _output_shapes attribute
+[no, 0, Mul, 666] no _output_shapes attribute
+[670: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[671: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 670] no _output_shapes attribute
+[672: Const: /job:localhost/replica:0/task:0/gpu:0]
+[673: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[674: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 673] no _output_shapes attribute
+[675: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 674] no _output_shapes attribute
+[no, 0, Const, 672] no _output_shapes attribute
+[676: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 675] no _output_shapes attribute
+[677: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[678: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 677] no _output_shapes attribute
+[679: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 678] no _output_shapes attribute
+[no, 0, Rsqrt, 676] no _output_shapes attribute
+[680: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[681: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 680] no _output_shapes attribute
+[682: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 681] no _output_shapes attribute
+[no, 0, Mul, 679] no _output_shapes attribute
+[683: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[684: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 683] no _output_shapes attribute
+[685: Const: /job:localhost/replica:0/task:0/gpu:0]
+[686: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[687: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 686] no _output_shapes attribute
+[688: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 687] no _output_shapes attribute
+[no, 0, Const, 685] no _output_shapes attribute
+[689: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 688] no _output_shapes attribute
+[690: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[691: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 690] no _output_shapes attribute
+[692: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 691] no _output_shapes attribute
+[no, 0, Rsqrt, 689] no _output_shapes attribute
+[693: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[694: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 693] no _output_shapes attribute
+[695: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 694] no _output_shapes attribute
+[no, 0, Mul, 692] no _output_shapes attribute
+[696: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[697: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 696] no _output_shapes attribute
+[698: Const: /job:localhost/replica:0/task:0/gpu:0]
+[699: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[700: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 699] no _output_shapes attribute
+[701: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 700] no _output_shapes attribute
+[no, 0, Const, 698] no _output_shapes attribute
+[702: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 701] no _output_shapes attribute
+[703: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[704: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 703] no _output_shapes attribute
+[705: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 704] no _output_shapes attribute
+[no, 0, Rsqrt, 702] no _output_shapes attribute
+[706: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[707: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 706] no _output_shapes attribute
+[708: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 707] no _output_shapes attribute
+[no, 0, Mul, 705] no _output_shapes attribute
+[709: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[710: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 709] no _output_shapes attribute
+[711: Const: /job:localhost/replica:0/task:0/gpu:0]
+[712: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[713: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 712] no _output_shapes attribute
+[714: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 713] no _output_shapes attribute
+[no, 0, Const, 711] no _output_shapes attribute
+[715: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 714] no _output_shapes attribute
+[716: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[717: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 716] no _output_shapes attribute
+[718: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 717] no _output_shapes attribute
+[no, 0, Rsqrt, 715] no _output_shapes attribute
+[719: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[720: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 719] no _output_shapes attribute
+[721: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 720] no _output_shapes attribute
+[no, 0, Mul, 718] no _output_shapes attribute
+[722: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[723: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 722] no _output_shapes attribute
+[724: Const: /job:localhost/replica:0/task:0/gpu:0]
+[725: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[726: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 725] no _output_shapes attribute
+[727: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 726] no _output_shapes attribute
+[no, 0, Const, 724] no _output_shapes attribute
+[728: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 727] no _output_shapes attribute
+[729: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[730: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 729] no _output_shapes attribute
+[731: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 730] no _output_shapes attribute
+[no, 0, Rsqrt, 728] no _output_shapes attribute
+[732: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[733: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 732] no _output_shapes attribute
+[734: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 733] no _output_shapes attribute
+[no, 0, Mul, 731] no _output_shapes attribute
+[735: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[736: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 735] no _output_shapes attribute
+[737: Const: /job:localhost/replica:0/task:0/gpu:0]
+[738: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[739: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 738] no _output_shapes attribute
+[740: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 739] no _output_shapes attribute
+[no, 0, Const, 737] no _output_shapes attribute
+[741: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 740] no _output_shapes attribute
+[742: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[743: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 742] no _output_shapes attribute
+[744: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 743] no _output_shapes attribute
+[no, 0, Rsqrt, 741] no _output_shapes attribute
+[745: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[746: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 745] no _output_shapes attribute
+[747: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 746] no _output_shapes attribute
+[no, 0, Mul, 744] no _output_shapes attribute
+[748: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[749: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 748] no _output_shapes attribute
+[750: Const: /job:localhost/replica:0/task:0/gpu:0]
+[751: Const: /job:localhost/replica:0/task:0/gpu:0]
+[752: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[753: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 752] no _output_shapes attribute
+[754: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 753] no _output_shapes attribute
+[no, 0, Const, 751] no _output_shapes attribute
+[755: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 754] no _output_shapes attribute
+[756: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[757: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 756] no _output_shapes attribute
+[758: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 757] no _output_shapes attribute
+[no, 0, Rsqrt, 755] no _output_shapes attribute
+[759: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[760: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 759] no _output_shapes attribute
+[761: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 760] no _output_shapes attribute
+[no, 0, Mul, 758] no _output_shapes attribute
+[762: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[763: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 762] no _output_shapes attribute
+[764: Const: /job:localhost/replica:0/task:0/gpu:0]
+[765: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[766: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 765] no _output_shapes attribute
+[767: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 766] no _output_shapes attribute
+[no, 0, Const, 764] no _output_shapes attribute
+[768: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 767] no _output_shapes attribute
+[769: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[770: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 769] no _output_shapes attribute
+[771: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 770] no _output_shapes attribute
+[no, 0, Rsqrt, 768] no _output_shapes attribute
+[772: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[773: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 772] no _output_shapes attribute
+[774: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 773] no _output_shapes attribute
+[no, 0, Mul, 771] no _output_shapes attribute
+[775: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[776: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 775] no _output_shapes attribute
+[777: Const: /job:localhost/replica:0/task:0/gpu:0]
+[778: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[779: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 778] no _output_shapes attribute
+[780: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 779] no _output_shapes attribute
+[no, 0, Const, 777] no _output_shapes attribute
+[781: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 780] no _output_shapes attribute
+[782: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[783: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 782] no _output_shapes attribute
+[784: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 783] no _output_shapes attribute
+[no, 0, Rsqrt, 781] no _output_shapes attribute
+[785: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[786: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 785] no _output_shapes attribute
+[787: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 786] no _output_shapes attribute
+[no, 0, Mul, 784] no _output_shapes attribute
+[788: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[789: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 788] no _output_shapes attribute
+[790: Const: /job:localhost/replica:0/task:0/gpu:0]
+[791: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[792: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 791] no _output_shapes attribute
+[793: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 792] no _output_shapes attribute
+[no, 0, Const, 790] no _output_shapes attribute
+[794: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 793] no _output_shapes attribute
+[795: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[796: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 795] no _output_shapes attribute
+[797: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 796] no _output_shapes attribute
+[no, 0, Rsqrt, 794] no _output_shapes attribute
+[798: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[799: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 798] no _output_shapes attribute
+[800: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 799] no _output_shapes attribute
+[no, 0, Mul, 797] no _output_shapes attribute
+[801: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[802: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 801] no _output_shapes attribute
+[803: Const: /job:localhost/replica:0/task:0/gpu:0]
+[804: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[805: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 804] no _output_shapes attribute
+[806: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 805] no _output_shapes attribute
+[no, 0, Const, 803] no _output_shapes attribute
+[807: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 806] no _output_shapes attribute
+[808: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[809: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 808] no _output_shapes attribute
+[810: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 809] no _output_shapes attribute
+[no, 0, Rsqrt, 807] no _output_shapes attribute
+[811: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[812: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 811] no _output_shapes attribute
+[813: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 812] no _output_shapes attribute
+[no, 0, Mul, 810] no _output_shapes attribute
+[814: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[815: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 814] no _output_shapes attribute
+[816: Const: /job:localhost/replica:0/task:0/gpu:0]
+[817: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[818: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 817] no _output_shapes attribute
+[819: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 818] no _output_shapes attribute
+[no, 0, Const, 816] no _output_shapes attribute
+[820: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 819] no _output_shapes attribute
+[821: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[822: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 821] no _output_shapes attribute
+[823: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 822] no _output_shapes attribute
+[no, 0, Rsqrt, 820] no _output_shapes attribute
+[824: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[825: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 824] no _output_shapes attribute
+[826: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 825] no _output_shapes attribute
+[no, 0, Mul, 823] no _output_shapes attribute
+[827: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[828: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 827] no _output_shapes attribute
+[829: Const: /job:localhost/replica:0/task:0/gpu:0]
+[830: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[831: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 830] no _output_shapes attribute
+[832: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 831] no _output_shapes attribute
+[no, 0, Const, 829] no _output_shapes attribute
+[833: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 832] no _output_shapes attribute
+[834: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[835: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 834] no _output_shapes attribute
+[836: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 835] no _output_shapes attribute
+[no, 0, Rsqrt, 833] no _output_shapes attribute
+[837: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[838: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 837] no _output_shapes attribute
+[839: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 838] no _output_shapes attribute
+[no, 0, Mul, 836] no _output_shapes attribute
+[840: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[841: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 840] no _output_shapes attribute
+[842: Const: /job:localhost/replica:0/task:0/gpu:0]
+[843: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[844: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 843] no _output_shapes attribute
+[845: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 844] no _output_shapes attribute
+[no, 0, Const, 842] no _output_shapes attribute
+[846: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 845] no _output_shapes attribute
+[847: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[848: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 847] no _output_shapes attribute
+[849: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 848] no _output_shapes attribute
+[no, 0, Rsqrt, 846] no _output_shapes attribute
+[850: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[851: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 850] no _output_shapes attribute
+[852: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 851] no _output_shapes attribute
+[no, 0, Mul, 849] no _output_shapes attribute
+[853: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[854: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 853] no _output_shapes attribute
+[855: Const: /job:localhost/replica:0/task:0/gpu:0]
+[856: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[857: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 856] no _output_shapes attribute
+[858: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 857] no _output_shapes attribute
+[no, 0, Const, 855] no _output_shapes attribute
+[859: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 858] no _output_shapes attribute
+[860: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[861: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 860] no _output_shapes attribute
+[862: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 861] no _output_shapes attribute
+[no, 0, Rsqrt, 859] no _output_shapes attribute
+[863: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[864: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 863] no _output_shapes attribute
+[865: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 864] no _output_shapes attribute
+[no, 0, Mul, 862] no _output_shapes attribute
+[866: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[867: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 866] no _output_shapes attribute
+[868: Const: /job:localhost/replica:0/task:0/gpu:0]
+[869: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[870: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 869] no _output_shapes attribute
+[871: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 870] no _output_shapes attribute
+[no, 0, Const, 868] no _output_shapes attribute
+[872: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 871] no _output_shapes attribute
+[873: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[874: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 873] no _output_shapes attribute
+[875: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 874] no _output_shapes attribute
+[no, 0, Rsqrt, 872] no _output_shapes attribute
+[876: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[877: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 876] no _output_shapes attribute
+[878: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 877] no _output_shapes attribute
+[no, 0, Mul, 875] no _output_shapes attribute
+[879: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[880: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 879] no _output_shapes attribute
+[881: Const: /job:localhost/replica:0/task:0/gpu:0]
+[882: Const: /job:localhost/replica:0/task:0/gpu:0]
+[883: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[884: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 883] no _output_shapes attribute
+[885: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 884] no _output_shapes attribute
+[no, 0, Const, 882] no _output_shapes attribute
+[886: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 885] no _output_shapes attribute
+[887: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[888: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 887] no _output_shapes attribute
+[889: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 888] no _output_shapes attribute
+[no, 0, Rsqrt, 886] no _output_shapes attribute
+[890: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[891: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 890] no _output_shapes attribute
+[892: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 891] no _output_shapes attribute
+[no, 0, Mul, 889] no _output_shapes attribute
+[893: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[894: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 893] no _output_shapes attribute
+[895: Const: /job:localhost/replica:0/task:0/gpu:0]
+[896: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[897: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 896] no _output_shapes attribute
+[898: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 897] no _output_shapes attribute
+[no, 0, Const, 895] no _output_shapes attribute
+[899: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 898] no _output_shapes attribute
+[900: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[901: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 900] no _output_shapes attribute
+[902: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 901] no _output_shapes attribute
+[no, 0, Rsqrt, 899] no _output_shapes attribute
+[903: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[904: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 903] no _output_shapes attribute
+[905: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 904] no _output_shapes attribute
+[no, 0, Mul, 902] no _output_shapes attribute
+[906: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[907: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 906] no _output_shapes attribute
+[908: Const: /job:localhost/replica:0/task:0/gpu:0]
+[909: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[910: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 909] no _output_shapes attribute
+[911: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 910] no _output_shapes attribute
+[no, 0, Const, 908] no _output_shapes attribute
+[912: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 911] no _output_shapes attribute
+[913: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[914: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 913] no _output_shapes attribute
+[915: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 914] no _output_shapes attribute
+[no, 0, Rsqrt, 912] no _output_shapes attribute
+[916: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[917: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 916] no _output_shapes attribute
+[918: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 917] no _output_shapes attribute
+[no, 0, Mul, 915] no _output_shapes attribute
+[919: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[920: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 919] no _output_shapes attribute
+[921: Const: /job:localhost/replica:0/task:0/gpu:0]
+[922: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[923: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 922] no _output_shapes attribute
+[924: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 923] no _output_shapes attribute
+[no, 0, Const, 921] no _output_shapes attribute
+[925: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 924] no _output_shapes attribute
+[926: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[927: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 926] no _output_shapes attribute
+[928: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 927] no _output_shapes attribute
+[no, 0, Rsqrt, 925] no _output_shapes attribute
+[929: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[930: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 929] no _output_shapes attribute
+[931: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 930] no _output_shapes attribute
+[no, 0, Mul, 928] no _output_shapes attribute
+[932: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[933: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 932] no _output_shapes attribute
+[934: Const: /job:localhost/replica:0/task:0/gpu:0]
+[935: Const: /job:localhost/replica:0/task:0/gpu:0]
+[936: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[937: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 936] no _output_shapes attribute
+[938: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 937] no _output_shapes attribute
+[no, 0, Const, 935] no _output_shapes attribute
+[939: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 938] no _output_shapes attribute
+[940: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[941: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 940] no _output_shapes attribute
+[942: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 941] no _output_shapes attribute
+[no, 0, Rsqrt, 939] no _output_shapes attribute
+[943: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[944: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 943] no _output_shapes attribute
+[945: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 944] no _output_shapes attribute
+[no, 0, Mul, 942] no _output_shapes attribute
+[946: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[947: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 946] no _output_shapes attribute
+[948: Const: /job:localhost/replica:0/task:0/gpu:0]
+[949: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[950: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 949] no _output_shapes attribute
+[951: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 950] no _output_shapes attribute
+[no, 0, Const, 948] no _output_shapes attribute
+[952: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 951] no _output_shapes attribute
+[953: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[954: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 953] no _output_shapes attribute
+[955: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 954] no _output_shapes attribute
+[no, 0, Rsqrt, 952] no _output_shapes attribute
+[956: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[957: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 956] no _output_shapes attribute
+[958: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 957] no _output_shapes attribute
+[no, 0, Mul, 955] no _output_shapes attribute
+[959: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[960: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 959] no _output_shapes attribute
+[961: Const: /job:localhost/replica:0/task:0/gpu:0]
+[962: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[963: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 962] no _output_shapes attribute
+[964: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 963] no _output_shapes attribute
+[no, 0, Const, 961] no _output_shapes attribute
+[965: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 964] no _output_shapes attribute
+[966: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[967: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 966] no _output_shapes attribute
+[968: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 967] no _output_shapes attribute
+[no, 0, Rsqrt, 965] no _output_shapes attribute
+[969: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[970: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 969] no _output_shapes attribute
+[971: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 970] no _output_shapes attribute
+[no, 0, Mul, 968] no _output_shapes attribute
+[972: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[973: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 972] no _output_shapes attribute
+[974: Const: /job:localhost/replica:0/task:0/gpu:0]
+[975: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[976: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 975] no _output_shapes attribute
+[977: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 976] no _output_shapes attribute
+[no, 0, Const, 974] no _output_shapes attribute
+[978: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 977] no _output_shapes attribute
+[979: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[980: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 979] no _output_shapes attribute
+[981: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 980] no _output_shapes attribute
+[no, 0, Rsqrt, 978] no _output_shapes attribute
+[982: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[983: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 982] no _output_shapes attribute
+[984: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 983] no _output_shapes attribute
+[no, 0, Mul, 981] no _output_shapes attribute
+[985: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[986: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 985] no _output_shapes attribute
+[987: Const: /job:localhost/replica:0/task:0/gpu:0]
+[988: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[989: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 988] no _output_shapes attribute
+[990: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 989] no _output_shapes attribute
+[no, 0, Const, 987] no _output_shapes attribute
+[991: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 990] no _output_shapes attribute
+[992: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[993: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 992] no _output_shapes attribute
+[994: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 993] no _output_shapes attribute
+[no, 0, Rsqrt, 991] no _output_shapes attribute
+[995: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[996: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 995] no _output_shapes attribute
+[997: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 996] no _output_shapes attribute
+[no, 0, Mul, 994] no _output_shapes attribute
+[998: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[999: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 998] no _output_shapes attribute
+[1000: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1001: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1002: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1001] no _output_shapes attribute
+[1003: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1002] no _output_shapes attribute
+[no, 0, Const, 1000] no _output_shapes attribute
+[1004: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1003] no _output_shapes attribute
+[1005: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1006: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1005] no _output_shapes attribute
+[1007: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1006] no _output_shapes attribute
+[no, 0, Rsqrt, 1004] no _output_shapes attribute
+[1008: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1009: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1008] no _output_shapes attribute
+[1010: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1009] no _output_shapes attribute
+[no, 0, Mul, 1007] no _output_shapes attribute
+[1011: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1012: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1011] no _output_shapes attribute
+[1013: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1014: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1015: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1014] no _output_shapes attribute
+[1016: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1015] no _output_shapes attribute
+[no, 0, Const, 1013] no _output_shapes attribute
+[1017: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1016] no _output_shapes attribute
+[1018: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1019: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1018] no _output_shapes attribute
+[1020: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1019] no _output_shapes attribute
+[no, 0, Rsqrt, 1017] no _output_shapes attribute
+[1021: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1022: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1021] no _output_shapes attribute
+[1023: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1022] no _output_shapes attribute
+[no, 0, Mul, 1020] no _output_shapes attribute
+[1024: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1025: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1024] no _output_shapes attribute
+[1026: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1027: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1028: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1029: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1028] no _output_shapes attribute
+[1030: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1029] no _output_shapes attribute
+[no, 0, Const, 1027] no _output_shapes attribute
+[1031: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1030] no _output_shapes attribute
+[1032: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1033: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1032] no _output_shapes attribute
+[1034: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1033] no _output_shapes attribute
+[no, 0, Rsqrt, 1031] no _output_shapes attribute
+[1035: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1036: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1035] no _output_shapes attribute
+[1037: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1036] no _output_shapes attribute
+[no, 0, Mul, 1034] no _output_shapes attribute
+[1038: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1039: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1038] no _output_shapes attribute
+[1040: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1041: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1042: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1041] no _output_shapes attribute
+[1043: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1042] no _output_shapes attribute
+[no, 0, Const, 1040] no _output_shapes attribute
+[1044: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1043] no _output_shapes attribute
+[1045: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1046: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1045] no _output_shapes attribute
+[1047: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1046] no _output_shapes attribute
+[no, 0, Rsqrt, 1044] no _output_shapes attribute
+[1048: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1049: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1048] no _output_shapes attribute
+[1050: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1049] no _output_shapes attribute
+[no, 0, Mul, 1047] no _output_shapes attribute
+[1051: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1052: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1051] no _output_shapes attribute
+[1053: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1054: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1055: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1054] no _output_shapes attribute
+[1056: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1055] no _output_shapes attribute
+[no, 0, Const, 1053] no _output_shapes attribute
+[1057: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1056] no _output_shapes attribute
+[1058: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1059: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1058] no _output_shapes attribute
+[1060: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1059] no _output_shapes attribute
+[no, 0, Rsqrt, 1057] no _output_shapes attribute
+[1061: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1062: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1061] no _output_shapes attribute
+[1063: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1062] no _output_shapes attribute
+[no, 0, Mul, 1060] no _output_shapes attribute
+[1064: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1065: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1064] no _output_shapes attribute
+[1066: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1067: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1068: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1067] no _output_shapes attribute
+[1069: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1068] no _output_shapes attribute
+[no, 0, Const, 1066] no _output_shapes attribute
+[1070: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1069] no _output_shapes attribute
+[1071: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1072: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1071] no _output_shapes attribute
+[1073: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1072] no _output_shapes attribute
+[no, 0, Rsqrt, 1070] no _output_shapes attribute
+[1074: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1075: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1074] no _output_shapes attribute
+[1076: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1075] no _output_shapes attribute
+[no, 0, Mul, 1073] no _output_shapes attribute
+[1077: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1078: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1077] no _output_shapes attribute
+[1079: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1080: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1081: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1080] no _output_shapes attribute
+[1082: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1081] no _output_shapes attribute
+[no, 0, Const, 1079] no _output_shapes attribute
+[1083: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1082] no _output_shapes attribute
+[1084: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1085: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1084] no _output_shapes attribute
+[1086: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1085] no _output_shapes attribute
+[no, 0, Rsqrt, 1083] no _output_shapes attribute
+[1087: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1088: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1087] no _output_shapes attribute
+[1089: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1088] no _output_shapes attribute
+[no, 0, Mul, 1086] no _output_shapes attribute
+[1090: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1091: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1090] no _output_shapes attribute
+[1092: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1093: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1094: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1093] no _output_shapes attribute
+[1095: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1094] no _output_shapes attribute
+[no, 0, Const, 1092] no _output_shapes attribute
+[1096: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1095] no _output_shapes attribute
+[1097: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1098: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1097] no _output_shapes attribute
+[1099: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1098] no _output_shapes attribute
+[no, 0, Rsqrt, 1096] no _output_shapes attribute
+[1100: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1101: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1100] no _output_shapes attribute
+[1102: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1101] no _output_shapes attribute
+[no, 0, Mul, 1099] no _output_shapes attribute
+[1103: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1104: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1103] no _output_shapes attribute
+[1105: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1106: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1107: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1106] no _output_shapes attribute
+[1108: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1107] no _output_shapes attribute
+[no, 0, Const, 1105] no _output_shapes attribute
+[1109: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1108] no _output_shapes attribute
+[1110: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1111: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1110] no _output_shapes attribute
+[1112: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1111] no _output_shapes attribute
+[no, 0, Rsqrt, 1109] no _output_shapes attribute
+[1113: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1114: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1113] no _output_shapes attribute
+[1115: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1114] no _output_shapes attribute
+[no, 0, Mul, 1112] no _output_shapes attribute
+[1116: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1117: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1116] no _output_shapes attribute
+[1118: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1119: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1120: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1121: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1120] no _output_shapes attribute
+[1122: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1121] no _output_shapes attribute
+[no, 0, Const, 1119] no _output_shapes attribute
+[1123: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1122] no _output_shapes attribute
+[1124: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1125: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1124] no _output_shapes attribute
+[1126: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1125] no _output_shapes attribute
+[no, 0, Rsqrt, 1123] no _output_shapes attribute
+[1127: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1128: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1127] no _output_shapes attribute
+[1129: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1128] no _output_shapes attribute
+[no, 0, Mul, 1126] no _output_shapes attribute
+[1130: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1131: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1130] no _output_shapes attribute
+[1132: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1133: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1134: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1133] no _output_shapes attribute
+[1135: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1134] no _output_shapes attribute
+[no, 0, Const, 1132] no _output_shapes attribute
+[1136: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1135] no _output_shapes attribute
+[1137: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1138: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1137] no _output_shapes attribute
+[1139: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1138] no _output_shapes attribute
+[no, 0, Rsqrt, 1136] no _output_shapes attribute
+[1140: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1141: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1140] no _output_shapes attribute
+[1142: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1141] no _output_shapes attribute
+[no, 0, Mul, 1139] no _output_shapes attribute
+[1143: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1144: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1143] no _output_shapes attribute
+[1145: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1146: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1147: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1146] no _output_shapes attribute
+[1148: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1147] no _output_shapes attribute
+[no, 0, Const, 1145] no _output_shapes attribute
+[1149: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1148] no _output_shapes attribute
+[1150: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1151: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1150] no _output_shapes attribute
+[1152: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1151] no _output_shapes attribute
+[no, 0, Rsqrt, 1149] no _output_shapes attribute
+[1153: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1154: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1153] no _output_shapes attribute
+[1155: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1154] no _output_shapes attribute
+[no, 0, Mul, 1152] no _output_shapes attribute
+[1156: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1157: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1156] no _output_shapes attribute
+[1158: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1159: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1160: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1159] no _output_shapes attribute
+[1161: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1160] no _output_shapes attribute
+[no, 0, Const, 1158] no _output_shapes attribute
+[1162: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1161] no _output_shapes attribute
+[1163: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1164: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1163] no _output_shapes attribute
+[1165: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1164] no _output_shapes attribute
+[no, 0, Rsqrt, 1162] no _output_shapes attribute
+[1166: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1167: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1166] no _output_shapes attribute
+[1168: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1167] no _output_shapes attribute
+[no, 0, Mul, 1165] no _output_shapes attribute
+[1169: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1170: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1169] no _output_shapes attribute
+[1171: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1172: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1173: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1172] no _output_shapes attribute
+[1174: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1173] no _output_shapes attribute
+[no, 0, Const, 1171] no _output_shapes attribute
+[1175: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1174] no _output_shapes attribute
+[1176: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1177: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1176] no _output_shapes attribute
+[1178: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1177] no _output_shapes attribute
+[no, 0, Rsqrt, 1175] no _output_shapes attribute
+[1179: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1180: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1179] no _output_shapes attribute
+[1181: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1180] no _output_shapes attribute
+[no, 0, Mul, 1178] no _output_shapes attribute
+[1182: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1183: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1182] no _output_shapes attribute
+[1184: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1185: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1186: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1185] no _output_shapes attribute
+[1187: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1186] no _output_shapes attribute
+[no, 0, Const, 1184] no _output_shapes attribute
+[1188: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1187] no _output_shapes attribute
+[1189: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1190: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1189] no _output_shapes attribute
+[1191: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1190] no _output_shapes attribute
+[no, 0, Rsqrt, 1188] no _output_shapes attribute
+[1192: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1193: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1192] no _output_shapes attribute
+[1194: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1193] no _output_shapes attribute
+[no, 0, Mul, 1191] no _output_shapes attribute
+[1195: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1196: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1195] no _output_shapes attribute
+[1197: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1198: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1199: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1198] no _output_shapes attribute
+[1200: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1199] no _output_shapes attribute
+[no, 0, Const, 1197] no _output_shapes attribute
+[1201: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1200] no _output_shapes attribute
+[1202: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1203: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1202] no _output_shapes attribute
+[1204: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1203] no _output_shapes attribute
+[no, 0, Rsqrt, 1201] no _output_shapes attribute
+[1205: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1206: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1205] no _output_shapes attribute
+[1207: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1206] no _output_shapes attribute
+[no, 0, Mul, 1204] no _output_shapes attribute
+[1208: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1209: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1208] no _output_shapes attribute
+[1210: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1211: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1212: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1211] no _output_shapes attribute
+[1213: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1212] no _output_shapes attribute
+[no, 0, Const, 1210] no _output_shapes attribute
+[1214: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1213] no _output_shapes attribute
+[1215: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1216: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1215] no _output_shapes attribute
+[1217: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1216] no _output_shapes attribute
+[no, 0, Rsqrt, 1214] no _output_shapes attribute
+[1218: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1219: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1218] no _output_shapes attribute
+[1220: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1219] no _output_shapes attribute
+[no, 0, Mul, 1217] no _output_shapes attribute
+[1221: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1222: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1221] no _output_shapes attribute
+[1223: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1224: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1225: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1224] no _output_shapes attribute
+[1226: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1225] no _output_shapes attribute
+[no, 0, Const, 1223] no _output_shapes attribute
+[1227: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1226] no _output_shapes attribute
+[1228: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1229: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1228] no _output_shapes attribute
+[1230: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1229] no _output_shapes attribute
+[no, 0, Rsqrt, 1227] no _output_shapes attribute
+[1231: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1232: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1231] no _output_shapes attribute
+[1233: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1232] no _output_shapes attribute
+[no, 0, Mul, 1230] no _output_shapes attribute
+[1234: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1235: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1234] no _output_shapes attribute
+[1236: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1237: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1238: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1237] no _output_shapes attribute
+[1239: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1238] no _output_shapes attribute
+[no, 0, Const, 1236] no _output_shapes attribute
+[1240: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1239] no _output_shapes attribute
+[1241: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1242: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1241] no _output_shapes attribute
+[1243: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1242] no _output_shapes attribute
+[no, 0, Rsqrt, 1240] no _output_shapes attribute
+[1244: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1245: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1244] no _output_shapes attribute
+[1246: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1245] no _output_shapes attribute
+[no, 0, Mul, 1243] no _output_shapes attribute
+[1247: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1248: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1247] no _output_shapes attribute
+[1249: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1250: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1251: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1250] no _output_shapes attribute
+[1252: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1251] no _output_shapes attribute
+[no, 0, Const, 1249] no _output_shapes attribute
+[1253: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1252] no _output_shapes attribute
+[1254: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1255: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1254] no _output_shapes attribute
+[1256: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1255] no _output_shapes attribute
+[no, 0, Rsqrt, 1253] no _output_shapes attribute
+[1257: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1258: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1257] no _output_shapes attribute
+[1259: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1258] no _output_shapes attribute
+[no, 0, Mul, 1256] no _output_shapes attribute
+[1260: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1261: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1260] no _output_shapes attribute
+[1262: Const: /job:localhost/replica:0/task:0/gpu:0]
+[1263: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1264: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1263] no _output_shapes attribute
+[1265: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1264] no _output_shapes attribute
+[no, 0, Const, 1262] no _output_shapes attribute
+[1266: Rsqrt: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1265] no _output_shapes attribute
+[1267: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1268: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1267] no _output_shapes attribute
+[1269: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1268] no _output_shapes attribute
+[no, 0, Rsqrt, 1266] no _output_shapes attribute
+[1270: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1271: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1270] no _output_shapes attribute
+[1272: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1271] no _output_shapes attribute
+[no, 0, Mul, 1269] no _output_shapes attribute
+[1273: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1274: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1273] no _output_shapes attribute
+[1275: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[1276: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, VariableV2, 1275] no _output_shapes attribute
+[1277: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1276] no _output_shapes attribute
+[no, 0, Identity, 1274] no _output_shapes attribute
+[1278: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1277] no _output_shapes attribute
+[no, 0, Rsqrt, 1266] no _output_shapes attribute
+[1279: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1278] no _output_shapes attribute
+[no, 0, Sub, 1272] no _output_shapes attribute
+[1280: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1279] no _output_shapes attribute
+[1281: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1280] no _output_shapes attribute
+[no, 0, Identity, 1261] no _output_shapes attribute
+[1282: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1281] no _output_shapes attribute
+[no, 0, Rsqrt, 1253] no _output_shapes attribute
+[1283: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1282] no _output_shapes attribute
+[no, 0, Sub, 1259] no _output_shapes attribute
+[1284: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1283] no _output_shapes attribute
+[1285: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1284] no _output_shapes attribute
+[no, 0, Identity, 1248] no _output_shapes attribute
+[1286: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1285] no _output_shapes attribute
+[no, 0, Rsqrt, 1240] no _output_shapes attribute
+[1287: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1286] no _output_shapes attribute
+[no, 0, Sub, 1246] no _output_shapes attribute
+[1288: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1287] no _output_shapes attribute
+[1289: MaxPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1288] no _output_shapes attribute
+[1290: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, MaxPool, 1289] no _output_shapes attribute
+[no, 0, Identity, 1235] no _output_shapes attribute
+[1291: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1290] no _output_shapes attribute
+[no, 0, Rsqrt, 1227] no _output_shapes attribute
+[1292: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1291] no _output_shapes attribute
+[no, 0, Sub, 1233] no _output_shapes attribute
+[1293: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1292] no _output_shapes attribute
+[1294: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1293] no _output_shapes attribute
+[no, 0, Identity, 1222] no _output_shapes attribute
+[1295: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1294] no _output_shapes attribute
+[no, 0, Rsqrt, 1214] no _output_shapes attribute
+[1296: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1295] no _output_shapes attribute
+[no, 0, Sub, 1220] no _output_shapes attribute
+[1297: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1296] no _output_shapes attribute
+[1298: MaxPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1297] no _output_shapes attribute
+[1299: AvgPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, MaxPool, 1298] no _output_shapes attribute
+[1300: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, AvgPool, 1299] no _output_shapes attribute
+[no, 0, Identity, 1131] no _output_shapes attribute
+[1301: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1300] no _output_shapes attribute
+[no, 0, Rsqrt, 1123] no _output_shapes attribute
+[1302: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1301] no _output_shapes attribute
+[no, 0, Sub, 1129] no _output_shapes attribute
+[1303: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1302] no _output_shapes attribute
+[1304: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, MaxPool, 1298] no _output_shapes attribute
+[no, 0, Identity, 1170] no _output_shapes attribute
+[1305: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1304] no _output_shapes attribute
+[no, 0, Rsqrt, 1162] no _output_shapes attribute
+[1306: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1305] no _output_shapes attribute
+[no, 0, Sub, 1168] no _output_shapes attribute
+[1307: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1306] no _output_shapes attribute
+[1308: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1307] no _output_shapes attribute
+[no, 0, Identity, 1157] no _output_shapes attribute
+[1309: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1308] no _output_shapes attribute
+[no, 0, Rsqrt, 1149] no _output_shapes attribute
+[1310: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1309] no _output_shapes attribute
+[no, 0, Sub, 1155] no _output_shapes attribute
+[1311: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1310] no _output_shapes attribute
+[1312: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1311] no _output_shapes attribute
+[no, 0, Identity, 1144] no _output_shapes attribute
+[1313: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1312] no _output_shapes attribute
+[no, 0, Rsqrt, 1136] no _output_shapes attribute
+[1314: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1313] no _output_shapes attribute
+[no, 0, Sub, 1142] no _output_shapes attribute
+[1315: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1314] no _output_shapes attribute
+[1316: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, MaxPool, 1298] no _output_shapes attribute
+[no, 0, Identity, 1196] no _output_shapes attribute
+[1317: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1316] no _output_shapes attribute
+[no, 0, Rsqrt, 1188] no _output_shapes attribute
+[1318: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1317] no _output_shapes attribute
+[no, 0, Sub, 1194] no _output_shapes attribute
+[1319: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1318] no _output_shapes attribute
+[1320: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1319] no _output_shapes attribute
+[no, 0, Identity, 1183] no _output_shapes attribute
+[1321: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1320] no _output_shapes attribute
+[no, 0, Rsqrt, 1175] no _output_shapes attribute
+[1322: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1321] no _output_shapes attribute
+[no, 0, Sub, 1181] no _output_shapes attribute
+[1323: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1322] no _output_shapes attribute
+[1324: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, MaxPool, 1298] no _output_shapes attribute
+[no, 0, Identity, 1209] no _output_shapes attribute
+[1325: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1324] no _output_shapes attribute
+[no, 0, Rsqrt, 1201] no _output_shapes attribute
+[1326: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1325] no _output_shapes attribute
+[no, 0, Sub, 1207] no _output_shapes attribute
+[1327: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1326] no _output_shapes attribute
+[1328: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1327] no _output_shapes attribute
+[no, 0, Relu, 1323] no _output_shapes attribute
+[no, 0, Relu, 1315] no _output_shapes attribute
+[no, 0, Relu, 1303] no _output_shapes attribute
+[no, 0, Const, 1118] no _output_shapes attribute
+[1329: AvgPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1328] no _output_shapes attribute
+[1330: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, AvgPool, 1329] no _output_shapes attribute
+[no, 0, Identity, 1039] no _output_shapes attribute
+[1331: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1330] no _output_shapes attribute
+[no, 0, Rsqrt, 1031] no _output_shapes attribute
+[1332: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1331] no _output_shapes attribute
+[no, 0, Sub, 1037] no _output_shapes attribute
+[1333: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1332] no _output_shapes attribute
+[1334: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1328] no _output_shapes attribute
+[no, 0, Identity, 1078] no _output_shapes attribute
+[1335: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1334] no _output_shapes attribute
+[no, 0, Rsqrt, 1070] no _output_shapes attribute
+[1336: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1335] no _output_shapes attribute
+[no, 0, Sub, 1076] no _output_shapes attribute
+[1337: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1336] no _output_shapes attribute
+[1338: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1337] no _output_shapes attribute
+[no, 0, Identity, 1065] no _output_shapes attribute
+[1339: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1338] no _output_shapes attribute
+[no, 0, Rsqrt, 1057] no _output_shapes attribute
+[1340: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1339] no _output_shapes attribute
+[no, 0, Sub, 1063] no _output_shapes attribute
+[1341: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1340] no _output_shapes attribute
+[1342: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1341] no _output_shapes attribute
+[no, 0, Identity, 1052] no _output_shapes attribute
+[1343: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1342] no _output_shapes attribute
+[no, 0, Rsqrt, 1044] no _output_shapes attribute
+[1344: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1343] no _output_shapes attribute
+[no, 0, Sub, 1050] no _output_shapes attribute
+[1345: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1344] no _output_shapes attribute
+[1346: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1328] no _output_shapes attribute
+[no, 0, Identity, 1104] no _output_shapes attribute
+[1347: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1346] no _output_shapes attribute
+[no, 0, Rsqrt, 1096] no _output_shapes attribute
+[1348: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1347] no _output_shapes attribute
+[no, 0, Sub, 1102] no _output_shapes attribute
+[1349: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1348] no _output_shapes attribute
+[1350: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1349] no _output_shapes attribute
+[no, 0, Identity, 1091] no _output_shapes attribute
+[1351: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1350] no _output_shapes attribute
+[no, 0, Rsqrt, 1083] no _output_shapes attribute
+[1352: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1351] no _output_shapes attribute
+[no, 0, Sub, 1089] no _output_shapes attribute
+[1353: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1352] no _output_shapes attribute
+[1354: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1328] no _output_shapes attribute
+[no, 0, Identity, 1117] no _output_shapes attribute
+[1355: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1354] no _output_shapes attribute
+[no, 0, Rsqrt, 1109] no _output_shapes attribute
+[1356: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1355] no _output_shapes attribute
+[no, 0, Sub, 1115] no _output_shapes attribute
+[1357: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1356] no _output_shapes attribute
+[1358: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1357] no _output_shapes attribute
+[no, 0, Relu, 1353] no _output_shapes attribute
+[no, 0, Relu, 1345] no _output_shapes attribute
+[no, 0, Relu, 1333] no _output_shapes attribute
+[no, 0, Const, 1026] no _output_shapes attribute
+[1359: AvgPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1358] no _output_shapes attribute
+[1360: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, AvgPool, 1359] no _output_shapes attribute
+[no, 0, Identity, 947] no _output_shapes attribute
+[1361: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1360] no _output_shapes attribute
+[no, 0, Rsqrt, 939] no _output_shapes attribute
+[1362: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1361] no _output_shapes attribute
+[no, 0, Sub, 945] no _output_shapes attribute
+[1363: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1362] no _output_shapes attribute
+[1364: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1358] no _output_shapes attribute
+[no, 0, Identity, 986] no _output_shapes attribute
+[1365: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1364] no _output_shapes attribute
+[no, 0, Rsqrt, 978] no _output_shapes attribute
+[1366: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1365] no _output_shapes attribute
+[no, 0, Sub, 984] no _output_shapes attribute
+[1367: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1366] no _output_shapes attribute
+[1368: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1367] no _output_shapes attribute
+[no, 0, Identity, 973] no _output_shapes attribute
+[1369: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1368] no _output_shapes attribute
+[no, 0, Rsqrt, 965] no _output_shapes attribute
+[1370: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1369] no _output_shapes attribute
+[no, 0, Sub, 971] no _output_shapes attribute
+[1371: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1370] no _output_shapes attribute
+[1372: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1371] no _output_shapes attribute
+[no, 0, Identity, 960] no _output_shapes attribute
+[1373: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1372] no _output_shapes attribute
+[no, 0, Rsqrt, 952] no _output_shapes attribute
+[1374: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1373] no _output_shapes attribute
+[no, 0, Sub, 958] no _output_shapes attribute
+[1375: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1374] no _output_shapes attribute
+[1376: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1358] no _output_shapes attribute
+[no, 0, Identity, 1012] no _output_shapes attribute
+[1377: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1376] no _output_shapes attribute
+[no, 0, Rsqrt, 1004] no _output_shapes attribute
+[1378: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1377] no _output_shapes attribute
+[no, 0, Sub, 1010] no _output_shapes attribute
+[1379: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1378] no _output_shapes attribute
+[1380: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1379] no _output_shapes attribute
+[no, 0, Identity, 999] no _output_shapes attribute
+[1381: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1380] no _output_shapes attribute
+[no, 0, Rsqrt, 991] no _output_shapes attribute
+[1382: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1381] no _output_shapes attribute
+[no, 0, Sub, 997] no _output_shapes attribute
+[1383: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1382] no _output_shapes attribute
+[1384: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1358] no _output_shapes attribute
+[no, 0, Identity, 1025] no _output_shapes attribute
+[1385: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1384] no _output_shapes attribute
+[no, 0, Rsqrt, 1017] no _output_shapes attribute
+[1386: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1385] no _output_shapes attribute
+[no, 0, Sub, 1023] no _output_shapes attribute
+[1387: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1386] no _output_shapes attribute
+[1388: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1387] no _output_shapes attribute
+[no, 0, Relu, 1383] no _output_shapes attribute
+[no, 0, Relu, 1375] no _output_shapes attribute
+[no, 0, Relu, 1363] no _output_shapes attribute
+[no, 0, Const, 934] no _output_shapes attribute
+[1389: MaxPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1388] no _output_shapes attribute
+[1390: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1388] no _output_shapes attribute
+[no, 0, Identity, 920] no _output_shapes attribute
+[1391: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1390] no _output_shapes attribute
+[no, 0, Rsqrt, 912] no _output_shapes attribute
+[1392: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1391] no _output_shapes attribute
+[no, 0, Sub, 918] no _output_shapes attribute
+[1393: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1392] no _output_shapes attribute
+[1394: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1393] no _output_shapes attribute
+[no, 0, Identity, 907] no _output_shapes attribute
+[1395: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1394] no _output_shapes attribute
+[no, 0, Rsqrt, 899] no _output_shapes attribute
+[1396: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1395] no _output_shapes attribute
+[no, 0, Sub, 905] no _output_shapes attribute
+[1397: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1396] no _output_shapes attribute
+[1398: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1397] no _output_shapes attribute
+[no, 0, Identity, 894] no _output_shapes attribute
+[1399: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1398] no _output_shapes attribute
+[no, 0, Rsqrt, 886] no _output_shapes attribute
+[1400: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1399] no _output_shapes attribute
+[no, 0, Sub, 892] no _output_shapes attribute
+[1401: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1400] no _output_shapes attribute
+[1402: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1388] no _output_shapes attribute
+[no, 0, Identity, 933] no _output_shapes attribute
+[1403: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1402] no _output_shapes attribute
+[no, 0, Rsqrt, 925] no _output_shapes attribute
+[1404: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1403] no _output_shapes attribute
+[no, 0, Sub, 931] no _output_shapes attribute
+[1405: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1404] no _output_shapes attribute
+[1406: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1405] no _output_shapes attribute
+[no, 0, Relu, 1401] no _output_shapes attribute
+[no, 0, MaxPool, 1389] no _output_shapes attribute
+[no, 0, Const, 881] no _output_shapes attribute
+[1407: AvgPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1406] no _output_shapes attribute
+[1408: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, AvgPool, 1407] no _output_shapes attribute
+[no, 0, Identity, 763] no _output_shapes attribute
+[1409: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1408] no _output_shapes attribute
+[no, 0, Rsqrt, 755] no _output_shapes attribute
+[1410: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1409] no _output_shapes attribute
+[no, 0, Sub, 761] no _output_shapes attribute
+[1411: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1410] no _output_shapes attribute
+[1412: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1406] no _output_shapes attribute
+[no, 0, Identity, 828] no _output_shapes attribute
+[1413: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1412] no _output_shapes attribute
+[no, 0, Rsqrt, 820] no _output_shapes attribute
+[1414: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1413] no _output_shapes attribute
+[no, 0, Sub, 826] no _output_shapes attribute
+[1415: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1414] no _output_shapes attribute
+[1416: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1415] no _output_shapes attribute
+[no, 0, Identity, 815] no _output_shapes attribute
+[1417: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1416] no _output_shapes attribute
+[no, 0, Rsqrt, 807] no _output_shapes attribute
+[1418: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1417] no _output_shapes attribute
+[no, 0, Sub, 813] no _output_shapes attribute
+[1419: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1418] no _output_shapes attribute
+[1420: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1419] no _output_shapes attribute
+[no, 0, Identity, 802] no _output_shapes attribute
+[1421: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1420] no _output_shapes attribute
+[no, 0, Rsqrt, 794] no _output_shapes attribute
+[1422: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1421] no _output_shapes attribute
+[no, 0, Sub, 800] no _output_shapes attribute
+[1423: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1422] no _output_shapes attribute
+[1424: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1423] no _output_shapes attribute
+[no, 0, Identity, 789] no _output_shapes attribute
+[1425: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1424] no _output_shapes attribute
+[no, 0, Rsqrt, 781] no _output_shapes attribute
+[1426: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1425] no _output_shapes attribute
+[no, 0, Sub, 787] no _output_shapes attribute
+[1427: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1426] no _output_shapes attribute
+[1428: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1427] no _output_shapes attribute
+[no, 0, Identity, 776] no _output_shapes attribute
+[1429: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1428] no _output_shapes attribute
+[no, 0, Rsqrt, 768] no _output_shapes attribute
+[1430: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1429] no _output_shapes attribute
+[no, 0, Sub, 774] no _output_shapes attribute
+[1431: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1430] no _output_shapes attribute
+[1432: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1406] no _output_shapes attribute
+[no, 0, Identity, 867] no _output_shapes attribute
+[1433: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1432] no _output_shapes attribute
+[no, 0, Rsqrt, 859] no _output_shapes attribute
+[1434: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1433] no _output_shapes attribute
+[no, 0, Sub, 865] no _output_shapes attribute
+[1435: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1434] no _output_shapes attribute
+[1436: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1435] no _output_shapes attribute
+[no, 0, Identity, 854] no _output_shapes attribute
+[1437: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1436] no _output_shapes attribute
+[no, 0, Rsqrt, 846] no _output_shapes attribute
+[1438: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1437] no _output_shapes attribute
+[no, 0, Sub, 852] no _output_shapes attribute
+[1439: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1438] no _output_shapes attribute
+[1440: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1439] no _output_shapes attribute
+[no, 0, Identity, 841] no _output_shapes attribute
+[1441: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1440] no _output_shapes attribute
+[no, 0, Rsqrt, 833] no _output_shapes attribute
+[1442: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1441] no _output_shapes attribute
+[no, 0, Sub, 839] no _output_shapes attribute
+[1443: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1442] no _output_shapes attribute
+[1444: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1406] no _output_shapes attribute
+[no, 0, Identity, 880] no _output_shapes attribute
+[1445: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1444] no _output_shapes attribute
+[no, 0, Rsqrt, 872] no _output_shapes attribute
+[1446: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1445] no _output_shapes attribute
+[no, 0, Sub, 878] no _output_shapes attribute
+[1447: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1446] no _output_shapes attribute
+[1448: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1447] no _output_shapes attribute
+[no, 0, Relu, 1443] no _output_shapes attribute
+[no, 0, Relu, 1431] no _output_shapes attribute
+[no, 0, Relu, 1411] no _output_shapes attribute
+[no, 0, Const, 750] no _output_shapes attribute
+[1449: AvgPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1448] no _output_shapes attribute
+[1450: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, AvgPool, 1449] no _output_shapes attribute
+[no, 0, Identity, 632] no _output_shapes attribute
+[1451: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1450] no _output_shapes attribute
+[no, 0, Rsqrt, 624] no _output_shapes attribute
+[1452: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1451] no _output_shapes attribute
+[no, 0, Sub, 630] no _output_shapes attribute
+[1453: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1452] no _output_shapes attribute
+[1454: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1448] no _output_shapes attribute
+[no, 0, Identity, 697] no _output_shapes attribute
+[1455: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1454] no _output_shapes attribute
+[no, 0, Rsqrt, 689] no _output_shapes attribute
+[1456: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1455] no _output_shapes attribute
+[no, 0, Sub, 695] no _output_shapes attribute
+[1457: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1456] no _output_shapes attribute
+[1458: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1457] no _output_shapes attribute
+[no, 0, Identity, 684] no _output_shapes attribute
+[1459: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1458] no _output_shapes attribute
+[no, 0, Rsqrt, 676] no _output_shapes attribute
+[1460: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1459] no _output_shapes attribute
+[no, 0, Sub, 682] no _output_shapes attribute
+[1461: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1460] no _output_shapes attribute
+[1462: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1461] no _output_shapes attribute
+[no, 0, Identity, 671] no _output_shapes attribute
+[1463: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1462] no _output_shapes attribute
+[no, 0, Rsqrt, 663] no _output_shapes attribute
+[1464: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1463] no _output_shapes attribute
+[no, 0, Sub, 669] no _output_shapes attribute
+[1465: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1464] no _output_shapes attribute
+[1466: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1465] no _output_shapes attribute
+[no, 0, Identity, 658] no _output_shapes attribute
+[1467: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1466] no _output_shapes attribute
+[no, 0, Rsqrt, 650] no _output_shapes attribute
+[1468: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1467] no _output_shapes attribute
+[no, 0, Sub, 656] no _output_shapes attribute
+[1469: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1468] no _output_shapes attribute
+[1470: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1469] no _output_shapes attribute
+[no, 0, Identity, 645] no _output_shapes attribute
+[1471: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1470] no _output_shapes attribute
+[no, 0, Rsqrt, 637] no _output_shapes attribute
+[1472: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1471] no _output_shapes attribute
+[no, 0, Sub, 643] no _output_shapes attribute
+[1473: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1472] no _output_shapes attribute
+[1474: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1448] no _output_shapes attribute
+[no, 0, Identity, 736] no _output_shapes attribute
+[1475: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1474] no _output_shapes attribute
+[no, 0, Rsqrt, 728] no _output_shapes attribute
+[1476: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1475] no _output_shapes attribute
+[no, 0, Sub, 734] no _output_shapes attribute
+[1477: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1476] no _output_shapes attribute
+[1478: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1477] no _output_shapes attribute
+[no, 0, Identity, 723] no _output_shapes attribute
+[1479: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1478] no _output_shapes attribute
+[no, 0, Rsqrt, 715] no _output_shapes attribute
+[1480: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1479] no _output_shapes attribute
+[no, 0, Sub, 721] no _output_shapes attribute
+[1481: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1480] no _output_shapes attribute
+[1482: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1481] no _output_shapes attribute
+[no, 0, Identity, 710] no _output_shapes attribute
+[1483: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1482] no _output_shapes attribute
+[no, 0, Rsqrt, 702] no _output_shapes attribute
+[1484: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1483] no _output_shapes attribute
+[no, 0, Sub, 708] no _output_shapes attribute
+[1485: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1484] no _output_shapes attribute
+[1486: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1448] no _output_shapes attribute
+[no, 0, Identity, 749] no _output_shapes attribute
+[1487: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1486] no _output_shapes attribute
+[no, 0, Rsqrt, 741] no _output_shapes attribute
+[1488: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1487] no _output_shapes attribute
+[no, 0, Sub, 747] no _output_shapes attribute
+[1489: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1488] no _output_shapes attribute
+[1490: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1489] no _output_shapes attribute
+[no, 0, Relu, 1485] no _output_shapes attribute
+[no, 0, Relu, 1473] no _output_shapes attribute
+[no, 0, Relu, 1453] no _output_shapes attribute
+[no, 0, Const, 619] no _output_shapes attribute
+[1491: AvgPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1490] no _output_shapes attribute
+[1492: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, AvgPool, 1491] no _output_shapes attribute
+[no, 0, Identity, 501] no _output_shapes attribute
+[1493: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1492] no _output_shapes attribute
+[no, 0, Rsqrt, 493] no _output_shapes attribute
+[1494: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1493] no _output_shapes attribute
+[no, 0, Sub, 499] no _output_shapes attribute
+[1495: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1494] no _output_shapes attribute
+[1496: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1490] no _output_shapes attribute
+[no, 0, Identity, 566] no _output_shapes attribute
+[1497: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1496] no _output_shapes attribute
+[no, 0, Rsqrt, 558] no _output_shapes attribute
+[1498: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1497] no _output_shapes attribute
+[no, 0, Sub, 564] no _output_shapes attribute
+[1499: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1498] no _output_shapes attribute
+[1500: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1499] no _output_shapes attribute
+[no, 0, Identity, 553] no _output_shapes attribute
+[1501: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1500] no _output_shapes attribute
+[no, 0, Rsqrt, 545] no _output_shapes attribute
+[1502: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1501] no _output_shapes attribute
+[no, 0, Sub, 551] no _output_shapes attribute
+[1503: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1502] no _output_shapes attribute
+[1504: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1503] no _output_shapes attribute
+[no, 0, Identity, 540] no _output_shapes attribute
+[1505: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1504] no _output_shapes attribute
+[no, 0, Rsqrt, 532] no _output_shapes attribute
+[1506: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1505] no _output_shapes attribute
+[no, 0, Sub, 538] no _output_shapes attribute
+[1507: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1506] no _output_shapes attribute
+[1508: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1507] no _output_shapes attribute
+[no, 0, Identity, 527] no _output_shapes attribute
+[1509: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1508] no _output_shapes attribute
+[no, 0, Rsqrt, 519] no _output_shapes attribute
+[1510: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1509] no _output_shapes attribute
+[no, 0, Sub, 525] no _output_shapes attribute
+[1511: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1510] no _output_shapes attribute
+[1512: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1511] no _output_shapes attribute
+[no, 0, Identity, 514] no _output_shapes attribute
+[1513: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1512] no _output_shapes attribute
+[no, 0, Rsqrt, 506] no _output_shapes attribute
+[1514: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1513] no _output_shapes attribute
+[no, 0, Sub, 512] no _output_shapes attribute
+[1515: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1514] no _output_shapes attribute
+[1516: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1490] no _output_shapes attribute
+[no, 0, Identity, 605] no _output_shapes attribute
+[1517: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1516] no _output_shapes attribute
+[no, 0, Rsqrt, 597] no _output_shapes attribute
+[1518: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1517] no _output_shapes attribute
+[no, 0, Sub, 603] no _output_shapes attribute
+[1519: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1518] no _output_shapes attribute
+[1520: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1519] no _output_shapes attribute
+[no, 0, Identity, 592] no _output_shapes attribute
+[1521: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1520] no _output_shapes attribute
+[no, 0, Rsqrt, 584] no _output_shapes attribute
+[1522: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1521] no _output_shapes attribute
+[no, 0, Sub, 590] no _output_shapes attribute
+[1523: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1522] no _output_shapes attribute
+[1524: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1523] no _output_shapes attribute
+[no, 0, Identity, 579] no _output_shapes attribute
+[1525: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1524] no _output_shapes attribute
+[no, 0, Rsqrt, 571] no _output_shapes attribute
+[1526: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1525] no _output_shapes attribute
+[no, 0, Sub, 577] no _output_shapes attribute
+[1527: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1526] no _output_shapes attribute
+[1528: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1490] no _output_shapes attribute
+[no, 0, Identity, 618] no _output_shapes attribute
+[1529: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1528] no _output_shapes attribute
+[no, 0, Rsqrt, 610] no _output_shapes attribute
+[1530: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1529] no _output_shapes attribute
+[no, 0, Sub, 616] no _output_shapes attribute
+[1531: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1530] no _output_shapes attribute
+[1532: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1531] no _output_shapes attribute
+[no, 0, Relu, 1527] no _output_shapes attribute
+[no, 0, Relu, 1515] no _output_shapes attribute
+[no, 0, Relu, 1495] no _output_shapes attribute
+[no, 0, Const, 488] no _output_shapes attribute
+[1533: AvgPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1532] no _output_shapes attribute
+[1534: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, AvgPool, 1533] no _output_shapes attribute
+[no, 0, Identity, 370] no _output_shapes attribute
+[1535: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1534] no _output_shapes attribute
+[no, 0, Rsqrt, 362] no _output_shapes attribute
+[1536: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1535] no _output_shapes attribute
+[no, 0, Sub, 368] no _output_shapes attribute
+[1537: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1536] no _output_shapes attribute
+[1538: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1532] no _output_shapes attribute
+[no, 0, Identity, 435] no _output_shapes attribute
+[1539: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1538] no _output_shapes attribute
+[no, 0, Rsqrt, 427] no _output_shapes attribute
+[1540: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1539] no _output_shapes attribute
+[no, 0, Sub, 433] no _output_shapes attribute
+[1541: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1540] no _output_shapes attribute
+[1542: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1541] no _output_shapes attribute
+[no, 0, Identity, 422] no _output_shapes attribute
+[1543: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1542] no _output_shapes attribute
+[no, 0, Rsqrt, 414] no _output_shapes attribute
+[1544: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1543] no _output_shapes attribute
+[no, 0, Sub, 420] no _output_shapes attribute
+[1545: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1544] no _output_shapes attribute
+[1546: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1545] no _output_shapes attribute
+[no, 0, Identity, 409] no _output_shapes attribute
+[1547: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1546] no _output_shapes attribute
+[no, 0, Rsqrt, 401] no _output_shapes attribute
+[1548: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1547] no _output_shapes attribute
+[no, 0, Sub, 407] no _output_shapes attribute
+[1549: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1548] no _output_shapes attribute
+[1550: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1549] no _output_shapes attribute
+[no, 0, Identity, 396] no _output_shapes attribute
+[1551: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1550] no _output_shapes attribute
+[no, 0, Rsqrt, 388] no _output_shapes attribute
+[1552: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1551] no _output_shapes attribute
+[no, 0, Sub, 394] no _output_shapes attribute
+[1553: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1552] no _output_shapes attribute
+[1554: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1553] no _output_shapes attribute
+[no, 0, Identity, 383] no _output_shapes attribute
+[1555: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1554] no _output_shapes attribute
+[no, 0, Rsqrt, 375] no _output_shapes attribute
+[1556: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1555] no _output_shapes attribute
+[no, 0, Sub, 381] no _output_shapes attribute
+[1557: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1556] no _output_shapes attribute
+[1558: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1532] no _output_shapes attribute
+[no, 0, Identity, 474] no _output_shapes attribute
+[1559: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1558] no _output_shapes attribute
+[no, 0, Rsqrt, 466] no _output_shapes attribute
+[1560: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1559] no _output_shapes attribute
+[no, 0, Sub, 472] no _output_shapes attribute
+[1561: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1560] no _output_shapes attribute
+[1562: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1561] no _output_shapes attribute
+[no, 0, Identity, 461] no _output_shapes attribute
+[1563: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1562] no _output_shapes attribute
+[no, 0, Rsqrt, 453] no _output_shapes attribute
+[1564: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1563] no _output_shapes attribute
+[no, 0, Sub, 459] no _output_shapes attribute
+[1565: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1564] no _output_shapes attribute
+[1566: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1565] no _output_shapes attribute
+[no, 0, Identity, 448] no _output_shapes attribute
+[1567: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1566] no _output_shapes attribute
+[no, 0, Rsqrt, 440] no _output_shapes attribute
+[1568: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1567] no _output_shapes attribute
+[no, 0, Sub, 446] no _output_shapes attribute
+[1569: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1568] no _output_shapes attribute
+[1570: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1532] no _output_shapes attribute
+[no, 0, Identity, 487] no _output_shapes attribute
+[1571: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1570] no _output_shapes attribute
+[no, 0, Rsqrt, 479] no _output_shapes attribute
+[1572: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1571] no _output_shapes attribute
+[no, 0, Sub, 485] no _output_shapes attribute
+[1573: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1572] no _output_shapes attribute
+[1574: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1573] no _output_shapes attribute
+[no, 0, Relu, 1569] no _output_shapes attribute
+[no, 0, Relu, 1557] no _output_shapes attribute
+[no, 0, Relu, 1537] no _output_shapes attribute
+[no, 0, Const, 357] no _output_shapes attribute
+[1575: MaxPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1574] no _output_shapes attribute
+[1576: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1574] no _output_shapes attribute
+[no, 0, Identity, 299] no _output_shapes attribute
+[1577: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1576] no _output_shapes attribute
+[no, 0, Rsqrt, 291] no _output_shapes attribute
+[1578: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1577] no _output_shapes attribute
+[no, 0, Sub, 297] no _output_shapes attribute
+[1579: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1578] no _output_shapes attribute
+[1580: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1579] no _output_shapes attribute
+[no, 0, Identity, 286] no _output_shapes attribute
+[1581: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1580] no _output_shapes attribute
+[no, 0, Rsqrt, 278] no _output_shapes attribute
+[1582: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1581] no _output_shapes attribute
+[no, 0, Sub, 284] no _output_shapes attribute
+[1583: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1582] no _output_shapes attribute
+[1584: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1583] no _output_shapes attribute
+[no, 0, Identity, 273] no _output_shapes attribute
+[1585: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1584] no _output_shapes attribute
+[no, 0, Rsqrt, 265] no _output_shapes attribute
+[1586: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1585] no _output_shapes attribute
+[no, 0, Sub, 271] no _output_shapes attribute
+[1587: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1586] no _output_shapes attribute
+[1588: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1587] no _output_shapes attribute
+[no, 0, Identity, 260] no _output_shapes attribute
+[1589: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1588] no _output_shapes attribute
+[no, 0, Rsqrt, 252] no _output_shapes attribute
+[1590: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1589] no _output_shapes attribute
+[no, 0, Sub, 258] no _output_shapes attribute
+[1591: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1590] no _output_shapes attribute
+[1592: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1574] no _output_shapes attribute
+[no, 0, Identity, 325] no _output_shapes attribute
+[1593: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1592] no _output_shapes attribute
+[no, 0, Rsqrt, 317] no _output_shapes attribute
+[1594: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1593] no _output_shapes attribute
+[no, 0, Sub, 323] no _output_shapes attribute
+[1595: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1594] no _output_shapes attribute
+[1596: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1595] no _output_shapes attribute
+[no, 0, Identity, 312] no _output_shapes attribute
+[1597: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1596] no _output_shapes attribute
+[no, 0, Rsqrt, 304] no _output_shapes attribute
+[1598: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1597] no _output_shapes attribute
+[no, 0, Sub, 310] no _output_shapes attribute
+[1599: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1598] no _output_shapes attribute
+[1600: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1599] no _output_shapes attribute
+[no, 0, Relu, 1591] no _output_shapes attribute
+[no, 0, MaxPool, 1575] no _output_shapes attribute
+[no, 0, Const, 247] no _output_shapes attribute
+[1601: AvgPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1600] no _output_shapes attribute
+[1602: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, AvgPool, 1601] no _output_shapes attribute
+[no, 0, Identity, 140] no _output_shapes attribute
+[1603: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1602] no _output_shapes attribute
+[no, 0, Rsqrt, 132] no _output_shapes attribute
+[1604: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1603] no _output_shapes attribute
+[no, 0, Sub, 138] no _output_shapes attribute
+[1605: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1604] no _output_shapes attribute
+[1606: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1600] no _output_shapes attribute
+[no, 0, Identity, 193] no _output_shapes attribute
+[1607: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1606] no _output_shapes attribute
+[no, 0, Rsqrt, 185] no _output_shapes attribute
+[1608: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1607] no _output_shapes attribute
+[no, 0, Sub, 191] no _output_shapes attribute
+[1609: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1608] no _output_shapes attribute
+[1610: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1609] no _output_shapes attribute
+[no, 0, Identity, 180] no _output_shapes attribute
+[1611: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1610] no _output_shapes attribute
+[no, 0, Rsqrt, 172] no _output_shapes attribute
+[1612: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1611] no _output_shapes attribute
+[no, 0, Sub, 178] no _output_shapes attribute
+[1613: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1612] no _output_shapes attribute
+[1614: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1613] no _output_shapes attribute
+[no, 0, Identity, 154] no _output_shapes attribute
+[1615: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1614] no _output_shapes attribute
+[no, 0, Rsqrt, 146] no _output_shapes attribute
+[1616: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1615] no _output_shapes attribute
+[no, 0, Sub, 152] no _output_shapes attribute
+[1617: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1616] no _output_shapes attribute
+[1618: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1613] no _output_shapes attribute
+[no, 0, Identity, 167] no _output_shapes attribute
+[1619: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1618] no _output_shapes attribute
+[no, 0, Rsqrt, 159] no _output_shapes attribute
+[1620: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1619] no _output_shapes attribute
+[no, 0, Sub, 165] no _output_shapes attribute
+[1621: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1620] no _output_shapes attribute
+[1622: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1621] no _output_shapes attribute
+[no, 0, Relu, 1617] no _output_shapes attribute
+[no, 0, Const, 141] no _output_shapes attribute
+[1623: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1600] no _output_shapes attribute
+[no, 0, Identity, 233] no _output_shapes attribute
+[1624: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1623] no _output_shapes attribute
+[no, 0, Rsqrt, 225] no _output_shapes attribute
+[1625: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1624] no _output_shapes attribute
+[no, 0, Sub, 231] no _output_shapes attribute
+[1626: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1625] no _output_shapes attribute
+[1627: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1626] no _output_shapes attribute
+[no, 0, Identity, 207] no _output_shapes attribute
+[1628: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1627] no _output_shapes attribute
+[no, 0, Rsqrt, 199] no _output_shapes attribute
+[1629: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1628] no _output_shapes attribute
+[no, 0, Sub, 205] no _output_shapes attribute
+[1630: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1629] no _output_shapes attribute
+[1631: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1626] no _output_shapes attribute
+[no, 0, Identity, 220] no _output_shapes attribute
+[1632: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1631] no _output_shapes attribute
+[no, 0, Rsqrt, 212] no _output_shapes attribute
+[1633: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1632] no _output_shapes attribute
+[no, 0, Sub, 218] no _output_shapes attribute
+[1634: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1633] no _output_shapes attribute
+[1635: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1634] no _output_shapes attribute
+[no, 0, Relu, 1630] no _output_shapes attribute
+[no, 0, Const, 194] no _output_shapes attribute
+[1636: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1600] no _output_shapes attribute
+[no, 0, Identity, 246] no _output_shapes attribute
+[1637: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1636] no _output_shapes attribute
+[no, 0, Rsqrt, 238] no _output_shapes attribute
+[1638: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1637] no _output_shapes attribute
+[no, 0, Sub, 244] no _output_shapes attribute
+[1639: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1638] no _output_shapes attribute
+[1640: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1639] no _output_shapes attribute
+[no, 0, ConcatV2, 1635] no _output_shapes attribute
+[no, 0, ConcatV2, 1622] no _output_shapes attribute
+[no, 0, Relu, 1605] no _output_shapes attribute
+[no, 0, Const, 127] no _output_shapes attribute
+[1641: AvgPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1640] no _output_shapes attribute
+[1642: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, AvgPool, 1641] no _output_shapes attribute
+[no, 0, Identity, 20] no _output_shapes attribute
+[1643: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1642] no _output_shapes attribute
+[no, 0, Rsqrt, 12] no _output_shapes attribute
+[1644: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1643] no _output_shapes attribute
+[no, 0, Sub, 18] no _output_shapes attribute
+[1645: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1644] no _output_shapes attribute
+[1646: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1640] no _output_shapes attribute
+[no, 0, Identity, 73] no _output_shapes attribute
+[1647: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1646] no _output_shapes attribute
+[no, 0, Rsqrt, 65] no _output_shapes attribute
+[1648: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1647] no _output_shapes attribute
+[no, 0, Sub, 71] no _output_shapes attribute
+[1649: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1648] no _output_shapes attribute
+[1650: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1649] no _output_shapes attribute
+[no, 0, Identity, 60] no _output_shapes attribute
+[1651: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1650] no _output_shapes attribute
+[no, 0, Rsqrt, 52] no _output_shapes attribute
+[1652: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1651] no _output_shapes attribute
+[no, 0, Sub, 58] no _output_shapes attribute
+[1653: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1652] no _output_shapes attribute
+[1654: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1653] no _output_shapes attribute
+[no, 0, Identity, 34] no _output_shapes attribute
+[1655: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1654] no _output_shapes attribute
+[no, 0, Rsqrt, 26] no _output_shapes attribute
+[1656: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1655] no _output_shapes attribute
+[no, 0, Sub, 32] no _output_shapes attribute
+[1657: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1656] no _output_shapes attribute
+[1658: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1653] no _output_shapes attribute
+[no, 0, Identity, 47] no _output_shapes attribute
+[1659: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1658] no _output_shapes attribute
+[no, 0, Rsqrt, 39] no _output_shapes attribute
+[1660: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1659] no _output_shapes attribute
+[no, 0, Sub, 45] no _output_shapes attribute
+[1661: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1660] no _output_shapes attribute
+[1662: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1661] no _output_shapes attribute
+[no, 0, Relu, 1657] no _output_shapes attribute
+[no, 0, Const, 21] no _output_shapes attribute
+[1663: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1640] no _output_shapes attribute
+[no, 0, Identity, 113] no _output_shapes attribute
+[1664: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1663] no _output_shapes attribute
+[no, 0, Rsqrt, 105] no _output_shapes attribute
+[1665: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1664] no _output_shapes attribute
+[no, 0, Sub, 111] no _output_shapes attribute
+[1666: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1665] no _output_shapes attribute
+[1667: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1666] no _output_shapes attribute
+[no, 0, Identity, 87] no _output_shapes attribute
+[1668: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1667] no _output_shapes attribute
+[no, 0, Rsqrt, 79] no _output_shapes attribute
+[1669: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1668] no _output_shapes attribute
+[no, 0, Sub, 85] no _output_shapes attribute
+[1670: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1669] no _output_shapes attribute
+[1671: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1666] no _output_shapes attribute
+[no, 0, Identity, 100] no _output_shapes attribute
+[1672: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1671] no _output_shapes attribute
+[no, 0, Rsqrt, 92] no _output_shapes attribute
+[1673: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1672] no _output_shapes attribute
+[no, 0, Sub, 98] no _output_shapes attribute
+[1674: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1673] no _output_shapes attribute
+[1675: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1674] no _output_shapes attribute
+[no, 0, Relu, 1670] no _output_shapes attribute
+[no, 0, Const, 74] no _output_shapes attribute
+[1676: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1640] no _output_shapes attribute
+[no, 0, Identity, 126] no _output_shapes attribute
+[1677: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1676] no _output_shapes attribute
+[no, 0, Rsqrt, 118] no _output_shapes attribute
+[1678: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1677] no _output_shapes attribute
+[no, 0, Sub, 124] no _output_shapes attribute
+[1679: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1678] no _output_shapes attribute
+[1680: ConcatV2: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1679] no _output_shapes attribute
+[no, 0, ConcatV2, 1675] no _output_shapes attribute
+[no, 0, ConcatV2, 1662] no _output_shapes attribute
+[no, 0, Relu, 1645] no _output_shapes attribute
+[no, 0, Const, 7] no _output_shapes attribute
+[1681: AvgPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1680] no _output_shapes attribute
+[1682: Reshape: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, AvgPool, 1681] no _output_shapes attribute
+[no, 0, Const, 6] no _output_shapes attribute
+[1683: MatMul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Reshape, 1682] no _output_shapes attribute
+[no, 0, Identity, 5] no _output_shapes attribute
+[1684: BiasAdd: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, MatMul, 1683] no _output_shapes attribute
+[no, 0, Identity, 3] no _output_shapes attribute
+[1685: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, ConcatV2, 1574] no _output_shapes attribute
+[1686: AvgPool: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Identity, 1685] no _output_shapes attribute
+[1687: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, AvgPool, 1686] no _output_shapes attribute
+[no, 0, Identity, 356] no _output_shapes attribute
+[1688: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1687] no _output_shapes attribute
+[no, 0, Rsqrt, 348] no _output_shapes attribute
+[1689: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1688] no _output_shapes attribute
+[no, 0, Sub, 354] no _output_shapes attribute
+[1690: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1689] no _output_shapes attribute
+[1691: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1690] no _output_shapes attribute
+[no, 0, Identity, 343] no _output_shapes attribute
+[1692: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Conv2D, 1691] no _output_shapes attribute
+[no, 0, Rsqrt, 335] no _output_shapes attribute
+[1693: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Mul, 1692] no _output_shapes attribute
+[no, 0, Sub, 341] no _output_shapes attribute
+[1694: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Add, 1693] no _output_shapes attribute
+[1695: Reshape: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Relu, 1694] no _output_shapes attribute
+[no, 0, Const, 330] no _output_shapes attribute
+[1696: MatMul: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Reshape, 1695] no _output_shapes attribute
+[no, 0, Identity, 329] no _output_shapes attribute
+[1697: BiasAdd: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, MatMul, 1696] no _output_shapes attribute
+[no, 0, Identity, 327] no _output_shapes attribute
+[1698: Pack: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, BiasAdd, 1684] no _output_shapes attribute
+[no, 0, BiasAdd, 1697] no _output_shapes attribute
+[1699: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, Pack, 1698] no _output_shapes attribute
+[1700: _Retval: /job:localhost/replica:0/task:0/cpu:0]
+[no, 0, Identity, 1699] no _output_shapes attribute

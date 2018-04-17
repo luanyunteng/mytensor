@@ -1,0 +1,2 @@
+[2: NoOp: /job:localhost/replica:0/task:0/device:GPU:0]
+[3: NoOp: /job:localhost/replica:0/task:0/device:GPU:0]

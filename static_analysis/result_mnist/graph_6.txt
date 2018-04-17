@@ -1,0 +1,13 @@
+[0][NoOp][_SOURCE][]	1	1	2	3	8
+[1][NoOp][_SINK][]
+[2][Const][add/y][/job:localhost/replica:0/task:0/device:GPU:0]	11
+[3][VariableV2][global_step][/job:localhost/replica:0/task:0/device:CPU:0]	4	6
+[4][IsVariableInitialized][IsVariableInitialized][/job:localhost/replica:0/task:0/device:CPU:0]	5
+[5][Identity][cond/pred_id][/job:localhost/replica:0/task:0/device:GPU:0]	6	9
+[6][RefSwitch][cond/read/Switch][/job:localhost/replica:0/task:0/device:CPU:0]	7
+[7][Identity][cond/read][/job:localhost/replica:0/task:0/device:GPU:0]	10
+[8][Const][global_step/Initializer/zeros][/job:localhost/replica:0/task:0/device:CPU:0]	9
+[9][Switch][cond/Switch_1][/job:localhost/replica:0/task:0/device:CPU:0]	10
+[10][Merge][cond/Merge][/job:localhost/replica:0/task:0/device:GPU:0]	11
+[11][Add][add][/job:localhost/replica:0/task:0/device:GPU:0]	1	12
+[12][_Retval][_retval_add_0_0][/job:localhost/replica:0/task:0/device:CPU:0]	1

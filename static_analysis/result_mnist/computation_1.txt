@@ -1,0 +1,5 @@
+[2: EncodePng: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, _Arg, 3] no _output_shapes attribute
+[3: _Arg: /job:localhost/replica:0/task:0/device:CPU:0]
+[4: _Retval: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, EncodePng, 2] no _output_shapes attribute

@@ -1,0 +1,21 @@
+[0][NoOp][_SOURCE][]	1	1	2	4	7	8	10	13
+[1][NoOp][_SINK][]
+[2][VariableV2][mean/count][/job:localhost/replica:0/task:0/device:GPU:0]	3
+[3][Identity][mean/count/read][/job:localhost/replica:0/task:0/device:GPU:0]	6	14
+[4][VariableV2][mean/total][/job:localhost/replica:0/task:0/device:GPU:0]	5
+[5][Identity][mean/total/read][/job:localhost/replica:0/task:0/device:GPU:0]	6
+[6][RealDiv][mean/truediv][/job:localhost/replica:0/task:0/device:GPU:0]	15
+[7][VariableV2][global_step][/job:localhost/replica:0/task:0/device:CPU:0]	1	18
+[8][VariableV2][mean_1/count][/job:localhost/replica:0/task:0/device:GPU:0]	9
+[9][Identity][mean_1/count/read][/job:localhost/replica:0/task:0/device:GPU:0]	12	16
+[10][VariableV2][mean_1/total][/job:localhost/replica:0/task:0/device:GPU:0]	11
+[11][Identity][mean_1/total/read][/job:localhost/replica:0/task:0/device:GPU:0]	12
+[12][RealDiv][mean_1/truediv][/job:localhost/replica:0/task:0/device:GPU:0]	17
+[13][Const][mean_1/Greater/y][/job:localhost/replica:0/task:0/device:GPU:0]	14	15	16	17
+[14][Greater][mean/Greater][/job:localhost/replica:0/task:0/device:GPU:0]	15
+[15][Select][mean/value][/job:localhost/replica:0/task:0/device:GPU:0]	1	19
+[16][Greater][mean_1/Greater][/job:localhost/replica:0/task:0/device:GPU:0]	17
+[17][Select][mean_1/value][/job:localhost/replica:0/task:0/device:GPU:0]	1	20
+[18][_Retval][_retval_global_step_0_0][/job:localhost/replica:0/task:0/device:CPU:0]	1
+[19][_Retval][_retval_mean/value_0_1][/job:localhost/replica:0/task:0/device:CPU:0]	1
+[20][_Retval][_retval_mean_1/value_0_2][/job:localhost/replica:0/task:0/device:CPU:0]	1

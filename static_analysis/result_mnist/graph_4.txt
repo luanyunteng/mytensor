@@ -1,0 +1,4 @@
+[0][NoOp][_SOURCE][]	1	1	2
+[1][NoOp][_SINK][]
+[2][NoOp][init_2][/job:localhost/replica:0/task:0/device:GPU:0]	3	3
+[3][NoOp][group_deps_1][/job:localhost/replica:0/task:0/device:GPU:0]	1

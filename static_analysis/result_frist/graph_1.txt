@@ -1,0 +1,58 @@
+[0][NoOp][_SOURCE][]	1	1	1	2	3	4	5	7	9	10	12	18	19	21	23	25	27	29	31	54	55	56
+[1][NoOp][_SINK][]
+[2][Const][Const_1][/job:localhost/replica:0/task:0/gpu:0]	53
+[3][Const][accuracy/ArgMax_1/dimension][/job:localhost/replica:0/task:0/gpu:0]	32
+[4][Const][accuracy/ArgMax/dimension][/job:localhost/replica:0/task:0/gpu:0]	50
+[5][VariableV2][fc2/Variable_1][/job:localhost/replica:0/task:0/gpu:0]	6
+[6][Identity][fc2/Variable_1/read][/job:localhost/replica:0/task:0/gpu:0]	49
+[7][VariableV2][fc2/Variable][/job:localhost/replica:0/task:0/gpu:0]	8
+[8][Identity][fc2/Variable/read][/job:localhost/replica:0/task:0/gpu:0]	48
+[9][Const][dropout/dropout/random_uniform/max][/job:localhost/replica:0/task:0/gpu:0]	11
+[10][Const][dropout/dropout/random_uniform/min][/job:localhost/replica:0/task:0/gpu:0]	11	15
+[11][Sub][dropout/dropout/random_uniform/sub][/job:localhost/replica:0/task:0/gpu:0]	14
+[12][Const][dropout/dropout/Shape][/job:localhost/replica:0/task:0/gpu:0]	13
+[13][RandomUniform][dropout/dropout/random_uniform/RandomUniform][/job:localhost/replica:0/task:0/gpu:0]	14
+[14][Mul][dropout/dropout/random_uniform/mul][/job:localhost/replica:0/task:0/gpu:0]	15
+[15][Add][dropout/dropout/random_uniform][/job:localhost/replica:0/task:0/gpu:0]	16
+[16][Add][dropout/dropout/add][/job:localhost/replica:0/task:0/gpu:0]	17
+[17][Floor][dropout/dropout/Floor][/job:localhost/replica:0/task:0/gpu:0]	47
+[18][Const][fc1/Reshape/shape][/job:localhost/replica:0/task:0/gpu:0]	42
+[19][VariableV2][fc1/Variable_1][/job:localhost/replica:0/task:0/gpu:0]	20
+[20][Identity][fc1/Variable_1/read][/job:localhost/replica:0/task:0/gpu:0]	44
+[21][VariableV2][fc1/Variable][/job:localhost/replica:0/task:0/gpu:0]	22
+[22][Identity][fc1/Variable/read][/job:localhost/replica:0/task:0/gpu:0]	43
+[23][VariableV2][conv2/Variable_1][/job:localhost/replica:0/task:0/gpu:0]	24
+[24][Identity][conv2/Variable_1/read][/job:localhost/replica:0/task:0/gpu:0]	39
+[25][VariableV2][conv2/Variable][/job:localhost/replica:0/task:0/gpu:0]	26
+[26][Identity][conv2/Variable/read][/job:localhost/replica:0/task:0/gpu:0]	38
+[27][VariableV2][conv1/Variable_1][/job:localhost/replica:0/task:0/gpu:0]	28
+[28][Identity][conv1/Variable_1/read][/job:localhost/replica:0/task:0/gpu:0]	35
+[29][VariableV2][conv1/Variable][/job:localhost/replica:0/task:0/gpu:0]	30
+[30][Identity][conv1/Variable/read][/job:localhost/replica:0/task:0/gpu:0]	34
+[31][Const][reshape/Reshape/shape][/job:localhost/replica:0/task:0/gpu:0]	33
+[32][ArgMax][accuracy/ArgMax_1][/job:localhost/replica:0/task:0/gpu:0]	51
+[33][Reshape][reshape/Reshape][/job:localhost/replica:0/task:0/gpu:0]	34
+[34][Conv2D][conv1/Conv2D][/job:localhost/replica:0/task:0/gpu:0]	35
+[35][Add][conv1/add][/job:localhost/replica:0/task:0/gpu:0]	36
+[36][Relu][conv1/Relu][/job:localhost/replica:0/task:0/gpu:0]	37
+[37][MaxPool][pool1/MaxPool][/job:localhost/replica:0/task:0/gpu:0]	38
+[38][Conv2D][conv2/Conv2D][/job:localhost/replica:0/task:0/gpu:0]	39
+[39][Add][conv2/add][/job:localhost/replica:0/task:0/gpu:0]	40
+[40][Relu][conv2/Relu][/job:localhost/replica:0/task:0/gpu:0]	41
+[41][MaxPool][pool2/MaxPool][/job:localhost/replica:0/task:0/gpu:0]	42
+[42][Reshape][fc1/Reshape][/job:localhost/replica:0/task:0/gpu:0]	43
+[43][MatMul][fc1/MatMul][/job:localhost/replica:0/task:0/gpu:0]	44
+[44][Add][fc1/add][/job:localhost/replica:0/task:0/gpu:0]	45
+[45][Relu][fc1/Relu][/job:localhost/replica:0/task:0/gpu:0]	46
+[46][RealDiv][dropout/dropout/div][/job:localhost/replica:0/task:0/gpu:0]	47
+[47][Mul][dropout/dropout/mul][/job:localhost/replica:0/task:0/gpu:0]	48
+[48][MatMul][fc2/MatMul][/job:localhost/replica:0/task:0/gpu:0]	49
+[49][Add][fc2/add][/job:localhost/replica:0/task:0/gpu:0]	50
+[50][ArgMax][accuracy/ArgMax][/job:localhost/replica:0/task:0/gpu:0]	51
+[51][Equal][accuracy/Equal][/job:localhost/replica:0/task:0/gpu:0]	52
+[52][Cast][accuracy/Cast][/job:localhost/replica:0/task:0/gpu:0]	53
+[53][Mean][Mean_1][/job:localhost/replica:0/task:0/gpu:0]	1	57
+[54][_Arg][_arg_Placeholder_0_0][/job:localhost/replica:0/task:0/cpu:0]	33
+[55][_Arg][_arg_Placeholder_1_0_1][/job:localhost/replica:0/task:0/cpu:0]	32
+[56][_Arg][_arg_dropout/Placeholder_0_2][/job:localhost/replica:0/task:0/cpu:0]	46	16
+[57][_Retval][_retval_Mean_1_0_0][/job:localhost/replica:0/task:0/cpu:0]	1

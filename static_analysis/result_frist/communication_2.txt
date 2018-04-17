@@ -1,0 +1,4 @@
+Op[51->52] Name[adam_optimizer/gradients/Mean_grad/Prod_1 -> adam_optimizer/gradients/Mean_grad/Maximum] Device[/job:localhost/replica:0/task:0/gpu:0->/job:localhost/replica:0/task:0/gpu:0] size: 4, #: 1
+Op[53->54] Name[adam_optimizer/gradients/Mean_grad/Shape -> adam_optimizer/gradients/Mean_grad/Prod] Device[/job:localhost/replica:0/task:0/gpu:0->/job:localhost/replica:0/task:0/gpu:0] size: 4, #: 1
+Op[54->55] Name[adam_optimizer/gradients/Mean_grad/Prod -> adam_optimizer/gradients/Mean_grad/floordiv] Device[/job:localhost/replica:0/task:0/gpu:0->/job:localhost/replica:0/task:0/gpu:0] size: 4, #: 1
+Op[55->56] Name[adam_optimizer/gradients/Mean_grad/floordiv -> adam_optimizer/gradients/Mean_grad/Cast] Device[/job:localhost/replica:0/task:0/gpu:0->/job:localhost/replica:0/task:0/gpu:0] size: 4, #: 1

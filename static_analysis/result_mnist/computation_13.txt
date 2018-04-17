@@ -1,0 +1,1343 @@
+[2: Const: /job:localhost/replica:0/task:0/device:CPU:0]
+[3: Const: /job:localhost/replica:0/task:0/device:CPU:0]
+[4: VariableV2: /job:localhost/replica:0/task:0/device:CPU:0]
+[5: IsVariableInitialized: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, VariableV2, 4] no _output_shapes attribute
+[6: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[7: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 6] no _output_shapes attribute
+[8: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[9: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 8] no _output_shapes attribute
+[10: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[11: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 10] no _output_shapes attribute
+[12: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[13: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 12] no _output_shapes attribute
+[14: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[15: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 14] no _output_shapes attribute
+[16: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[17: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 16] no _output_shapes attribute
+[18: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[19: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 18] no _output_shapes attribute
+[20: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[21: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 20] no _output_shapes attribute
+[22: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[23: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 22] no _output_shapes attribute
+[24: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[25: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 24] no _output_shapes attribute
+[26: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[27: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 26] no _output_shapes attribute
+[28: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[29: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 28] no _output_shapes attribute
+[30: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[31: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 30] no _output_shapes attribute
+[32: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[33: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 32] no _output_shapes attribute
+[34: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[35: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 34] no _output_shapes attribute
+[36: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[37: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 36] no _output_shapes attribute
+[38: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[39: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 38] no _output_shapes attribute
+[40: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[41: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 40] no _output_shapes attribute
+[42: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[43: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 42] no _output_shapes attribute
+[44: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[45: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 44] no _output_shapes attribute
+[46: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[47: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 46] no _output_shapes attribute
+[48: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[49: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 48] no _output_shapes attribute
+[50: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[51: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 50] no _output_shapes attribute
+[52: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[53: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 52] no _output_shapes attribute
+[54: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[55: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 54] no _output_shapes attribute
+[56: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[57: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 56] no _output_shapes attribute
+[58: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[59: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 58] no _output_shapes attribute
+[60: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[61: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 60] no _output_shapes attribute
+[62: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[63: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 62] no _output_shapes attribute
+[64: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[65: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 64] no _output_shapes attribute
+[66: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[67: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 66] no _output_shapes attribute
+[68: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[69: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 68] no _output_shapes attribute
+[70: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[71: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 70] no _output_shapes attribute
+[72: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[73: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 72] no _output_shapes attribute
+[74: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[75: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 74] no _output_shapes attribute
+[76: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[77: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 76] no _output_shapes attribute
+[78: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[79: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 78] no _output_shapes attribute
+[80: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[81: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 80] no _output_shapes attribute
+[82: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[83: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 82] no _output_shapes attribute
+[84: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[85: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 84] no _output_shapes attribute
+[86: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[87: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 86] no _output_shapes attribute
+[88: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[89: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 88] no _output_shapes attribute
+[90: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[91: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 90] no _output_shapes attribute
+[92: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[93: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 92] no _output_shapes attribute
+[94: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[95: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 94] no _output_shapes attribute
+[96: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[97: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 96] no _output_shapes attribute
+[98: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[99: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 98] no _output_shapes attribute
+[100: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[101: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 100] no _output_shapes attribute
+[102: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[103: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 102] no _output_shapes attribute
+[104: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[105: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 104] no _output_shapes attribute
+[106: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[107: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 106] no _output_shapes attribute
+[108: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[109: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 108] no _output_shapes attribute
+[110: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[111: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 110] no _output_shapes attribute
+[112: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[113: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 112] no _output_shapes attribute
+[114: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[115: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 114] no _output_shapes attribute
+[116: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[117: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 116] no _output_shapes attribute
+[118: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[119: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 118] no _output_shapes attribute
+[120: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[121: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 120] no _output_shapes attribute
+[122: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[123: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 122] no _output_shapes attribute
+[124: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[125: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 124] no _output_shapes attribute
+[126: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[127: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 126] no _output_shapes attribute
+[128: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[129: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 128] no _output_shapes attribute
+[130: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[131: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 130] no _output_shapes attribute
+[132: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[133: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 132] no _output_shapes attribute
+[134: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[135: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 134] no _output_shapes attribute
+[136: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[137: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 136] no _output_shapes attribute
+[138: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[139: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 138] no _output_shapes attribute
+[140: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[141: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 140] no _output_shapes attribute
+[142: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[143: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 142] no _output_shapes attribute
+[144: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[145: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 144] no _output_shapes attribute
+[146: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[147: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 146] no _output_shapes attribute
+[148: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[149: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 148] no _output_shapes attribute
+[150: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[151: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 150] no _output_shapes attribute
+[152: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[153: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 152] no _output_shapes attribute
+[154: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[155: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 154] no _output_shapes attribute
+[156: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[157: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 156] no _output_shapes attribute
+[158: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[159: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 158] no _output_shapes attribute
+[160: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[161: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 160] no _output_shapes attribute
+[162: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[163: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 162] no _output_shapes attribute
+[164: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[165: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 164] no _output_shapes attribute
+[166: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[167: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 166] no _output_shapes attribute
+[168: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[169: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 168] no _output_shapes attribute
+[170: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[171: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 170] no _output_shapes attribute
+[172: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[173: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 172] no _output_shapes attribute
+[174: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[175: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 174] no _output_shapes attribute
+[176: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[177: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 176] no _output_shapes attribute
+[178: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[179: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 178] no _output_shapes attribute
+[180: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[181: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 180] no _output_shapes attribute
+[182: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[183: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 182] no _output_shapes attribute
+[184: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[185: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 184] no _output_shapes attribute
+[186: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[187: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 186] no _output_shapes attribute
+[188: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[189: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 188] no _output_shapes attribute
+[190: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[191: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 190] no _output_shapes attribute
+[192: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[193: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 192] no _output_shapes attribute
+[194: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[195: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 194] no _output_shapes attribute
+[196: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[197: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 196] no _output_shapes attribute
+[198: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[199: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 198] no _output_shapes attribute
+[200: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[201: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 200] no _output_shapes attribute
+[202: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[203: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 202] no _output_shapes attribute
+[204: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[205: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 204] no _output_shapes attribute
+[206: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[207: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 206] no _output_shapes attribute
+[208: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[209: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 208] no _output_shapes attribute
+[210: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[211: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 210] no _output_shapes attribute
+[212: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[213: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 212] no _output_shapes attribute
+[214: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[215: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 214] no _output_shapes attribute
+[216: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[217: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 216] no _output_shapes attribute
+[218: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[219: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 218] no _output_shapes attribute
+[220: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[221: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 220] no _output_shapes attribute
+[222: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[223: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 222] no _output_shapes attribute
+[224: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[225: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 224] no _output_shapes attribute
+[226: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[227: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 226] no _output_shapes attribute
+[228: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[229: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 228] no _output_shapes attribute
+[230: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[231: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 230] no _output_shapes attribute
+[232: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[233: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 232] no _output_shapes attribute
+[234: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[235: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 234] no _output_shapes attribute
+[236: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[237: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 236] no _output_shapes attribute
+[238: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[239: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 238] no _output_shapes attribute
+[240: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[241: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 240] no _output_shapes attribute
+[242: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[243: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 242] no _output_shapes attribute
+[244: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[245: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 244] no _output_shapes attribute
+[246: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[247: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 246] no _output_shapes attribute
+[248: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[249: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 248] no _output_shapes attribute
+[250: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[251: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 250] no _output_shapes attribute
+[252: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[253: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 252] no _output_shapes attribute
+[254: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[255: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 254] no _output_shapes attribute
+[256: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[257: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 256] no _output_shapes attribute
+[258: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[259: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 258] no _output_shapes attribute
+[260: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[261: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 260] no _output_shapes attribute
+[262: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[263: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 262] no _output_shapes attribute
+[264: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[265: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 264] no _output_shapes attribute
+[266: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[267: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 266] no _output_shapes attribute
+[268: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[269: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 268] no _output_shapes attribute
+[270: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[271: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 270] no _output_shapes attribute
+[272: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[273: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 272] no _output_shapes attribute
+[274: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[275: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 274] no _output_shapes attribute
+[276: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[277: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 276] no _output_shapes attribute
+[278: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[279: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 278] no _output_shapes attribute
+[280: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[281: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 280] no _output_shapes attribute
+[282: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[283: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 282] no _output_shapes attribute
+[284: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[285: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 284] no _output_shapes attribute
+[286: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[287: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 286] no _output_shapes attribute
+[288: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[289: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 288] no _output_shapes attribute
+[290: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[291: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 290] no _output_shapes attribute
+[292: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[293: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 292] no _output_shapes attribute
+[294: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[295: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 294] no _output_shapes attribute
+[296: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[297: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 296] no _output_shapes attribute
+[298: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[299: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 298] no _output_shapes attribute
+[300: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[301: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 300] no _output_shapes attribute
+[302: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[303: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 302] no _output_shapes attribute
+[304: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[305: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 304] no _output_shapes attribute
+[306: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[307: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 306] no _output_shapes attribute
+[308: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[309: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 308] no _output_shapes attribute
+[310: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[311: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 310] no _output_shapes attribute
+[312: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[313: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 312] no _output_shapes attribute
+[314: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[315: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 314] no _output_shapes attribute
+[316: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[317: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 316] no _output_shapes attribute
+[318: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[319: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 318] no _output_shapes attribute
+[320: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[321: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 320] no _output_shapes attribute
+[322: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[323: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 322] no _output_shapes attribute
+[324: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[325: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 324] no _output_shapes attribute
+[326: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[327: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 326] no _output_shapes attribute
+[328: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[329: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 328] no _output_shapes attribute
+[330: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[331: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 330] no _output_shapes attribute
+[332: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[333: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 332] no _output_shapes attribute
+[334: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[335: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 334] no _output_shapes attribute
+[336: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[337: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 336] no _output_shapes attribute
+[338: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[339: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 338] no _output_shapes attribute
+[340: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[341: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 340] no _output_shapes attribute
+[342: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[343: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 342] no _output_shapes attribute
+[344: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[345: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 344] no _output_shapes attribute
+[346: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[347: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 346] no _output_shapes attribute
+[348: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[349: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 348] no _output_shapes attribute
+[350: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[351: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 350] no _output_shapes attribute
+[352: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[353: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 352] no _output_shapes attribute
+[354: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[355: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 354] no _output_shapes attribute
+[356: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[357: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 356] no _output_shapes attribute
+[358: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[359: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 358] no _output_shapes attribute
+[360: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[361: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 360] no _output_shapes attribute
+[362: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[363: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 362] no _output_shapes attribute
+[364: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[365: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 364] no _output_shapes attribute
+[366: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[367: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 366] no _output_shapes attribute
+[368: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[369: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 368] no _output_shapes attribute
+[370: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[371: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 370] no _output_shapes attribute
+[372: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[373: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 372] no _output_shapes attribute
+[374: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[375: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 374] no _output_shapes attribute
+[376: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[377: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 376] no _output_shapes attribute
+[378: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[379: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 378] no _output_shapes attribute
+[380: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[381: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 380] no _output_shapes attribute
+[382: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[383: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 382] no _output_shapes attribute
+[384: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[385: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 384] no _output_shapes attribute
+[386: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[387: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 386] no _output_shapes attribute
+[388: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[389: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 388] no _output_shapes attribute
+[390: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[391: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 390] no _output_shapes attribute
+[392: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[393: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 392] no _output_shapes attribute
+[394: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[395: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 394] no _output_shapes attribute
+[396: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[397: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 396] no _output_shapes attribute
+[398: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[399: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 398] no _output_shapes attribute
+[400: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[401: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 400] no _output_shapes attribute
+[402: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[403: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 402] no _output_shapes attribute
+[404: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[405: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 404] no _output_shapes attribute
+[406: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[407: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 406] no _output_shapes attribute
+[408: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[409: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 408] no _output_shapes attribute
+[410: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[411: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 410] no _output_shapes attribute
+[412: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[413: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 412] no _output_shapes attribute
+[414: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[415: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 414] no _output_shapes attribute
+[416: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[417: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 416] no _output_shapes attribute
+[418: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[419: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 418] no _output_shapes attribute
+[420: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[421: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 420] no _output_shapes attribute
+[422: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[423: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 422] no _output_shapes attribute
+[424: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[425: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 424] no _output_shapes attribute
+[426: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[427: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 426] no _output_shapes attribute
+[428: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[429: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 428] no _output_shapes attribute
+[430: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[431: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 430] no _output_shapes attribute
+[432: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[433: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 432] no _output_shapes attribute
+[434: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[435: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 434] no _output_shapes attribute
+[436: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[437: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 436] no _output_shapes attribute
+[438: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[439: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 438] no _output_shapes attribute
+[440: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[441: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 440] no _output_shapes attribute
+[442: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[443: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 442] no _output_shapes attribute
+[444: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[445: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 444] no _output_shapes attribute
+[446: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[447: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 446] no _output_shapes attribute
+[448: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[449: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 448] no _output_shapes attribute
+[450: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[451: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 450] no _output_shapes attribute
+[452: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[453: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 452] no _output_shapes attribute
+[454: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[455: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 454] no _output_shapes attribute
+[456: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[457: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 456] no _output_shapes attribute
+[458: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[459: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 458] no _output_shapes attribute
+[460: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[461: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 460] no _output_shapes attribute
+[462: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[463: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 462] no _output_shapes attribute
+[464: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[465: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 464] no _output_shapes attribute
+[466: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[467: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 466] no _output_shapes attribute
+[468: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[469: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 468] no _output_shapes attribute
+[470: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[471: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 470] no _output_shapes attribute
+[472: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[473: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 472] no _output_shapes attribute
+[474: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[475: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 474] no _output_shapes attribute
+[476: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[477: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 476] no _output_shapes attribute
+[478: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[479: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 478] no _output_shapes attribute
+[480: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[481: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 480] no _output_shapes attribute
+[482: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[483: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 482] no _output_shapes attribute
+[484: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[485: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 484] no _output_shapes attribute
+[486: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[487: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 486] no _output_shapes attribute
+[488: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[489: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 488] no _output_shapes attribute
+[490: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[491: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 490] no _output_shapes attribute
+[492: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[493: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 492] no _output_shapes attribute
+[494: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[495: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 494] no _output_shapes attribute
+[496: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[497: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 496] no _output_shapes attribute
+[498: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[499: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 498] no _output_shapes attribute
+[500: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[501: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 500] no _output_shapes attribute
+[502: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[503: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 502] no _output_shapes attribute
+[504: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[505: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 504] no _output_shapes attribute
+[506: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[507: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 506] no _output_shapes attribute
+[508: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[509: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 508] no _output_shapes attribute
+[510: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[511: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 510] no _output_shapes attribute
+[512: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[513: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 512] no _output_shapes attribute
+[514: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[515: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 514] no _output_shapes attribute
+[516: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[517: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 516] no _output_shapes attribute
+[518: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[519: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 518] no _output_shapes attribute
+[520: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[521: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 520] no _output_shapes attribute
+[522: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[523: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 522] no _output_shapes attribute
+[524: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[525: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 524] no _output_shapes attribute
+[526: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[527: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 526] no _output_shapes attribute
+[528: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[529: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 528] no _output_shapes attribute
+[530: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[531: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 530] no _output_shapes attribute
+[532: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[533: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 532] no _output_shapes attribute
+[534: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[535: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 534] no _output_shapes attribute
+[536: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[537: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 536] no _output_shapes attribute
+[538: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[539: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 538] no _output_shapes attribute
+[540: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[541: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 540] no _output_shapes attribute
+[542: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[543: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 542] no _output_shapes attribute
+[544: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[545: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 544] no _output_shapes attribute
+[546: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[547: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 546] no _output_shapes attribute
+[548: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[549: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 548] no _output_shapes attribute
+[550: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[551: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 550] no _output_shapes attribute
+[552: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[553: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 552] no _output_shapes attribute
+[554: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[555: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 554] no _output_shapes attribute
+[556: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[557: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 556] no _output_shapes attribute
+[558: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[559: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 558] no _output_shapes attribute
+[560: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[561: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 560] no _output_shapes attribute
+[562: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[563: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 562] no _output_shapes attribute
+[564: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[565: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 564] no _output_shapes attribute
+[566: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[567: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 566] no _output_shapes attribute
+[568: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[569: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 568] no _output_shapes attribute
+[570: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[571: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 570] no _output_shapes attribute
+[572: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[573: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 572] no _output_shapes attribute
+[574: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[575: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 574] no _output_shapes attribute
+[576: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[577: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 576] no _output_shapes attribute
+[578: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[579: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 578] no _output_shapes attribute
+[580: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[581: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 580] no _output_shapes attribute
+[582: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[583: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 582] no _output_shapes attribute
+[584: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[585: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 584] no _output_shapes attribute
+[586: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[587: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 586] no _output_shapes attribute
+[588: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[589: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 588] no _output_shapes attribute
+[590: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[591: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 590] no _output_shapes attribute
+[592: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[593: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 592] no _output_shapes attribute
+[594: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[595: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 594] no _output_shapes attribute
+[596: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[597: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 596] no _output_shapes attribute
+[598: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[599: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 598] no _output_shapes attribute
+[600: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[601: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 600] no _output_shapes attribute
+[602: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[603: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 602] no _output_shapes attribute
+[604: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[605: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 604] no _output_shapes attribute
+[606: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[607: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 606] no _output_shapes attribute
+[608: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[609: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 608] no _output_shapes attribute
+[610: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[611: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 610] no _output_shapes attribute
+[612: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[613: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 612] no _output_shapes attribute
+[614: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[615: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 614] no _output_shapes attribute
+[616: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[617: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 616] no _output_shapes attribute
+[618: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[619: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 618] no _output_shapes attribute
+[620: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[621: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 620] no _output_shapes attribute
+[622: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[623: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 622] no _output_shapes attribute
+[624: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[625: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 624] no _output_shapes attribute
+[626: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[627: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 626] no _output_shapes attribute
+[628: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[629: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 628] no _output_shapes attribute
+[630: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[631: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 630] no _output_shapes attribute
+[632: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[633: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 632] no _output_shapes attribute
+[634: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[635: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 634] no _output_shapes attribute
+[636: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[637: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 636] no _output_shapes attribute
+[638: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[639: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 638] no _output_shapes attribute
+[640: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[641: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 640] no _output_shapes attribute
+[642: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[643: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 642] no _output_shapes attribute
+[644: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[645: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 644] no _output_shapes attribute
+[646: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[647: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 646] no _output_shapes attribute
+[648: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[649: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 648] no _output_shapes attribute
+[650: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[651: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 650] no _output_shapes attribute
+[652: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[653: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 652] no _output_shapes attribute
+[654: VariableV2: /job:localhost/replica:0/task:0/device:CPU:0]
+[655: IsVariableInitialized: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, VariableV2, 654] no _output_shapes attribute
+[656: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[657: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 656] no _output_shapes attribute
+[658: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[659: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 658] no _output_shapes attribute
+[660: VariableV2: /job:localhost/replica:0/task:0/device:GPU:0]
+[661: IsVariableInitialized: /job:localhost/replica:0/task:0/device:GPU:0]
+[no, 0, VariableV2, 660] no _output_shapes attribute
+[662: VariableV2: /job:localhost/replica:0/task:0/device:CPU:0]
+[663: IsVariableInitialized: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, VariableV2, 662] no _output_shapes attribute
+[664: Pack: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, IsVariableInitialized, 663] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 661] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 659] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 657] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 655] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 653] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 651] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 649] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 647] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 645] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 643] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 641] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 639] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 637] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 635] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 633] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 631] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 629] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 627] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 625] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 623] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 621] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 619] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 617] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 615] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 613] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 611] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 609] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 607] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 605] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 603] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 601] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 599] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 597] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 595] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 593] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 591] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 589] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 587] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 585] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 583] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 581] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 579] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 577] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 575] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 573] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 571] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 569] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 567] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 565] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 563] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 561] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 559] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 557] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 555] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 553] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 551] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 549] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 547] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 545] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 543] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 541] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 539] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 537] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 535] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 533] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 531] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 529] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 527] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 525] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 523] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 521] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 519] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 517] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 515] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 513] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 511] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 509] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 507] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 505] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 503] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 501] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 499] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 497] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 495] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 493] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 491] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 489] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 487] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 485] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 483] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 481] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 479] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 477] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 475] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 473] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 471] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 469] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 467] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 465] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 463] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 461] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 459] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 457] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 455] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 453] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 451] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 449] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 447] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 445] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 443] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 441] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 439] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 437] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 435] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 433] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 431] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 429] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 427] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 425] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 423] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 421] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 419] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 417] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 415] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 413] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 411] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 409] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 407] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 405] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 403] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 401] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 399] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 397] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 395] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 393] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 391] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 389] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 387] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 385] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 383] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 381] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 379] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 377] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 375] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 373] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 371] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 369] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 367] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 365] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 363] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 361] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 359] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 357] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 355] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 353] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 351] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 349] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 347] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 345] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 343] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 341] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 339] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 337] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 335] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 333] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 331] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 329] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 327] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 325] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 323] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 321] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 319] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 317] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 315] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 313] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 311] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 309] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 307] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 305] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 303] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 301] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 299] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 297] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 295] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 293] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 291] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 289] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 287] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 285] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 283] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 281] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 279] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 277] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 275] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 273] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 271] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 269] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 267] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 265] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 263] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 261] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 259] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 257] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 255] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 253] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 251] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 249] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 247] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 245] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 243] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 241] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 239] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 237] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 235] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 233] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 231] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 229] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 227] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 225] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 223] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 221] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 219] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 217] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 215] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 213] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 211] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 209] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 207] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 205] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 203] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 201] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 199] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 197] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 195] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 193] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 191] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 189] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 187] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 185] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 183] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 181] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 179] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 177] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 175] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 173] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 171] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 169] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 167] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 165] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 163] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 161] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 159] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 157] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 155] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 153] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 151] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 149] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 147] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 145] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 143] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 141] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 139] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 137] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 135] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 133] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 131] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 129] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 127] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 125] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 123] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 121] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 119] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 117] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 115] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 113] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 111] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 109] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 107] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 105] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 103] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 101] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 99] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 97] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 95] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 93] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 91] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 89] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 87] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 85] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 83] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 81] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 79] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 77] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 75] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 73] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 71] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 69] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 67] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 65] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 63] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 61] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 59] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 57] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 55] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 53] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 51] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 49] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 47] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 45] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 43] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 41] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 39] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 37] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 35] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 33] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 31] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 29] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 27] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 25] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 23] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 21] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 19] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 17] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 15] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 13] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 11] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 9] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 7] no _output_shapes attribute
+[no, 0, IsVariableInitialized, 5] no _output_shapes attribute
+[665: LogicalNot: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, Pack, 664] no _output_shapes attribute
+[666: Identity: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, LogicalNot, 665] no _output_shapes attribute
+[667: Where: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, Identity, 666] no _output_shapes attribute
+[668: Squeeze: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, Where, 667] no _output_shapes attribute
+[669: Const: /job:localhost/replica:0/task:0/device:CPU:0]
+[670: Identity: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, Const, 669] no _output_shapes attribute
+[671: Gather: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, Identity, 670] no _output_shapes attribute
+[no, 0, Squeeze, 668] no _output_shapes attribute
+[672: ConcatV2: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, Gather, 671] no _output_shapes attribute
+[no, 0, Const, 3] no _output_shapes attribute
+[no, 0, Const, 2] no _output_shapes attribute
+[673: _Retval: /job:localhost/replica:0/task:0/device:CPU:0]
+[no, 0, ConcatV2, 672] no _output_shapes attribute

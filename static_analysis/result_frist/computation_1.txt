@@ -1,0 +1,113 @@
+[2: Const: /job:localhost/replica:0/task:0/gpu:0]
+[3: Const: /job:localhost/replica:0/task:0/gpu:0]
+[4: Const: /job:localhost/replica:0/task:0/gpu:0]
+[5: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[6: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, VariableV2, 5] 10, 
+[7: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[8: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, VariableV2, 7] 1024, 10, 
+[9: Const: /job:localhost/replica:0/task:0/gpu:0]
+[10: Const: /job:localhost/replica:0/task:0/gpu:0]
+[11: Sub: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Const, 9] 
+[input, 1, Const, 10] 
+[12: Const: /job:localhost/replica:0/task:0/gpu:0]
+[13: RandomUniform: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Const, 12] 2, 
+[14: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, RandomUniform, 13] 50, 1024, 
+[input, 1, Sub, 11] 
+[15: Add: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Mul, 14] 50, 1024, 
+[input, 1, Const, 10] 
+[16: Add: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, _Arg, 56] no _output_shapes attribute
+[input, 0, Add, 15] 50, 1024, 
+[17: Floor: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Add, 16] 
+[18: Const: /job:localhost/replica:0/task:0/gpu:0]
+[19: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[20: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, VariableV2, 19] 1024, 
+[21: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[22: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, VariableV2, 21] 3136, 1024, 
+[23: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[24: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, VariableV2, 23] 64, 
+[25: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[26: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, VariableV2, 25] 5, 5, 32, 64, 
+[27: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[28: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, VariableV2, 27] 32, 
+[29: VariableV2: /job:localhost/replica:0/task:0/gpu:0]
+[30: Identity: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, VariableV2, 29] 5, 5, 1, 32, 
+[31: Const: /job:localhost/replica:0/task:0/gpu:0]
+[32: ArgMax: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, _Arg, 55] no _output_shapes attribute
+[input, 0, Const, 3] 
+[33: Reshape: /job:localhost/replica:0/task:0/gpu:0]
+[no, 0, _Arg, 54] no _output_shapes attribute
+[input, 0, Const, 31] 4, 
+[34: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Reshape, 33] 50, 28, 28, 1, 
+[input, 1, Identity, 30] 5, 5, 1, 32, 
+[35: Add: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Conv2D, 34] 50, 28, 28, 32, 
+[input, 1, Identity, 28] 32, 
+[36: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Add, 35] 50, 28, 28, 32, 
+[37: MaxPool: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Relu, 36] 50, 28, 28, 32, 
+[38: Conv2D: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, MaxPool, 37] 50, 14, 14, 32, 
+[input, 1, Identity, 26] 5, 5, 32, 64, 
+[39: Add: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Conv2D, 38] 50, 14, 14, 64, 
+[input, 1, Identity, 24] 64, 
+[40: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Add, 39] 50, 14, 14, 64, 
+[41: MaxPool: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Relu, 40] 50, 14, 14, 64, 
+[42: Reshape: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, MaxPool, 41] 50, 7, 7, 64, 
+[input, 1, Const, 18] 2, 
+[43: MatMul: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Reshape, 42] 50, 3136, 
+[input, 1, Identity, 22] 3136, 1024, 
+[44: Add: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, MatMul, 43] 50, 1024, 
+[input, 1, Identity, 20] 1024, 
+[45: Relu: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Add, 44] 50, 1024, 
+[46: RealDiv: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Relu, 45] 50, 1024, 
+[no, 0, _Arg, 56] no _output_shapes attribute
+[47: Mul: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, RealDiv, 46] 
+[input, 1, Floor, 17] 
+[48: MatMul: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Mul, 47] 50, 1024, 
+[input, 1, Identity, 8] 1024, 10, 
+[49: Add: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, MatMul, 48] 50, 10, 
+[input, 1, Identity, 6] 10, 
+[50: ArgMax: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Add, 49] 50, 10, 
+[input, 1, Const, 4] 
+[51: Equal: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, ArgMax, 50] 50, 
+[input, 1, ArgMax, 32] 50, 
+[52: Cast: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Equal, 51] 50, 
+[53: Mean: /job:localhost/replica:0/task:0/gpu:0]
+[input, 0, Cast, 52] 50, 
+[input, 1, Const, 2] 1, 
+[54: _Arg: /job:localhost/replica:0/task:0/cpu:0]
+[55: _Arg: /job:localhost/replica:0/task:0/cpu:0]
+[56: _Arg: /job:localhost/replica:0/task:0/cpu:0]
+[57: _Retval: /job:localhost/replica:0/task:0/cpu:0]
+[input, 0, Mean, 53] 
